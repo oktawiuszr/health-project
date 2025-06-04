@@ -1,0 +1,151 @@
+,Year,Disorder,DALYs,Region,Source
+0,1990,Depressive disorders,618.50714,South-East Asia Region (WHO),WHO
+1,1991,Depressive disorders,637.63947,South-East Asia Region (WHO),WHO
+2,1992,Depressive disorders,654.2293,South-East Asia Region (WHO),WHO
+3,1993,Depressive disorders,667.46826,South-East Asia Region (WHO),WHO
+4,1994,Depressive disorders,676.4088,South-East Asia Region (WHO),WHO
+5,1995,Depressive disorders,679.95557,South-East Asia Region (WHO),WHO
+6,1996,Depressive disorders,678.8664,South-East Asia Region (WHO),WHO
+7,1997,Depressive disorders,675.4045,South-East Asia Region (WHO),WHO
+8,1998,Depressive disorders,671.26935,South-East Asia Region (WHO),WHO
+9,1999,Depressive disorders,667.88226,South-East Asia Region (WHO),WHO
+10,2000,Depressive disorders,666.7866,South-East Asia Region (WHO),WHO
+11,2001,Depressive disorders,669.28503,South-East Asia Region (WHO),WHO
+12,2002,Depressive disorders,674.3929,South-East Asia Region (WHO),WHO
+13,2003,Depressive disorders,680.3439,South-East Asia Region (WHO),WHO
+14,2004,Depressive disorders,685.2559,South-East Asia Region (WHO),WHO
+15,2005,Depressive disorders,687.0101,South-East Asia Region (WHO),WHO
+16,2006,Depressive disorders,675.6955,South-East Asia Region (WHO),WHO
+17,2007,Depressive disorders,649.2566,South-East Asia Region (WHO),WHO
+18,2008,Depressive disorders,617.7338,South-East Asia Region (WHO),WHO
+19,2009,Depressive disorders,591.1133,South-East Asia Region (WHO),WHO
+20,2010,Depressive disorders,579.1544,South-East Asia Region (WHO),WHO
+21,2011,Depressive disorders,578.3396,South-East Asia Region (WHO),WHO
+22,2012,Depressive disorders,578.2816,South-East Asia Region (WHO),WHO
+23,2013,Depressive disorders,578.6654,South-East Asia Region (WHO),WHO
+24,2014,Depressive disorders,579.1935,South-East Asia Region (WHO),WHO
+25,2015,Depressive disorders,579.4827,South-East Asia Region (WHO),WHO
+26,2016,Depressive disorders,579.50604,South-East Asia Region (WHO),WHO
+27,2017,Depressive disorders,579.392,South-East Asia Region (WHO),WHO
+28,2018,Depressive disorders,578.6019,South-East Asia Region (WHO),WHO
+29,2019,Depressive disorders,576.89874,South-East Asia Region (WHO),WHO
+30,1990,Schizophrenia,176.70047,South-East Asia Region (WHO),WHO
+31,1991,Schizophrenia,176.94408,South-East Asia Region (WHO),WHO
+32,1992,Schizophrenia,177.18227,South-East Asia Region (WHO),WHO
+33,1993,Schizophrenia,177.3186,South-East Asia Region (WHO),WHO
+34,1994,Schizophrenia,177.46213,South-East Asia Region (WHO),WHO
+35,1995,Schizophrenia,177.5324,South-East Asia Region (WHO),WHO
+36,1996,Schizophrenia,177.53784,South-East Asia Region (WHO),WHO
+37,1997,Schizophrenia,177.50362,South-East Asia Region (WHO),WHO
+38,1998,Schizophrenia,177.42961,South-East Asia Region (WHO),WHO
+39,1999,Schizophrenia,177.42435,South-East Asia Region (WHO),WHO
+40,2000,Schizophrenia,177.32942,South-East Asia Region (WHO),WHO
+41,2001,Schizophrenia,177.4209,South-East Asia Region (WHO),WHO
+42,2002,Schizophrenia,177.57385,South-East Asia Region (WHO),WHO
+43,2003,Schizophrenia,177.74925,South-East Asia Region (WHO),WHO
+44,2004,Schizophrenia,177.85237,South-East Asia Region (WHO),WHO
+45,2005,Schizophrenia,177.95068,South-East Asia Region (WHO),WHO
+46,2006,Schizophrenia,178.01978,South-East Asia Region (WHO),WHO
+47,2007,Schizophrenia,178.12698,South-East Asia Region (WHO),WHO
+48,2008,Schizophrenia,178.24475,South-East Asia Region (WHO),WHO
+49,2009,Schizophrenia,178.33275,South-East Asia Region (WHO),WHO
+50,2010,Schizophrenia,178.44894,South-East Asia Region (WHO),WHO
+51,2011,Schizophrenia,178.82915,South-East Asia Region (WHO),WHO
+52,2012,Schizophrenia,179.57443,South-East Asia Region (WHO),WHO
+53,2013,Schizophrenia,180.52377,South-East Asia Region (WHO),WHO
+54,2014,Schizophrenia,181.34406,South-East Asia Region (WHO),WHO
+55,2015,Schizophrenia,181.84694,South-East Asia Region (WHO),WHO
+56,2016,Schizophrenia,182.08945,South-East Asia Region (WHO),WHO
+57,2017,Schizophrenia,182.25883,South-East Asia Region (WHO),WHO
+58,2018,Schizophrenia,181.97154,South-East Asia Region (WHO),WHO
+59,2019,Schizophrenia,181.39734,South-East Asia Region (WHO),WHO
+60,1990,Bipolar disorder,73.927986,South-East Asia Region (WHO),WHO
+61,1991,Bipolar disorder,73.93146,South-East Asia Region (WHO),WHO
+62,1992,Bipolar disorder,73.93758,South-East Asia Region (WHO),WHO
+63,1993,Bipolar disorder,73.92544,South-East Asia Region (WHO),WHO
+64,1994,Bipolar disorder,73.913864,South-East Asia Region (WHO),WHO
+65,1995,Bipolar disorder,73.92421,South-East Asia Region (WHO),WHO
+66,1996,Bipolar disorder,73.95083,South-East Asia Region (WHO),WHO
+67,1997,Bipolar disorder,73.97245,South-East Asia Region (WHO),WHO
+68,1998,Bipolar disorder,73.998024,South-East Asia Region (WHO),WHO
+69,1999,Bipolar disorder,74.01651,South-East Asia Region (WHO),WHO
+70,2000,Bipolar disorder,74.02737,South-East Asia Region (WHO),WHO
+71,2001,Bipolar disorder,74.03639,South-East Asia Region (WHO),WHO
+72,2002,Bipolar disorder,74.03884,South-East Asia Region (WHO),WHO
+73,2003,Bipolar disorder,74.08681,South-East Asia Region (WHO),WHO
+74,2004,Bipolar disorder,74.12944,South-East Asia Region (WHO),WHO
+75,2005,Bipolar disorder,74.15119,South-East Asia Region (WHO),WHO
+76,2006,Bipolar disorder,74.19396,South-East Asia Region (WHO),WHO
+77,2007,Bipolar disorder,74.23308,South-East Asia Region (WHO),WHO
+78,2008,Bipolar disorder,74.27049,South-East Asia Region (WHO),WHO
+79,2009,Bipolar disorder,74.329475,South-East Asia Region (WHO),WHO
+80,2010,Bipolar disorder,74.338264,South-East Asia Region (WHO),WHO
+81,2011,Bipolar disorder,74.375145,South-East Asia Region (WHO),WHO
+82,2012,Bipolar disorder,74.36122,South-East Asia Region (WHO),WHO
+83,2013,Bipolar disorder,74.4168,South-East Asia Region (WHO),WHO
+84,2014,Bipolar disorder,74.430145,South-East Asia Region (WHO),WHO
+85,2015,Bipolar disorder,74.414406,South-East Asia Region (WHO),WHO
+86,2016,Bipolar disorder,74.4467,South-East Asia Region (WHO),WHO
+87,2017,Bipolar disorder,74.48566,South-East Asia Region (WHO),WHO
+88,2018,Bipolar disorder,74.48331,South-East Asia Region (WHO),WHO
+89,2019,Bipolar disorder,74.50426,South-East Asia Region (WHO),WHO
+90,1990,Eating disorders,18.00684,South-East Asia Region (WHO),WHO
+91,1991,Eating disorders,18.135054,South-East Asia Region (WHO),WHO
+92,1992,Eating disorders,18.274866,South-East Asia Region (WHO),WHO
+93,1993,Eating disorders,18.408749,South-East Asia Region (WHO),WHO
+94,1994,Eating disorders,18.534794,South-East Asia Region (WHO),WHO
+95,1995,Eating disorders,18.652414,South-East Asia Region (WHO),WHO
+96,1996,Eating disorders,18.76917,South-East Asia Region (WHO),WHO
+97,1997,Eating disorders,18.891306,South-East Asia Region (WHO),WHO
+98,1998,Eating disorders,19.025452,South-East Asia Region (WHO),WHO
+99,1999,Eating disorders,19.178762,South-East Asia Region (WHO),WHO
+100,2000,Eating disorders,19.338224,South-East Asia Region (WHO),WHO
+101,2001,Eating disorders,19.506205,South-East Asia Region (WHO),WHO
+102,2002,Eating disorders,19.695173,South-East Asia Region (WHO),WHO
+103,2003,Eating disorders,19.913712,South-East Asia Region (WHO),WHO
+104,2004,Eating disorders,20.144907,South-East Asia Region (WHO),WHO
+105,2005,Eating disorders,20.401701,South-East Asia Region (WHO),WHO
+106,2006,Eating disorders,20.678856,South-East Asia Region (WHO),WHO
+107,2007,Eating disorders,21.03675,South-East Asia Region (WHO),WHO
+108,2008,Eating disorders,21.43104,South-East Asia Region (WHO),WHO
+109,2009,Eating disorders,21.820024,South-East Asia Region (WHO),WHO
+110,2010,Eating disorders,22.216988,South-East Asia Region (WHO),WHO
+111,2011,Eating disorders,22.619978,South-East Asia Region (WHO),WHO
+112,2012,Eating disorders,23.057545,South-East Asia Region (WHO),WHO
+113,2013,Eating disorders,23.508615,South-East Asia Region (WHO),WHO
+114,2014,Eating disorders,23.992653,South-East Asia Region (WHO),WHO
+115,2015,Eating disorders,24.475546,South-East Asia Region (WHO),WHO
+116,2016,Eating disorders,25.093712,South-East Asia Region (WHO),WHO
+117,2017,Eating disorders,25.653423,South-East Asia Region (WHO),WHO
+118,2018,Eating disorders,26.051815,South-East Asia Region (WHO),WHO
+119,2019,Eating disorders,26.405592,South-East Asia Region (WHO),WHO
+120,1990,Anxiety disorders,292.12106,South-East Asia Region (WHO),WHO
+121,1991,Anxiety disorders,291.07663,South-East Asia Region (WHO),WHO
+122,1992,Anxiety disorders,289.85498,South-East Asia Region (WHO),WHO
+123,1993,Anxiety disorders,288.51886,South-East Asia Region (WHO),WHO
+124,1994,Anxiety disorders,287.15848,South-East Asia Region (WHO),WHO
+125,1995,Anxiety disorders,285.81244,South-East Asia Region (WHO),WHO
+126,1996,Anxiety disorders,283.31363,South-East Asia Region (WHO),WHO
+127,1997,Anxiety disorders,279.27994,South-East Asia Region (WHO),WHO
+128,1998,Anxiety disorders,274.89908,South-East Asia Region (WHO),WHO
+129,1999,Anxiety disorders,271.34964,South-East Asia Region (WHO),WHO
+130,2000,Anxiety disorders,269.94843,South-East Asia Region (WHO),WHO
+131,2001,Anxiety disorders,270.40125,South-East Asia Region (WHO),WHO
+132,2002,Anxiety disorders,271.49915,South-East Asia Region (WHO),WHO
+133,2003,Anxiety disorders,272.87997,South-East Asia Region (WHO),WHO
+134,2004,Anxiety disorders,274.35492,South-East Asia Region (WHO),WHO
+135,2005,Anxiety disorders,275.48737,South-East Asia Region (WHO),WHO
+136,2006,Anxiety disorders,277.7092,South-East Asia Region (WHO),WHO
+137,2007,Anxiety disorders,281.79636,South-East Asia Region (WHO),WHO
+138,2008,Anxiety disorders,286.51672,South-East Asia Region (WHO),WHO
+139,2009,Anxiety disorders,290.76212,South-East Asia Region (WHO),WHO
+140,2010,Anxiety disorders,293.25247,South-East Asia Region (WHO),WHO
+141,2011,Anxiety disorders,294.56378,South-East Asia Region (WHO),WHO
+142,2012,Anxiety disorders,295.836,South-East Asia Region (WHO),WHO
+143,2013,Anxiety disorders,297.00745,South-East Asia Region (WHO),WHO
+144,2014,Anxiety disorders,297.97498,South-East Asia Region (WHO),WHO
+145,2015,Anxiety disorders,298.71042,South-East Asia Region (WHO),WHO
+146,2016,Anxiety disorders,299.43008,South-East Asia Region (WHO),WHO
+147,2017,Anxiety disorders,299.78677,South-East Asia Region (WHO),WHO
+148,2018,Anxiety disorders,298.1771,South-East Asia Region (WHO),WHO
+149,2019,Anxiety disorders,294.39355,South-East Asia Region (WHO),WHO

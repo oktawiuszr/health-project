@@ -1,0 +1,151 @@
+,Year,Disorder,DALYs,Region,Source
+0,1990,Depressive disorders,520.8948635714286,Western Pacific Region,Average
+1,1991,Depressive disorders,521.4753885714287,Western Pacific Region,Average
+2,1992,Depressive disorders,521.7742735714286,Western Pacific Region,Average
+3,1993,Depressive disorders,521.7777964285714,Western Pacific Region,Average
+4,1994,Depressive disorders,521.5197871428571,Western Pacific Region,Average
+5,1995,Depressive disorders,521.1670457142857,Western Pacific Region,Average
+6,1996,Depressive disorders,519.7134399999999,Western Pacific Region,Average
+7,1997,Depressive disorders,517.3850092857143,Western Pacific Region,Average
+8,1998,Depressive disorders,514.6405207142858,Western Pacific Region,Average
+9,1999,Depressive disorders,512.2604707142857,Western Pacific Region,Average
+10,2000,Depressive disorders,510.8245142857142,Western Pacific Region,Average
+11,2001,Depressive disorders,510.7113864285714,Western Pacific Region,Average
+12,2002,Depressive disorders,511.15252642857143,Western Pacific Region,Average
+13,2003,Depressive disorders,511.6079264285714,Western Pacific Region,Average
+14,2004,Depressive disorders,511.7496471428572,Western Pacific Region,Average
+15,2005,Depressive disorders,511.0935278571428,Western Pacific Region,Average
+16,2006,Depressive disorders,509.0708471428572,Western Pacific Region,Average
+17,2007,Depressive disorders,506.12019928571425,Western Pacific Region,Average
+18,2008,Depressive disorders,502.8281085714286,Western Pacific Region,Average
+19,2009,Depressive disorders,500.11220142857144,Western Pacific Region,Average
+20,2010,Depressive disorders,498.3944635714286,Western Pacific Region,Average
+21,2011,Depressive disorders,498.14491642857143,Western Pacific Region,Average
+22,2012,Depressive disorders,498.59105357142863,Western Pacific Region,Average
+23,2013,Depressive disorders,499.38001214285714,Western Pacific Region,Average
+24,2014,Depressive disorders,500.0594500000001,Western Pacific Region,Average
+25,2015,Depressive disorders,500.17128714285707,Western Pacific Region,Average
+26,2016,Depressive disorders,498.80766357142863,Western Pacific Region,Average
+27,2017,Depressive disorders,497.42876642857146,Western Pacific Region,Average
+28,2018,Depressive disorders,497.53752714285713,Western Pacific Region,Average
+29,2019,Depressive disorders,498.0351057142857,Western Pacific Region,Average
+30,1990,Schizophrenia,191.2898242857143,Western Pacific Region,Average
+31,1991,Schizophrenia,191.6036392857143,Western Pacific Region,Average
+32,1992,Schizophrenia,191.92997642857145,Western Pacific Region,Average
+33,1993,Schizophrenia,192.1581557142857,Western Pacific Region,Average
+34,1994,Schizophrenia,192.3192092857143,Western Pacific Region,Average
+35,1995,Schizophrenia,192.46748571428571,Western Pacific Region,Average
+36,1996,Schizophrenia,192.51506357142856,Western Pacific Region,Average
+37,1997,Schizophrenia,192.58462285714288,Western Pacific Region,Average
+38,1998,Schizophrenia,192.5700057142857,Western Pacific Region,Average
+39,1999,Schizophrenia,192.5535485714286,Western Pacific Region,Average
+40,2000,Schizophrenia,192.6358942857143,Western Pacific Region,Average
+41,2001,Schizophrenia,192.8002792857143,Western Pacific Region,Average
+42,2002,Schizophrenia,193.10757785714287,Western Pacific Region,Average
+43,2003,Schizophrenia,193.5246371428572,Western Pacific Region,Average
+44,2004,Schizophrenia,193.7651192857143,Western Pacific Region,Average
+45,2005,Schizophrenia,193.98704285714282,Western Pacific Region,Average
+46,2006,Schizophrenia,194.13016214285716,Western Pacific Region,Average
+47,2007,Schizophrenia,194.3600335714286,Western Pacific Region,Average
+48,2008,Schizophrenia,194.55786642857143,Western Pacific Region,Average
+49,2009,Schizophrenia,194.737205,Western Pacific Region,Average
+50,2010,Schizophrenia,194.88311642857144,Western Pacific Region,Average
+51,2011,Schizophrenia,195.1068914285714,Western Pacific Region,Average
+52,2012,Schizophrenia,195.44974,Western Pacific Region,Average
+53,2013,Schizophrenia,195.85133214285716,Western Pacific Region,Average
+54,2014,Schizophrenia,196.22986714285716,Western Pacific Region,Average
+55,2015,Schizophrenia,196.45702214285714,Western Pacific Region,Average
+56,2016,Schizophrenia,196.54194285714283,Western Pacific Region,Average
+57,2017,Schizophrenia,196.5074678571429,Western Pacific Region,Average
+58,2018,Schizophrenia,196.63794785714285,Western Pacific Region,Average
+59,2019,Schizophrenia,196.9195021428571,Western Pacific Region,Average
+60,1990,Bipolar disorder,109.13722235714286,Western Pacific Region,Average
+61,1991,Bipolar disorder,109.12814257142858,Western Pacific Region,Average
+62,1992,Bipolar disorder,109.0936092142857,Western Pacific Region,Average
+63,1993,Bipolar disorder,109.1312847142857,Western Pacific Region,Average
+64,1994,Bipolar disorder,109.15176135714286,Western Pacific Region,Average
+65,1995,Bipolar disorder,109.1538385,Western Pacific Region,Average
+66,1996,Bipolar disorder,109.15586064285715,Western Pacific Region,Average
+67,1997,Bipolar disorder,109.15348164285713,Western Pacific Region,Average
+68,1998,Bipolar disorder,109.18148292857144,Western Pacific Region,Average
+69,1999,Bipolar disorder,109.20440657142858,Western Pacific Region,Average
+70,2000,Bipolar disorder,109.20553178571429,Western Pacific Region,Average
+71,2001,Bipolar disorder,109.34991292857144,Western Pacific Region,Average
+72,2002,Bipolar disorder,109.57594407142858,Western Pacific Region,Average
+73,2003,Bipolar disorder,109.918799,Western Pacific Region,Average
+74,2004,Bipolar disorder,110.1777617142857,Western Pacific Region,Average
+75,2005,Bipolar disorder,110.30376578571428,Western Pacific Region,Average
+76,2006,Bipolar disorder,110.27499092857143,Western Pacific Region,Average
+77,2007,Bipolar disorder,110.23696928571428,Western Pacific Region,Average
+78,2008,Bipolar disorder,110.13800542857143,Western Pacific Region,Average
+79,2009,Bipolar disorder,110.025091,Western Pacific Region,Average
+80,2010,Bipolar disorder,110.04248471428573,Western Pacific Region,Average
+81,2011,Bipolar disorder,110.01558864285714,Western Pacific Region,Average
+82,2012,Bipolar disorder,110.00349392857143,Western Pacific Region,Average
+83,2013,Bipolar disorder,110.01566585714285,Western Pacific Region,Average
+84,2014,Bipolar disorder,109.9903944285714,Western Pacific Region,Average
+85,2015,Bipolar disorder,109.98174821428572,Western Pacific Region,Average
+86,2016,Bipolar disorder,109.98661700000001,Western Pacific Region,Average
+87,2017,Bipolar disorder,109.9692747142857,Western Pacific Region,Average
+88,2018,Bipolar disorder,109.97418978571429,Western Pacific Region,Average
+89,2019,Bipolar disorder,109.9788297857143,Western Pacific Region,Average
+90,1990,Eating disorders,41.814330857142856,Western Pacific Region,Average
+91,1991,Eating disorders,41.946592214285715,Western Pacific Region,Average
+92,1992,Eating disorders,42.07905035714286,Western Pacific Region,Average
+93,1993,Eating disorders,42.23786478571429,Western Pacific Region,Average
+94,1994,Eating disorders,42.37806171428571,Western Pacific Region,Average
+95,1995,Eating disorders,42.58614696428571,Western Pacific Region,Average
+96,1996,Eating disorders,42.86212971428571,Western Pacific Region,Average
+97,1997,Eating disorders,43.21248878571429,Western Pacific Region,Average
+98,1998,Eating disorders,43.60471221428571,Western Pacific Region,Average
+99,1999,Eating disorders,44.03335621428571,Western Pacific Region,Average
+100,2000,Eating disorders,44.40321371428571,Western Pacific Region,Average
+101,2001,Eating disorders,44.889502785714285,Western Pacific Region,Average
+102,2002,Eating disorders,45.612411214285714,Western Pacific Region,Average
+103,2003,Eating disorders,46.45160571428572,Western Pacific Region,Average
+104,2004,Eating disorders,47.21351707142857,Western Pacific Region,Average
+105,2005,Eating disorders,47.80952685714286,Western Pacific Region,Average
+106,2006,Eating disorders,48.19290128571429,Western Pacific Region,Average
+107,2007,Eating disorders,48.60434157142856,Western Pacific Region,Average
+108,2008,Eating disorders,49.05290092857143,Western Pacific Region,Average
+109,2009,Eating disorders,49.45744728571428,Western Pacific Region,Average
+110,2010,Eating disorders,49.88045357142857,Western Pacific Region,Average
+111,2011,Eating disorders,50.269085214285724,Western Pacific Region,Average
+112,2012,Eating disorders,50.67292742857143,Western Pacific Region,Average
+113,2013,Eating disorders,51.086558428571436,Western Pacific Region,Average
+114,2014,Eating disorders,51.51682692857144,Western Pacific Region,Average
+115,2015,Eating disorders,51.91573842857142,Western Pacific Region,Average
+116,2016,Eating disorders,52.50341100000001,Western Pacific Region,Average
+117,2017,Eating disorders,53.08080792857142,Western Pacific Region,Average
+118,2018,Eating disorders,53.41780107142857,Western Pacific Region,Average
+119,2019,Eating disorders,53.720499428571436,Western Pacific Region,Average
+120,1990,Anxiety disorders,377.3124935714285,Western Pacific Region,Average
+121,1991,Anxiety disorders,377.83885071428574,Western Pacific Region,Average
+122,1992,Anxiety disorders,378.2855842857143,Western Pacific Region,Average
+123,1993,Anxiety disorders,378.6931407142857,Western Pacific Region,Average
+124,1994,Anxiety disorders,378.8691400000001,Western Pacific Region,Average
+125,1995,Anxiety disorders,378.89777642857143,Western Pacific Region,Average
+126,1996,Anxiety disorders,378.90142714285713,Western Pacific Region,Average
+127,1997,Anxiety disorders,379.183775,Western Pacific Region,Average
+128,1998,Anxiety disorders,379.54112785714284,Western Pacific Region,Average
+129,1999,Anxiety disorders,379.83485500000006,Western Pacific Region,Average
+130,2000,Anxiety disorders,379.9183878571429,Western Pacific Region,Average
+131,2001,Anxiety disorders,379.5239392857143,Western Pacific Region,Average
+132,2002,Anxiety disorders,378.76889428571434,Western Pacific Region,Average
+133,2003,Anxiety disorders,377.91379499999994,Western Pacific Region,Average
+134,2004,Anxiety disorders,377.11527142857136,Western Pacific Region,Average
+135,2005,Anxiety disorders,376.72582571428575,Western Pacific Region,Average
+136,2006,Anxiety disorders,376.676735,Western Pacific Region,Average
+137,2007,Anxiety disorders,376.57486642857145,Western Pacific Region,Average
+138,2008,Anxiety disorders,376.5303885714285,Western Pacific Region,Average
+139,2009,Anxiety disorders,376.5305264285713,Western Pacific Region,Average
+140,2010,Anxiety disorders,376.56654357142855,Western Pacific Region,Average
+141,2011,Anxiety disorders,376.83129285714284,Western Pacific Region,Average
+142,2012,Anxiety disorders,377.1475535714285,Western Pacific Region,Average
+143,2013,Anxiety disorders,377.50849928571427,Western Pacific Region,Average
+144,2014,Anxiety disorders,377.84747,Western Pacific Region,Average
+145,2015,Anxiety disorders,378.25918642857147,Western Pacific Region,Average
+146,2016,Anxiety disorders,380.2860564285715,Western Pacific Region,Average
+147,2017,Anxiety disorders,382.2729314285715,Western Pacific Region,Average
+148,2018,Anxiety disorders,382.60693642857143,Western Pacific Region,Average
+149,2019,Anxiety disorders,382.89509499999997,Western Pacific Region,Average

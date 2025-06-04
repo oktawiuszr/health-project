@@ -1,0 +1,151 @@
+,Year,Disorder,DALYs,Region,Source
+0,1990,Depressive disorders,612.183208275862,Region of the Americas,Average
+1,1991,Depressive disorders,612.2074555172414,Region of the Americas,Average
+2,1992,Depressive disorders,612.3998258620691,Region of the Americas,Average
+3,1993,Depressive disorders,612.86837,Region of the Americas,Average
+4,1994,Depressive disorders,613.4366734482758,Region of the Americas,Average
+5,1995,Depressive disorders,614.266852413793,Region of the Americas,Average
+6,1996,Depressive disorders,615.9653110344829,Region of the Americas,Average
+7,1997,Depressive disorders,618.8390506896552,Region of the Americas,Average
+8,1998,Depressive disorders,621.9899662068965,Region of the Americas,Average
+9,1999,Depressive disorders,624.6502641379311,Region of the Americas,Average
+10,2000,Depressive disorders,625.9502744827587,Region of the Americas,Average
+11,2001,Depressive disorders,626.3325086206897,Region of the Americas,Average
+12,2002,Depressive disorders,626.5725055172413,Region of the Americas,Average
+13,2003,Depressive disorders,626.5994062068966,Region of the Americas,Average
+14,2004,Depressive disorders,626.2905824137931,Region of the Americas,Average
+15,2005,Depressive disorders,625.4954441379311,Region of the Americas,Average
+16,2006,Depressive disorders,622.9498193103449,Region of the Americas,Average
+17,2007,Depressive disorders,618.4988851724137,Region of the Americas,Average
+18,2008,Depressive disorders,613.3367193103447,Region of the Americas,Average
+19,2009,Depressive disorders,608.9667272413793,Region of the Americas,Average
+20,2010,Depressive disorders,606.580642413793,Region of the Americas,Average
+21,2011,Depressive disorders,605.8294303448276,Region of the Americas,Average
+22,2012,Depressive disorders,605.5150248275861,Region of the Americas,Average
+23,2013,Depressive disorders,605.4141365517243,Region of the Americas,Average
+24,2014,Depressive disorders,605.4183196551724,Region of the Americas,Average
+25,2015,Depressive disorders,605.3786786206897,Region of the Americas,Average
+26,2016,Depressive disorders,605.2858531034482,Region of the Americas,Average
+27,2017,Depressive disorders,605.1499203448276,Region of the Americas,Average
+28,2018,Depressive disorders,605.5538313793104,Region of the Americas,Average
+29,2019,Depressive disorders,606.3004265517242,Region of the Americas,Average
+30,1990,Schizophrenia,180.05863586206894,Region of the Americas,Average
+31,1991,Schizophrenia,180.09490413793102,Region of the Americas,Average
+32,1992,Schizophrenia,180.1581610344828,Region of the Americas,Average
+33,1993,Schizophrenia,180.22329689655174,Region of the Americas,Average
+34,1994,Schizophrenia,180.25323448275861,Region of the Americas,Average
+35,1995,Schizophrenia,180.27544241379312,Region of the Americas,Average
+36,1996,Schizophrenia,180.35620793103445,Region of the Americas,Average
+37,1997,Schizophrenia,180.46850379310345,Region of the Americas,Average
+38,1998,Schizophrenia,180.55761896551726,Region of the Americas,Average
+39,1999,Schizophrenia,180.65374517241378,Region of the Americas,Average
+40,2000,Schizophrenia,180.7079972413793,Region of the Americas,Average
+41,2001,Schizophrenia,180.7442679310345,Region of the Americas,Average
+42,2002,Schizophrenia,180.9075675862069,Region of the Americas,Average
+43,2003,Schizophrenia,181.0159251724138,Region of the Americas,Average
+44,2004,Schizophrenia,181.1997593103449,Region of the Americas,Average
+45,2005,Schizophrenia,181.32124310344827,Region of the Americas,Average
+46,2006,Schizophrenia,181.4538548275862,Region of the Americas,Average
+47,2007,Schizophrenia,181.7403913793103,Region of the Americas,Average
+48,2008,Schizophrenia,182.03350413793106,Region of the Americas,Average
+49,2009,Schizophrenia,182.2695413793103,Region of the Americas,Average
+50,2010,Schizophrenia,182.45403413793105,Region of the Americas,Average
+51,2011,Schizophrenia,182.41598103448277,Region of the Americas,Average
+52,2012,Schizophrenia,182.36094551724142,Region of the Americas,Average
+53,2013,Schizophrenia,182.27838586206897,Region of the Americas,Average
+54,2014,Schizophrenia,182.1935575862069,Region of the Americas,Average
+55,2015,Schizophrenia,182.19808965517242,Region of the Americas,Average
+56,2016,Schizophrenia,182.21325827586205,Region of the Americas,Average
+57,2017,Schizophrenia,182.21440827586207,Region of the Americas,Average
+58,2018,Schizophrenia,182.20456862068963,Region of the Americas,Average
+59,2019,Schizophrenia,182.1754355172414,Region of the Americas,Average
+60,1990,Bipolar disorder,191.84230586206894,Region of the Americas,Average
+61,1991,Bipolar disorder,191.81703137931035,Region of the Americas,Average
+62,1992,Bipolar disorder,191.8321155172414,Region of the Americas,Average
+63,1993,Bipolar disorder,191.83207103448277,Region of the Americas,Average
+64,1994,Bipolar disorder,191.86191482758622,Region of the Americas,Average
+65,1995,Bipolar disorder,191.8898237931035,Region of the Americas,Average
+66,1996,Bipolar disorder,191.87224517241376,Region of the Americas,Average
+67,1997,Bipolar disorder,191.87984137931036,Region of the Americas,Average
+68,1998,Bipolar disorder,191.86119,Region of the Americas,Average
+69,1999,Bipolar disorder,191.8525755172414,Region of the Americas,Average
+70,2000,Bipolar disorder,191.85531103448278,Region of the Americas,Average
+71,2001,Bipolar disorder,192.00201999999996,Region of the Americas,Average
+72,2002,Bipolar disorder,192.38830103448277,Region of the Americas,Average
+73,2003,Bipolar disorder,192.84672206896556,Region of the Americas,Average
+74,2004,Bipolar disorder,193.22148517241376,Region of the Americas,Average
+75,2005,Bipolar disorder,193.37573551724137,Region of the Americas,Average
+76,2006,Bipolar disorder,193.40678344827586,Region of the Americas,Average
+77,2007,Bipolar disorder,193.4239265517241,Region of the Americas,Average
+78,2008,Bipolar disorder,193.41491655172408,Region of the Americas,Average
+79,2009,Bipolar disorder,193.43453724137933,Region of the Americas,Average
+80,2010,Bipolar disorder,193.46144551724134,Region of the Americas,Average
+81,2011,Bipolar disorder,193.4520565517241,Region of the Americas,Average
+82,2012,Bipolar disorder,193.37418068965516,Region of the Americas,Average
+83,2013,Bipolar disorder,193.38680827586202,Region of the Americas,Average
+84,2014,Bipolar disorder,193.40090655172412,Region of the Americas,Average
+85,2015,Bipolar disorder,193.34168965517244,Region of the Americas,Average
+86,2016,Bipolar disorder,193.31586413793104,Region of the Americas,Average
+87,2017,Bipolar disorder,193.28631137931035,Region of the Americas,Average
+88,2018,Bipolar disorder,193.24492896551726,Region of the Americas,Average
+89,2019,Bipolar disorder,193.2257751724138,Region of the Americas,Average
+90,1990,Eating disorders,45.8557901724138,Region of the Americas,Average
+91,1991,Eating disorders,46.00695682758621,Region of the Americas,Average
+92,1992,Eating disorders,46.1879525862069,Region of the Americas,Average
+93,1993,Eating disorders,46.35324072413794,Region of the Americas,Average
+94,1994,Eating disorders,46.54158765517241,Region of the Americas,Average
+95,1995,Eating disorders,46.678473068965516,Region of the Americas,Average
+96,1996,Eating disorders,46.81353727586207,Region of the Americas,Average
+97,1997,Eating disorders,47.03098424137931,Region of the Americas,Average
+98,1998,Eating disorders,47.22767796551725,Region of the Americas,Average
+99,1999,Eating disorders,47.43913934482758,Region of the Americas,Average
+100,2000,Eating disorders,47.6023158275862,Region of the Americas,Average
+101,2001,Eating disorders,47.77056510344826,Region of the Americas,Average
+102,2002,Eating disorders,47.97964803448276,Region of the Americas,Average
+103,2003,Eating disorders,48.199849758620694,Region of the Americas,Average
+104,2004,Eating disorders,48.441465655172415,Region of the Americas,Average
+105,2005,Eating disorders,48.6912671724138,Region of the Americas,Average
+106,2006,Eating disorders,49.01059286206896,Region of the Americas,Average
+107,2007,Eating disorders,49.433011758620694,Region of the Americas,Average
+108,2008,Eating disorders,49.92618844827585,Region of the Americas,Average
+109,2009,Eating disorders,50.396379793103456,Region of the Americas,Average
+110,2010,Eating disorders,50.77644037931034,Region of the Americas,Average
+111,2011,Eating disorders,51.07127279310345,Region of the Americas,Average
+112,2012,Eating disorders,51.33389293103448,Region of the Americas,Average
+113,2013,Eating disorders,51.57214024137931,Region of the Americas,Average
+114,2014,Eating disorders,51.807920275862074,Region of the Americas,Average
+115,2015,Eating disorders,52.083587551724136,Region of the Americas,Average
+116,2016,Eating disorders,52.51486889655172,Region of the Americas,Average
+117,2017,Eating disorders,52.87255503448276,Region of the Americas,Average
+118,2018,Eating disorders,53.04890851724139,Region of the Americas,Average
+119,2019,Eating disorders,53.18242800000001,Region of the Americas,Average
+120,1990,Anxiety disorders,429.26204310344826,Region of the Americas,Average
+121,1991,Anxiety disorders,429.19327999999996,Region of the Americas,Average
+122,1992,Anxiety disorders,429.1819127586207,Region of the Americas,Average
+123,1993,Anxiety disorders,429.2534789655173,Region of the Americas,Average
+124,1994,Anxiety disorders,429.4431279310344,Region of the Americas,Average
+125,1995,Anxiety disorders,429.5298848275862,Region of the Americas,Average
+126,1996,Anxiety disorders,430.4564210344828,Region of the Americas,Average
+127,1997,Anxiety disorders,432.6081834482758,Region of the Americas,Average
+128,1998,Anxiety disorders,435.24546551724137,Region of the Americas,Average
+129,1999,Anxiety disorders,437.68520517241376,Region of the Americas,Average
+130,2000,Anxiety disorders,439.3917862068965,Region of the Americas,Average
+131,2001,Anxiety disorders,440.44831517241374,Region of the Americas,Average
+132,2002,Anxiety disorders,441.4880955172414,Region of the Americas,Average
+133,2003,Anxiety disorders,442.4032279310345,Region of the Americas,Average
+134,2004,Anxiety disorders,443.02721068965525,Region of the Americas,Average
+135,2005,Anxiety disorders,443.30795620689656,Region of the Americas,Average
+136,2006,Anxiety disorders,443.1993137931035,Region of the Americas,Average
+137,2007,Anxiety disorders,443.1401151724138,Region of the Americas,Average
+138,2008,Anxiety disorders,443.0261189655173,Region of the Americas,Average
+139,2009,Anxiety disorders,443.01161896551724,Region of the Americas,Average
+140,2010,Anxiety disorders,443.15346793103447,Region of the Americas,Average
+141,2011,Anxiety disorders,443.1147744827586,Region of the Americas,Average
+142,2012,Anxiety disorders,442.7895231034483,Region of the Americas,Average
+143,2013,Anxiety disorders,442.31816551724137,Region of the Americas,Average
+144,2014,Anxiety disorders,442.0199565517242,Region of the Americas,Average
+145,2015,Anxiety disorders,442.1596196551725,Region of the Americas,Average
+146,2016,Anxiety disorders,443.44250999999997,Region of the Americas,Average
+147,2017,Anxiety disorders,444.55356103448275,Region of the Americas,Average
+148,2018,Anxiety disorders,445.41372517241376,Region of the Americas,Average
+149,2019,Anxiety disorders,446.9940703448276,Region of the Americas,Average

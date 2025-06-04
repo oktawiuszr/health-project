@@ -1,0 +1,151 @@
+,Year,Disorder,DALYs,Region,Source
+0,1990,Depressive disorders,632.8986,European Region (WHO),WHO
+1,1991,Depressive disorders,630.8523,European Region (WHO),WHO
+2,1992,Depressive disorders,629.05365,European Region (WHO),WHO
+3,1993,Depressive disorders,627.4437,European Region (WHO),WHO
+4,1994,Depressive disorders,626.1909,European Region (WHO),WHO
+5,1995,Depressive disorders,625.3688,European Region (WHO),WHO
+6,1996,Depressive disorders,625.2256,European Region (WHO),WHO
+7,1997,Depressive disorders,626.0286,European Region (WHO),WHO
+8,1998,Depressive disorders,626.9721,European Region (WHO),WHO
+9,1999,Depressive disorders,627.6271,European Region (WHO),WHO
+10,2000,Depressive disorders,627.47394,European Region (WHO),WHO
+11,2001,Depressive disorders,625.94806,European Region (WHO),WHO
+12,2002,Depressive disorders,623.3616,European Region (WHO),WHO
+13,2003,Depressive disorders,620.21747,European Region (WHO),WHO
+14,2004,Depressive disorders,617.0024,European Region (WHO),WHO
+15,2005,Depressive disorders,614.4,European Region (WHO),WHO
+16,2006,Depressive disorders,612.3966,European Region (WHO),WHO
+17,2007,Depressive disorders,610.7314,European Region (WHO),WHO
+18,2008,Depressive disorders,609.5778,European Region (WHO),WHO
+19,2009,Depressive disorders,608.7735,European Region (WHO),WHO
+20,2010,Depressive disorders,608.2617,European Region (WHO),WHO
+21,2011,Depressive disorders,608.0096,European Region (WHO),WHO
+22,2012,Depressive disorders,607.52637,European Region (WHO),WHO
+23,2013,Depressive disorders,606.9933,European Region (WHO),WHO
+24,2014,Depressive disorders,606.593,European Region (WHO),WHO
+25,2015,Depressive disorders,606.52136,European Region (WHO),WHO
+26,2016,Depressive disorders,605.6044,European Region (WHO),WHO
+27,2017,Depressive disorders,604.3271,European Region (WHO),WHO
+28,2018,Depressive disorders,604.2985,European Region (WHO),WHO
+29,2019,Depressive disorders,605.2331,European Region (WHO),WHO
+30,1990,Schizophrenia,176.43573,European Region (WHO),WHO
+31,1991,Schizophrenia,176.24464,European Region (WHO),WHO
+32,1992,Schizophrenia,176.09438,European Region (WHO),WHO
+33,1993,Schizophrenia,175.98714,European Region (WHO),WHO
+34,1994,Schizophrenia,175.8772,European Region (WHO),WHO
+35,1995,Schizophrenia,175.79164,European Region (WHO),WHO
+36,1996,Schizophrenia,175.74782,European Region (WHO),WHO
+37,1997,Schizophrenia,175.56403,European Region (WHO),WHO
+38,1998,Schizophrenia,175.46399,European Region (WHO),WHO
+39,1999,Schizophrenia,175.36195,European Region (WHO),WHO
+40,2000,Schizophrenia,175.32208,European Region (WHO),WHO
+41,2001,Schizophrenia,175.36588,European Region (WHO),WHO
+42,2002,Schizophrenia,175.49649,European Region (WHO),WHO
+43,2003,Schizophrenia,175.55417,European Region (WHO),WHO
+44,2004,Schizophrenia,175.70491,European Region (WHO),WHO
+45,2005,Schizophrenia,175.7894,European Region (WHO),WHO
+46,2006,Schizophrenia,175.94836,European Region (WHO),WHO
+47,2007,Schizophrenia,176.15111,European Region (WHO),WHO
+48,2008,Schizophrenia,176.3598,European Region (WHO),WHO
+49,2009,Schizophrenia,176.53972,European Region (WHO),WHO
+50,2010,Schizophrenia,176.67908,European Region (WHO),WHO
+51,2011,Schizophrenia,176.89006,European Region (WHO),WHO
+52,2012,Schizophrenia,177.20013,European Region (WHO),WHO
+53,2013,Schizophrenia,177.48619,European Region (WHO),WHO
+54,2014,Schizophrenia,177.77246,European Region (WHO),WHO
+55,2015,Schizophrenia,177.91121,European Region (WHO),WHO
+56,2016,Schizophrenia,177.95377,European Region (WHO),WHO
+57,2017,Schizophrenia,177.98917,European Region (WHO),WHO
+58,2018,Schizophrenia,177.4944,European Region (WHO),WHO
+59,2019,Schizophrenia,176.55606,European Region (WHO),WHO
+60,1990,Bipolar disorder,153.5706,European Region (WHO),WHO
+61,1991,Bipolar disorder,153.551,European Region (WHO),WHO
+62,1992,Bipolar disorder,153.51709,European Region (WHO),WHO
+63,1993,Bipolar disorder,153.52087,European Region (WHO),WHO
+64,1994,Bipolar disorder,153.52428,European Region (WHO),WHO
+65,1995,Bipolar disorder,153.55453,European Region (WHO),WHO
+66,1996,Bipolar disorder,153.59123,European Region (WHO),WHO
+67,1997,Bipolar disorder,153.58444,European Region (WHO),WHO
+68,1998,Bipolar disorder,153.54947,European Region (WHO),WHO
+69,1999,Bipolar disorder,153.5343,European Region (WHO),WHO
+70,2000,Bipolar disorder,153.61661,European Region (WHO),WHO
+71,2001,Bipolar disorder,153.75432,European Region (WHO),WHO
+72,2002,Bipolar disorder,153.91008,European Region (WHO),WHO
+73,2003,Bipolar disorder,154.20264,European Region (WHO),WHO
+74,2004,Bipolar disorder,154.4073,European Region (WHO),WHO
+75,2005,Bipolar disorder,154.61594,European Region (WHO),WHO
+76,2006,Bipolar disorder,154.80692,European Region (WHO),WHO
+77,2007,Bipolar disorder,154.95102,European Region (WHO),WHO
+78,2008,Bipolar disorder,155.10768,European Region (WHO),WHO
+79,2009,Bipolar disorder,155.32137,European Region (WHO),WHO
+80,2010,Bipolar disorder,155.55292,European Region (WHO),WHO
+81,2011,Bipolar disorder,155.69101,European Region (WHO),WHO
+82,2012,Bipolar disorder,155.87326,European Region (WHO),WHO
+83,2013,Bipolar disorder,156.07744,European Region (WHO),WHO
+84,2014,Bipolar disorder,156.19354,European Region (WHO),WHO
+85,2015,Bipolar disorder,156.3776,European Region (WHO),WHO
+86,2016,Bipolar disorder,156.4575,European Region (WHO),WHO
+87,2017,Bipolar disorder,156.53288,European Region (WHO),WHO
+88,2018,Bipolar disorder,156.5749,European Region (WHO),WHO
+89,2019,Bipolar disorder,156.62009,European Region (WHO),WHO
+90,1990,Eating disorders,55.88467,European Region (WHO),WHO
+91,1991,Eating disorders,55.848618,European Region (WHO),WHO
+92,1992,Eating disorders,55.815872,European Region (WHO),WHO
+93,1993,Eating disorders,55.765717,European Region (WHO),WHO
+94,1994,Eating disorders,55.67452,European Region (WHO),WHO
+95,1995,Eating disorders,55.564255,European Region (WHO),WHO
+96,1996,Eating disorders,55.478195,European Region (WHO),WHO
+97,1997,Eating disorders,55.436428,European Region (WHO),WHO
+98,1998,Eating disorders,55.422295,European Region (WHO),WHO
+99,1999,Eating disorders,55.521603,European Region (WHO),WHO
+100,2000,Eating disorders,55.688236,European Region (WHO),WHO
+101,2001,Eating disorders,56.00575,European Region (WHO),WHO
+102,2002,Eating disorders,56.49845,European Region (WHO),WHO
+103,2003,Eating disorders,57.044685,European Region (WHO),WHO
+104,2004,Eating disorders,57.61629,European Region (WHO),WHO
+105,2005,Eating disorders,58.110874,European Region (WHO),WHO
+106,2006,Eating disorders,58.660637,European Region (WHO),WHO
+107,2007,Eating disorders,59.304825,European Region (WHO),WHO
+108,2008,Eating disorders,60.00724,European Region (WHO),WHO
+109,2009,Eating disorders,60.6613,European Region (WHO),WHO
+110,2010,Eating disorders,61.21566,European Region (WHO),WHO
+111,2011,Eating disorders,61.701797,European Region (WHO),WHO
+112,2012,Eating disorders,62.147163,European Region (WHO),WHO
+113,2013,Eating disorders,62.602627,European Region (WHO),WHO
+114,2014,Eating disorders,63.0294,European Region (WHO),WHO
+115,2015,Eating disorders,63.476578,European Region (WHO),WHO
+116,2016,Eating disorders,64.13759,European Region (WHO),WHO
+117,2017,Eating disorders,64.693985,European Region (WHO),WHO
+118,2018,Eating disorders,65.03723,European Region (WHO),WHO
+119,2019,Eating disorders,65.312454,European Region (WHO),WHO
+120,1990,Anxiety disorders,407.09814,European Region (WHO),WHO
+121,1991,Anxiety disorders,406.5155,European Region (WHO),WHO
+122,1992,Anxiety disorders,405.86093,European Region (WHO),WHO
+123,1993,Anxiety disorders,405.20114,European Region (WHO),WHO
+124,1994,Anxiety disorders,404.49042,European Region (WHO),WHO
+125,1995,Anxiety disorders,403.8399,European Region (WHO),WHO
+126,1996,Anxiety disorders,403.13406,European Region (WHO),WHO
+127,1997,Anxiety disorders,402.29602,European Region (WHO),WHO
+128,1998,Anxiety disorders,401.67902,European Region (WHO),WHO
+129,1999,Anxiety disorders,401.15192,European Region (WHO),WHO
+130,2000,Anxiety disorders,400.96274,European Region (WHO),WHO
+131,2001,Anxiety disorders,401.1574,European Region (WHO),WHO
+132,2002,Anxiety disorders,401.55576,European Region (WHO),WHO
+133,2003,Anxiety disorders,402.16583,European Region (WHO),WHO
+134,2004,Anxiety disorders,402.99963,European Region (WHO),WHO
+135,2005,Anxiety disorders,403.86395,European Region (WHO),WHO
+136,2006,Anxiety disorders,405.4698,European Region (WHO),WHO
+137,2007,Anxiety disorders,408.2313,European Region (WHO),WHO
+138,2008,Anxiety disorders,411.32285,European Region (WHO),WHO
+139,2009,Anxiety disorders,413.9622,European Region (WHO),WHO
+140,2010,Anxiety disorders,415.51486,European Region (WHO),WHO
+141,2011,Anxiety disorders,416.3777,European Region (WHO),WHO
+142,2012,Anxiety disorders,417.41833,European Region (WHO),WHO
+143,2013,Anxiety disorders,418.40137,European Region (WHO),WHO
+144,2014,Anxiety disorders,419.2233,European Region (WHO),WHO
+145,2015,Anxiety disorders,419.4825,European Region (WHO),WHO
+146,2016,Anxiety disorders,418.72208,European Region (WHO),WHO
+147,2017,Anxiety disorders,417.8165,European Region (WHO),WHO
+148,2018,Anxiety disorders,416.87418,European Region (WHO),WHO
+149,2019,Anxiety disorders,415.4222,European Region (WHO),WHO

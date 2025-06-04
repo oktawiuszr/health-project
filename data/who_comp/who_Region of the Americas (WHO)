@@ -1,0 +1,151 @@
+,Year,Disorder,DALYs,Region,Source
+0,1990,Depressive disorders,601.69977,Region of the Americas (WHO),WHO
+1,1991,Depressive disorders,610.3043,Region of the Americas (WHO),WHO
+2,1992,Depressive disorders,618.79816,Region of the Americas (WHO),WHO
+3,1993,Depressive disorders,626.8555,Region of the Americas (WHO),WHO
+4,1994,Depressive disorders,634.3197,Region of the Americas (WHO),WHO
+5,1995,Depressive disorders,640.77045,Region of the Americas (WHO),WHO
+6,1996,Depressive disorders,648.9924,Region of the Americas (WHO),WHO
+7,1997,Depressive disorders,659.9555,Region of the Americas (WHO),WHO
+8,1998,Depressive disorders,671.46533,Region of the Americas (WHO),WHO
+9,1999,Depressive disorders,681.00214,Region of the Americas (WHO),WHO
+10,2000,Depressive disorders,685.84045,Region of the Americas (WHO),WHO
+11,2001,Depressive disorders,687.2117,Region of the Americas (WHO),WHO
+12,2002,Depressive disorders,687.7057,Region of the Americas (WHO),WHO
+13,2003,Depressive disorders,687.7239,Region of the Americas (WHO),WHO
+14,2004,Depressive disorders,687.54504,Region of the Americas (WHO),WHO
+15,2005,Depressive disorders,687.2731,Region of the Americas (WHO),WHO
+16,2006,Depressive disorders,684.6094,Region of the Americas (WHO),WHO
+17,2007,Depressive disorders,678.49335,Region of the Americas (WHO),WHO
+18,2008,Depressive disorders,670.90546,Region of the Americas (WHO),WHO
+19,2009,Depressive disorders,664.04175,Region of the Americas (WHO),WHO
+20,2010,Depressive disorders,659.91254,Region of the Americas (WHO),WHO
+21,2011,Depressive disorders,656.918,Region of the Americas (WHO),WHO
+22,2012,Depressive disorders,652.51483,Region of the Americas (WHO),WHO
+23,2013,Depressive disorders,647.72736,Region of the Americas (WHO),WHO
+24,2014,Depressive disorders,643.5089,Region of the Americas (WHO),WHO
+25,2015,Depressive disorders,640.69476,Region of the Americas (WHO),WHO
+26,2016,Depressive disorders,639.05145,Region of the Americas (WHO),WHO
+27,2017,Depressive disorders,638.08344,Region of the Americas (WHO),WHO
+28,2018,Depressive disorders,637.9683,Region of the Americas (WHO),WHO
+29,2019,Depressive disorders,638.3914,Region of the Americas (WHO),WHO
+30,1990,Schizophrenia,217.39508,Region of the Americas (WHO),WHO
+31,1991,Schizophrenia,218.0777,Region of the Americas (WHO),WHO
+32,1992,Schizophrenia,218.67114,Region of the Americas (WHO),WHO
+33,1993,Schizophrenia,219.04367,Region of the Americas (WHO),WHO
+34,1994,Schizophrenia,219.2375,Region of the Americas (WHO),WHO
+35,1995,Schizophrenia,219.13503,Region of the Americas (WHO),WHO
+36,1996,Schizophrenia,218.85168,Region of the Americas (WHO),WHO
+37,1997,Schizophrenia,218.49425,Region of the Americas (WHO),WHO
+38,1998,Schizophrenia,218.12665,Region of the Americas (WHO),WHO
+39,1999,Schizophrenia,217.7551,Region of the Americas (WHO),WHO
+40,2000,Schizophrenia,217.43185,Region of the Americas (WHO),WHO
+41,2001,Schizophrenia,217.3866,Region of the Americas (WHO),WHO
+42,2002,Schizophrenia,217.75473,Region of the Americas (WHO),WHO
+43,2003,Schizophrenia,218.19455,Region of the Americas (WHO),WHO
+44,2004,Schizophrenia,218.59125,Region of the Americas (WHO),WHO
+45,2005,Schizophrenia,218.61894,Region of the Americas (WHO),WHO
+46,2006,Schizophrenia,218.45192,Region of the Americas (WHO),WHO
+47,2007,Schizophrenia,218.34093,Region of the Americas (WHO),WHO
+48,2008,Schizophrenia,218.18454,Region of the Americas (WHO),WHO
+49,2009,Schizophrenia,217.98044,Region of the Americas (WHO),WHO
+50,2010,Schizophrenia,217.65175,Region of the Americas (WHO),WHO
+51,2011,Schizophrenia,217.0138,Region of the Americas (WHO),WHO
+52,2012,Schizophrenia,216.0575,Region of the Americas (WHO),WHO
+53,2013,Schizophrenia,214.94164,Region of the Americas (WHO),WHO
+54,2014,Schizophrenia,213.85364,Region of the Americas (WHO),WHO
+55,2015,Schizophrenia,212.88396,Region of the Americas (WHO),WHO
+56,2016,Schizophrenia,211.43863,Region of the Americas (WHO),WHO
+57,2017,Schizophrenia,210.21631,Region of the Americas (WHO),WHO
+58,2018,Schizophrenia,209.80128,Region of the Americas (WHO),WHO
+59,2019,Schizophrenia,209.58156,Region of the Americas (WHO),WHO
+60,1990,Bipolar disorder,175.67899,Region of the Americas (WHO),WHO
+61,1991,Bipolar disorder,176.00304,Region of the Americas (WHO),WHO
+62,1992,Bipolar disorder,176.3452,Region of the Americas (WHO),WHO
+63,1993,Bipolar disorder,176.67671,Region of the Americas (WHO),WHO
+64,1994,Bipolar disorder,176.99637,Region of the Americas (WHO),WHO
+65,1995,Bipolar disorder,177.28825,Region of the Americas (WHO),WHO
+66,1996,Bipolar disorder,177.52629,Region of the Americas (WHO),WHO
+67,1997,Bipolar disorder,177.74657,Region of the Americas (WHO),WHO
+68,1998,Bipolar disorder,177.94841,Region of the Americas (WHO),WHO
+69,1999,Bipolar disorder,178.1488,Region of the Americas (WHO),WHO
+70,2000,Bipolar disorder,178.31656,Region of the Americas (WHO),WHO
+71,2001,Bipolar disorder,178.5958,Region of the Americas (WHO),WHO
+72,2002,Bipolar disorder,179.03667,Region of the Americas (WHO),WHO
+73,2003,Bipolar disorder,179.53708,Region of the Americas (WHO),WHO
+74,2004,Bipolar disorder,179.94505,Region of the Americas (WHO),WHO
+75,2005,Bipolar disorder,180.22069,Region of the Americas (WHO),WHO
+76,2006,Bipolar disorder,180.373,Region of the Americas (WHO),WHO
+77,2007,Bipolar disorder,180.54083,Region of the Americas (WHO),WHO
+78,2008,Bipolar disorder,180.68883,Region of the Americas (WHO),WHO
+79,2009,Bipolar disorder,180.82579,Region of the Americas (WHO),WHO
+80,2010,Bipolar disorder,181.00592,Region of the Americas (WHO),WHO
+81,2011,Bipolar disorder,181.13937,Region of the Americas (WHO),WHO
+82,2012,Bipolar disorder,181.22333,Region of the Americas (WHO),WHO
+83,2013,Bipolar disorder,181.35152,Region of the Americas (WHO),WHO
+84,2014,Bipolar disorder,181.50612,Region of the Americas (WHO),WHO
+85,2015,Bipolar disorder,181.60786,Region of the Americas (WHO),WHO
+86,2016,Bipolar disorder,181.6975,Region of the Americas (WHO),WHO
+87,2017,Bipolar disorder,181.74214,Region of the Americas (WHO),WHO
+88,2018,Bipolar disorder,181.81006,Region of the Americas (WHO),WHO
+89,2019,Bipolar disorder,181.90427,Region of the Americas (WHO),WHO
+90,1990,Eating disorders,61.008205,Region of the Americas (WHO),WHO
+91,1991,Eating disorders,61.944366,Region of the Americas (WHO),WHO
+92,1992,Eating disorders,62.77013,Region of the Americas (WHO),WHO
+93,1993,Eating disorders,63.374653,Region of the Americas (WHO),WHO
+94,1994,Eating disorders,63.773575,Region of the Americas (WHO),WHO
+95,1995,Eating disorders,63.837154,Region of the Americas (WHO),WHO
+96,1996,Eating disorders,63.71406,Region of the Americas (WHO),WHO
+97,1997,Eating disorders,63.568317,Region of the Americas (WHO),WHO
+98,1998,Eating disorders,63.367718,Region of the Americas (WHO),WHO
+99,1999,Eating disorders,63.23423,Region of the Americas (WHO),WHO
+100,2000,Eating disorders,63.11231,Region of the Americas (WHO),WHO
+101,2001,Eating disorders,63.113583,Region of the Americas (WHO),WHO
+102,2002,Eating disorders,63.23113,Region of the Americas (WHO),WHO
+103,2003,Eating disorders,63.361115,Region of the Americas (WHO),WHO
+104,2004,Eating disorders,63.497326,Region of the Americas (WHO),WHO
+105,2005,Eating disorders,63.59412,Region of the Americas (WHO),WHO
+106,2006,Eating disorders,63.764416,Region of the Americas (WHO),WHO
+107,2007,Eating disorders,64.012886,Region of the Americas (WHO),WHO
+108,2008,Eating disorders,64.32916,Region of the Americas (WHO),WHO
+109,2009,Eating disorders,64.616066,Region of the Americas (WHO),WHO
+110,2010,Eating disorders,64.828415,Region of the Americas (WHO),WHO
+111,2011,Eating disorders,64.711044,Region of the Americas (WHO),WHO
+112,2012,Eating disorders,64.263885,Region of the Americas (WHO),WHO
+113,2013,Eating disorders,63.692467,Region of the Americas (WHO),WHO
+114,2014,Eating disorders,63.245285,Region of the Americas (WHO),WHO
+115,2015,Eating disorders,63.111076,Region of the Americas (WHO),WHO
+116,2016,Eating disorders,63.4717,Region of the Americas (WHO),WHO
+117,2017,Eating disorders,63.834766,Region of the Americas (WHO),WHO
+118,2018,Eating disorders,63.88562,Region of the Americas (WHO),WHO
+119,2019,Eating disorders,63.81113,Region of the Americas (WHO),WHO
+120,1990,Anxiety disorders,470.6437,Region of the Americas (WHO),WHO
+121,1991,Anxiety disorders,471.72095,Region of the Americas (WHO),WHO
+122,1992,Anxiety disorders,473.0082,Region of the Americas (WHO),WHO
+123,1993,Anxiety disorders,474.35004,Region of the Americas (WHO),WHO
+124,1994,Anxiety disorders,475.63885,Region of the Americas (WHO),WHO
+125,1995,Anxiety disorders,476.55597,Region of the Americas (WHO),WHO
+126,1996,Anxiety disorders,484.4631,Region of the Americas (WHO),WHO
+127,1997,Anxiety disorders,502.4486,Region of the Americas (WHO),WHO
+128,1998,Anxiety disorders,524.19037,Region of the Americas (WHO),WHO
+129,1999,Anxiety disorders,543.62494,Region of the Americas (WHO),WHO
+130,2000,Anxiety disorders,554.6917,Region of the Americas (WHO),WHO
+131,2001,Anxiety disorders,558.5719,Region of the Americas (WHO),WHO
+132,2002,Anxiety disorders,560.62415,Region of the Americas (WHO),WHO
+133,2003,Anxiety disorders,561.1234,Region of the Americas (WHO),WHO
+134,2004,Anxiety disorders,560.3165,Region of the Americas (WHO),WHO
+135,2005,Anxiety disorders,558.4879,Region of the Americas (WHO),WHO
+136,2006,Anxiety disorders,555.85425,Region of the Americas (WHO),WHO
+137,2007,Anxiety disorders,552.8751,Region of the Americas (WHO),WHO
+138,2008,Anxiety disorders,549.7545,Region of the Americas (WHO),WHO
+139,2009,Anxiety disorders,546.63885,Region of the Americas (WHO),WHO
+140,2010,Anxiety disorders,543.8253,Region of the Americas (WHO),WHO
+141,2011,Anxiety disorders,537.622,Region of the Americas (WHO),WHO
+142,2012,Anxiety disorders,526.5939,Region of the Americas (WHO),WHO
+143,2013,Anxiety disorders,514.2072,Region of the Americas (WHO),WHO
+144,2014,Anxiety disorders,504.07138,Region of the Americas (WHO),WHO
+145,2015,Anxiety disorders,499.6722,Region of the Americas (WHO),WHO
+146,2016,Anxiety disorders,501.35822,Region of the Americas (WHO),WHO
+147,2017,Anxiety disorders,503.50644,Region of the Americas (WHO),WHO
+148,2018,Anxiety disorders,509.06613,Region of the Americas (WHO),WHO
+149,2019,Anxiety disorders,520.3447,Region of the Americas (WHO),WHO

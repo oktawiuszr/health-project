@@ -1,0 +1,151 @@
+,Year,Disorder,DALYs,Region,Source
+0,1990,Depressive disorders,787.4893315,Eastern Mediterranean Region,Average
+1,1991,Depressive disorders,787.7754714999999,Eastern Mediterranean Region,Average
+2,1992,Depressive disorders,788.048219,Eastern Mediterranean Region,Average
+3,1993,Depressive disorders,788.3830745,Eastern Mediterranean Region,Average
+4,1994,Depressive disorders,788.8909395,Eastern Mediterranean Region,Average
+5,1995,Depressive disorders,789.4559865,Eastern Mediterranean Region,Average
+6,1996,Depressive disorders,789.6811425,Eastern Mediterranean Region,Average
+7,1997,Depressive disorders,789.5302604999999,Eastern Mediterranean Region,Average
+8,1998,Depressive disorders,789.3415765,Eastern Mediterranean Region,Average
+9,1999,Depressive disorders,789.1354535,Eastern Mediterranean Region,Average
+10,2000,Depressive disorders,789.131258,Eastern Mediterranean Region,Average
+11,2001,Depressive disorders,788.8503275,Eastern Mediterranean Region,Average
+12,2002,Depressive disorders,787.998336,Eastern Mediterranean Region,Average
+13,2003,Depressive disorders,786.8866734999999,Eastern Mediterranean Region,Average
+14,2004,Depressive disorders,785.593624,Eastern Mediterranean Region,Average
+15,2005,Depressive disorders,784.1012435,Eastern Mediterranean Region,Average
+16,2006,Depressive disorders,781.79225,Eastern Mediterranean Region,Average
+17,2007,Depressive disorders,778.472086,Eastern Mediterranean Region,Average
+18,2008,Depressive disorders,775.0167869999999,Eastern Mediterranean Region,Average
+19,2009,Depressive disorders,772.064996,Eastern Mediterranean Region,Average
+20,2010,Depressive disorders,770.253204,Eastern Mediterranean Region,Average
+21,2011,Depressive disorders,770.0287955,Eastern Mediterranean Region,Average
+22,2012,Depressive disorders,771.4068494999999,Eastern Mediterranean Region,Average
+23,2013,Depressive disorders,773.4849004999999,Eastern Mediterranean Region,Average
+24,2014,Depressive disorders,775.464029,Eastern Mediterranean Region,Average
+25,2015,Depressive disorders,776.155222,Eastern Mediterranean Region,Average
+26,2016,Depressive disorders,774.7626634999999,Eastern Mediterranean Region,Average
+27,2017,Depressive disorders,773.4647759999999,Eastern Mediterranean Region,Average
+28,2018,Depressive disorders,774.92069,Eastern Mediterranean Region,Average
+29,2019,Depressive disorders,778.5208964999999,Eastern Mediterranean Region,Average
+30,1990,Schizophrenia,160.93594075000001,Eastern Mediterranean Region,Average
+31,1991,Schizophrenia,160.823906,Eastern Mediterranean Region,Average
+32,1992,Schizophrenia,160.59681500000002,Eastern Mediterranean Region,Average
+33,1993,Schizophrenia,160.46009,Eastern Mediterranean Region,Average
+34,1994,Schizophrenia,160.367525,Eastern Mediterranean Region,Average
+35,1995,Schizophrenia,160.25509030000003,Eastern Mediterranean Region,Average
+36,1996,Schizophrenia,160.32097900000002,Eastern Mediterranean Region,Average
+37,1997,Schizophrenia,160.2849115,Eastern Mediterranean Region,Average
+38,1998,Schizophrenia,160.2821005,Eastern Mediterranean Region,Average
+39,1999,Schizophrenia,160.30489799999998,Eastern Mediterranean Region,Average
+40,2000,Schizophrenia,160.20892800000001,Eastern Mediterranean Region,Average
+41,2001,Schizophrenia,160.16932300000002,Eastern Mediterranean Region,Average
+42,2002,Schizophrenia,160.20269725000003,Eastern Mediterranean Region,Average
+43,2003,Schizophrenia,160.018228,Eastern Mediterranean Region,Average
+44,2004,Schizophrenia,160.03650720000002,Eastern Mediterranean Region,Average
+45,2005,Schizophrenia,159.99712825,Eastern Mediterranean Region,Average
+46,2006,Schizophrenia,159.99084200000001,Eastern Mediterranean Region,Average
+47,2007,Schizophrenia,159.9643345,Eastern Mediterranean Region,Average
+48,2008,Schizophrenia,159.97297100000003,Eastern Mediterranean Region,Average
+49,2009,Schizophrenia,159.956165,Eastern Mediterranean Region,Average
+50,2010,Schizophrenia,159.9390855,Eastern Mediterranean Region,Average
+51,2011,Schizophrenia,159.9189695,Eastern Mediterranean Region,Average
+52,2012,Schizophrenia,159.914572,Eastern Mediterranean Region,Average
+53,2013,Schizophrenia,159.84829050000002,Eastern Mediterranean Region,Average
+54,2014,Schizophrenia,159.817426,Eastern Mediterranean Region,Average
+55,2015,Schizophrenia,159.739064,Eastern Mediterranean Region,Average
+56,2016,Schizophrenia,159.67680699999997,Eastern Mediterranean Region,Average
+57,2017,Schizophrenia,159.563886,Eastern Mediterranean Region,Average
+58,2018,Schizophrenia,159.42378200000002,Eastern Mediterranean Region,Average
+59,2019,Schizophrenia,159.27473725,Eastern Mediterranean Region,Average
+60,1990,Bipolar disorder,156.0421425,Eastern Mediterranean Region,Average
+61,1991,Bipolar disorder,156.04474,Eastern Mediterranean Region,Average
+62,1992,Bipolar disorder,156.0224193,Eastern Mediterranean Region,Average
+63,1993,Bipolar disorder,155.97399330000002,Eastern Mediterranean Region,Average
+64,1994,Bipolar disorder,155.982359,Eastern Mediterranean Region,Average
+65,1995,Bipolar disorder,156.0473262,Eastern Mediterranean Region,Average
+66,1996,Bipolar disorder,156.0204983,Eastern Mediterranean Region,Average
+67,1997,Bipolar disorder,156.0649315,Eastern Mediterranean Region,Average
+68,1998,Bipolar disorder,156.0780315,Eastern Mediterranean Region,Average
+69,1999,Bipolar disorder,156.0843435,Eastern Mediterranean Region,Average
+70,2000,Bipolar disorder,156.1305645,Eastern Mediterranean Region,Average
+71,2001,Bipolar disorder,156.18466325,Eastern Mediterranean Region,Average
+72,2002,Bipolar disorder,156.2028495,Eastern Mediterranean Region,Average
+73,2003,Bipolar disorder,156.1575852,Eastern Mediterranean Region,Average
+74,2004,Bipolar disorder,156.2070805,Eastern Mediterranean Region,Average
+75,2005,Bipolar disorder,156.18834329999999,Eastern Mediterranean Region,Average
+76,2006,Bipolar disorder,156.1669413,Eastern Mediterranean Region,Average
+77,2007,Bipolar disorder,156.0571235,Eastern Mediterranean Region,Average
+78,2008,Bipolar disorder,156.04191070000005,Eastern Mediterranean Region,Average
+79,2009,Bipolar disorder,156.01302399999997,Eastern Mediterranean Region,Average
+80,2010,Bipolar disorder,156.00126375,Eastern Mediterranean Region,Average
+81,2011,Bipolar disorder,155.9883067,Eastern Mediterranean Region,Average
+82,2012,Bipolar disorder,155.96691800000002,Eastern Mediterranean Region,Average
+83,2013,Bipolar disorder,155.96516400000002,Eastern Mediterranean Region,Average
+84,2014,Bipolar disorder,156.0108205,Eastern Mediterranean Region,Average
+85,2015,Bipolar disorder,156.02324600000003,Eastern Mediterranean Region,Average
+86,2016,Bipolar disorder,156.0199407,Eastern Mediterranean Region,Average
+87,2017,Bipolar disorder,156.06654699999996,Eastern Mediterranean Region,Average
+88,2018,Bipolar disorder,156.05219549999998,Eastern Mediterranean Region,Average
+89,2019,Bipolar disorder,156.0356413,Eastern Mediterranean Region,Average
+90,1990,Eating disorders,40.26377405000001,Eastern Mediterranean Region,Average
+91,1991,Eating disorders,40.00977590000001,Eastern Mediterranean Region,Average
+92,1992,Eating disorders,39.79596705,Eastern Mediterranean Region,Average
+93,1993,Eating disorders,39.647854949999996,Eastern Mediterranean Region,Average
+94,1994,Eating disorders,39.5715592,Eastern Mediterranean Region,Average
+95,1995,Eating disorders,39.54753575,Eastern Mediterranean Region,Average
+96,1996,Eating disorders,39.574460300000005,Eastern Mediterranean Region,Average
+97,1997,Eating disorders,39.64459185,Eastern Mediterranean Region,Average
+98,1998,Eating disorders,39.7767505,Eastern Mediterranean Region,Average
+99,1999,Eating disorders,39.9177917,Eastern Mediterranean Region,Average
+100,2000,Eating disorders,40.07212035,Eastern Mediterranean Region,Average
+101,2001,Eating disorders,40.2677282,Eastern Mediterranean Region,Average
+102,2002,Eating disorders,40.48151360000001,Eastern Mediterranean Region,Average
+103,2003,Eating disorders,40.6877502,Eastern Mediterranean Region,Average
+104,2004,Eating disorders,40.9347571,Eastern Mediterranean Region,Average
+105,2005,Eating disorders,41.1548952,Eastern Mediterranean Region,Average
+106,2006,Eating disorders,41.33328005,Eastern Mediterranean Region,Average
+107,2007,Eating disorders,41.55611935,Eastern Mediterranean Region,Average
+108,2008,Eating disorders,41.79434809999999,Eastern Mediterranean Region,Average
+109,2009,Eating disorders,42.06505145,Eastern Mediterranean Region,Average
+110,2010,Eating disorders,42.2697689,Eastern Mediterranean Region,Average
+111,2011,Eating disorders,42.407021150000006,Eastern Mediterranean Region,Average
+112,2012,Eating disorders,42.58228967500001,Eastern Mediterranean Region,Average
+113,2013,Eating disorders,42.74069475,Eastern Mediterranean Region,Average
+114,2014,Eating disorders,42.92266075,Eastern Mediterranean Region,Average
+115,2015,Eating disorders,43.09320365,Eastern Mediterranean Region,Average
+116,2016,Eating disorders,43.2370562,Eastern Mediterranean Region,Average
+117,2017,Eating disorders,43.324210900000004,Eastern Mediterranean Region,Average
+118,2018,Eating disorders,43.332350399999996,Eastern Mediterranean Region,Average
+119,2019,Eating disorders,43.3086186,Eastern Mediterranean Region,Average
+120,1990,Anxiety disorders,434.22367,Eastern Mediterranean Region,Average
+121,1991,Anxiety disorders,434.337209,Eastern Mediterranean Region,Average
+122,1992,Anxiety disorders,434.36055050000004,Eastern Mediterranean Region,Average
+123,1993,Anxiety disorders,434.55368050000004,Eastern Mediterranean Region,Average
+124,1994,Anxiety disorders,434.7870180000001,Eastern Mediterranean Region,Average
+125,1995,Anxiety disorders,435.06104750000014,Eastern Mediterranean Region,Average
+126,1996,Anxiety disorders,434.8015415000001,Eastern Mediterranean Region,Average
+127,1997,Anxiety disorders,434.12531149999995,Eastern Mediterranean Region,Average
+128,1998,Anxiety disorders,433.46892049999997,Eastern Mediterranean Region,Average
+129,1999,Anxiety disorders,433.00032350000004,Eastern Mediterranean Region,Average
+130,2000,Anxiety disorders,432.942847,Eastern Mediterranean Region,Average
+131,2001,Anxiety disorders,433.0819460000001,Eastern Mediterranean Region,Average
+132,2002,Anxiety disorders,433.1891835,Eastern Mediterranean Region,Average
+133,2003,Anxiety disorders,433.2652435,Eastern Mediterranean Region,Average
+134,2004,Anxiety disorders,433.44834499999996,Eastern Mediterranean Region,Average
+135,2005,Anxiety disorders,433.673935,Eastern Mediterranean Region,Average
+136,2006,Anxiety disorders,434.3742515,Eastern Mediterranean Region,Average
+137,2007,Anxiety disorders,435.916781,Eastern Mediterranean Region,Average
+138,2008,Anxiety disorders,437.98824699999994,Eastern Mediterranean Region,Average
+139,2009,Anxiety disorders,440.000745,Eastern Mediterranean Region,Average
+140,2010,Anxiety disorders,441.1701405,Eastern Mediterranean Region,Average
+141,2011,Anxiety disorders,441.916172,Eastern Mediterranean Region,Average
+142,2012,Anxiety disorders,443.30222949999995,Eastern Mediterranean Region,Average
+143,2013,Anxiety disorders,445.1149214999999,Eastern Mediterranean Region,Average
+144,2014,Anxiety disorders,446.796357,Eastern Mediterranean Region,Average
+145,2015,Anxiety disorders,447.77811499999996,Eastern Mediterranean Region,Average
+146,2016,Anxiety disorders,447.1871265,Eastern Mediterranean Region,Average
+147,2017,Anxiety disorders,446.531841,Eastern Mediterranean Region,Average
+148,2018,Anxiety disorders,446.7284354999999,Eastern Mediterranean Region,Average
+149,2019,Anxiety disorders,447.2984845000001,Eastern Mediterranean Region,Average

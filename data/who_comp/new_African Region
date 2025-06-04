@@ -1,0 +1,151 @@
+,Year,Disorder,DALYs,Region,Source
+0,1990,Depressive disorders,811.2617925581394,African Region,Average
+1,1991,Depressive disorders,810.4649093023257,African Region,Average
+2,1992,Depressive disorders,809.9725006976744,African Region,Average
+3,1993,Depressive disorders,809.6249188372093,African Region,Average
+4,1994,Depressive disorders,809.462326511628,African Region,Average
+5,1995,Depressive disorders,809.3425172093024,African Region,Average
+6,1996,Depressive disorders,810.0478960465117,African Region,Average
+7,1997,Depressive disorders,811.5850941860466,African Region,Average
+8,1998,Depressive disorders,813.259445116279,African Region,Average
+9,1999,Depressive disorders,814.5358920930231,African Region,Average
+10,2000,Depressive disorders,814.70801,African Region,Average
+11,2001,Depressive disorders,814.1675434883721,African Region,Average
+12,2002,Depressive disorders,813.4726902325582,African Region,Average
+13,2003,Depressive disorders,812.6358730232557,African Region,Average
+14,2004,Depressive disorders,811.5816193023256,African Region,Average
+15,2005,Depressive disorders,810.2295320930234,African Region,Average
+16,2006,Depressive disorders,807.9271262790696,African Region,Average
+17,2007,Depressive disorders,804.3522193023257,African Region,Average
+18,2008,Depressive disorders,800.4595409302326,African Region,Average
+19,2009,Depressive disorders,796.8549834883719,African Region,Average
+20,2010,Depressive disorders,794.4446118604652,African Region,Average
+21,2011,Depressive disorders,792.9691751162792,African Region,Average
+22,2012,Depressive disorders,791.7749176744186,African Region,Average
+23,2013,Depressive disorders,790.9313741860465,African Region,Average
+24,2014,Depressive disorders,790.3079734883722,African Region,Average
+25,2015,Depressive disorders,790.2385058139536,African Region,Average
+26,2016,Depressive disorders,790.532615116279,African Region,Average
+27,2017,Depressive disorders,790.8831744186045,African Region,Average
+28,2018,Depressive disorders,791.3134139534883,African Region,Average
+29,2019,Depressive disorders,791.8936390697675,African Region,Average
+30,1990,Schizophrenia,136.66805320930231,African Region,Average
+31,1991,Schizophrenia,136.7145153488372,African Region,Average
+32,1992,Schizophrenia,136.76257020930234,African Region,Average
+33,1993,Schizophrenia,136.79270558139535,African Region,Average
+34,1994,Schizophrenia,136.76948813953487,African Region,Average
+35,1995,Schizophrenia,136.71668400000001,African Region,Average
+36,1996,Schizophrenia,136.65489337209306,African Region,Average
+37,1997,Schizophrenia,136.6066626976744,African Region,Average
+38,1998,Schizophrenia,136.52200962790698,African Region,Average
+39,1999,Schizophrenia,136.4730926744186,African Region,Average
+40,2000,Schizophrenia,136.47969651162788,African Region,Average
+41,2001,Schizophrenia,136.6107976744186,African Region,Average
+42,2002,Schizophrenia,136.82344153488373,African Region,Average
+43,2003,Schizophrenia,137.09326339534886,African Region,Average
+44,2004,Schizophrenia,137.34586697674416,African Region,Average
+45,2005,Schizophrenia,137.51439872093022,African Region,Average
+46,2006,Schizophrenia,137.59655055813954,African Region,Average
+47,2007,Schizophrenia,137.66087453488376,African Region,Average
+48,2008,Schizophrenia,137.737598,African Region,Average
+49,2009,Schizophrenia,137.78415079069768,African Region,Average
+50,2010,Schizophrenia,137.89527174418606,African Region,Average
+51,2011,Schizophrenia,137.99962372093023,African Region,Average
+52,2012,Schizophrenia,138.1498254651163,African Region,Average
+53,2013,Schizophrenia,138.3552476744186,African Region,Average
+54,2014,Schizophrenia,138.56543672093022,African Region,Average
+55,2015,Schizophrenia,138.63735781395349,African Region,Average
+56,2016,Schizophrenia,138.75255369767444,African Region,Average
+57,2017,Schizophrenia,138.88863476744183,African Region,Average
+58,2018,Schizophrenia,139.07726488372091,African Region,Average
+59,2019,Schizophrenia,139.3621241860465,African Region,Average
+60,1990,Bipolar disorder,118.69244300000001,African Region,Average
+61,1991,Bipolar disorder,118.64597032558142,African Region,Average
+62,1992,Bipolar disorder,118.64169472093026,African Region,Average
+63,1993,Bipolar disorder,118.64310802325585,African Region,Average
+64,1994,Bipolar disorder,118.60023820930232,African Region,Average
+65,1995,Bipolar disorder,118.54624462790697,African Region,Average
+66,1996,Bipolar disorder,118.50864255813953,African Region,Average
+67,1997,Bipolar disorder,118.4703038139535,African Region,Average
+68,1998,Bipolar disorder,118.49104474418606,African Region,Average
+69,1999,Bipolar disorder,118.45814400000003,African Region,Average
+70,2000,Bipolar disorder,118.47247788372096,African Region,Average
+71,2001,Bipolar disorder,118.47452639534886,African Region,Average
+72,2002,Bipolar disorder,118.50598872093023,African Region,Average
+73,2003,Bipolar disorder,118.52045260465115,African Region,Average
+74,2004,Bipolar disorder,118.57040576744186,African Region,Average
+75,2005,Bipolar disorder,118.61901409302327,African Region,Average
+76,2006,Bipolar disorder,118.65335932558142,African Region,Average
+77,2007,Bipolar disorder,118.72911232558141,African Region,Average
+78,2008,Bipolar disorder,118.82295488372093,African Region,Average
+79,2009,Bipolar disorder,118.88343381395347,African Region,Average
+80,2010,Bipolar disorder,118.95821237209306,African Region,Average
+81,2011,Bipolar disorder,118.95549037209302,African Region,Average
+82,2012,Bipolar disorder,118.9969265116279,African Region,Average
+83,2013,Bipolar disorder,119.00605962790698,African Region,Average
+84,2014,Bipolar disorder,119.02177946511628,African Region,Average
+85,2015,Bipolar disorder,119.05168413953487,African Region,Average
+86,2016,Bipolar disorder,119.0417543023256,African Region,Average
+87,2017,Bipolar disorder,119.07228658139533,African Region,Average
+88,2018,Bipolar disorder,119.10198660465116,African Region,Average
+89,2019,Bipolar disorder,119.10720262790697,African Region,Average
+90,1990,Eating disorders,21.212468232558138,African Region,Average
+91,1991,Eating disorders,21.140259744186043,African Region,Average
+92,1992,Eating disorders,21.07438211627907,African Region,Average
+93,1993,Eating disorders,21.016365046511627,African Region,Average
+94,1994,Eating disorders,20.976973534883722,African Region,Average
+95,1995,Eating disorders,20.938247604651167,African Region,Average
+96,1996,Eating disorders,20.915263279069766,African Region,Average
+97,1997,Eating disorders,20.91125572093023,African Region,Average
+98,1998,Eating disorders,20.906686162790695,African Region,Average
+99,1999,Eating disorders,20.928599674418606,African Region,Average
+100,2000,Eating disorders,20.979044488372093,African Region,Average
+101,2001,Eating disorders,21.07965241860465,African Region,Average
+102,2002,Eating disorders,21.216468139534886,African Region,Average
+103,2003,Eating disorders,21.391998441860466,African Region,Average
+104,2004,Eating disorders,21.567009546511628,African Region,Average
+105,2005,Eating disorders,21.707494813953492,African Region,Average
+106,2006,Eating disorders,21.845770325581395,African Region,Average
+107,2007,Eating disorders,22.014654000000004,African Region,Average
+108,2008,Eating disorders,22.18358173255814,African Region,Average
+109,2009,Eating disorders,22.335741325581395,African Region,Average
+110,2010,Eating disorders,22.507817604651166,African Region,Average
+111,2011,Eating disorders,22.689980325581395,African Region,Average
+112,2012,Eating disorders,22.93337991860465,African Region,Average
+113,2013,Eating disorders,23.180096906976747,African Region,Average
+114,2014,Eating disorders,23.40871160465116,African Region,Average
+115,2015,Eating disorders,23.61545858139535,African Region,Average
+116,2016,Eating disorders,23.854566813953486,African Region,Average
+117,2017,Eating disorders,24.02140304651163,African Region,Average
+118,2018,Eating disorders,24.117088011627903,African Region,Average
+119,2019,Eating disorders,24.16730623255814,African Region,Average
+120,1990,Anxiety disorders,332.79553883720934,African Region,Average
+121,1991,Anxiety disorders,332.70618697674416,African Region,Average
+122,1992,Anxiety disorders,332.6817967441861,African Region,Average
+123,1993,Anxiety disorders,332.6378976744186,African Region,Average
+124,1994,Anxiety disorders,332.58865209302326,African Region,Average
+125,1995,Anxiety disorders,332.60346325581395,African Region,Average
+126,1996,Anxiety disorders,332.6298920930233,African Region,Average
+127,1997,Anxiety disorders,332.73606860465117,African Region,Average
+128,1998,Anxiety disorders,332.8603062790698,African Region,Average
+129,1999,Anxiety disorders,333.08382,African Region,Average
+130,2000,Anxiety disorders,333.1510513953489,African Region,Average
+131,2001,Anxiety disorders,333.15140302325574,African Region,Average
+132,2002,Anxiety disorders,333.2061220930232,African Region,Average
+133,2003,Anxiety disorders,333.2567886046511,African Region,Average
+134,2004,Anxiety disorders,333.3088086046511,African Region,Average
+135,2005,Anxiety disorders,333.39574767441866,African Region,Average
+136,2006,Anxiety disorders,333.618521627907,African Region,Average
+137,2007,Anxiety disorders,333.9373058139535,African Region,Average
+138,2008,Anxiety disorders,334.3493288372092,African Region,Average
+139,2009,Anxiety disorders,334.753981627907,African Region,Average
+140,2010,Anxiety disorders,335.1248439534884,African Region,Average
+141,2011,Anxiety disorders,335.7050348837209,African Region,Average
+142,2012,Anxiety disorders,336.64357767441857,African Region,Average
+143,2013,Anxiety disorders,337.76215790697677,African Region,Average
+144,2014,Anxiety disorders,338.8131713953488,African Region,Average
+145,2015,Anxiety disorders,339.65268255813953,African Region,Average
+146,2016,Anxiety disorders,340.63609,African Region,Average
+147,2017,Anxiety disorders,341.48216558139535,African Region,Average
+148,2018,Anxiety disorders,341.27394744186057,African Region,Average
+149,2019,Anxiety disorders,340.51376511627905,African Region,Average

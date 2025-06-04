@@ -1,0 +1,1801 @@
+Unnamed: 0,Year,Disorder,DALYs,Region,Source
+0,1990,Depressive disorders,811.2617925581394,African Region,Average
+1,1991,Depressive disorders,810.4649093023257,African Region,Average
+2,1992,Depressive disorders,809.9725006976744,African Region,Average
+3,1993,Depressive disorders,809.6249188372093,African Region,Average
+4,1994,Depressive disorders,809.462326511628,African Region,Average
+5,1995,Depressive disorders,809.3425172093024,African Region,Average
+6,1996,Depressive disorders,810.0478960465117,African Region,Average
+7,1997,Depressive disorders,811.5850941860466,African Region,Average
+8,1998,Depressive disorders,813.259445116279,African Region,Average
+9,1999,Depressive disorders,814.5358920930231,African Region,Average
+10,2000,Depressive disorders,814.70801,African Region,Average
+11,2001,Depressive disorders,814.1675434883721,African Region,Average
+12,2002,Depressive disorders,813.4726902325582,African Region,Average
+13,2003,Depressive disorders,812.6358730232557,African Region,Average
+14,2004,Depressive disorders,811.5816193023256,African Region,Average
+15,2005,Depressive disorders,810.2295320930234,African Region,Average
+16,2006,Depressive disorders,807.9271262790696,African Region,Average
+17,2007,Depressive disorders,804.3522193023257,African Region,Average
+18,2008,Depressive disorders,800.4595409302326,African Region,Average
+19,2009,Depressive disorders,796.8549834883719,African Region,Average
+20,2010,Depressive disorders,794.4446118604652,African Region,Average
+21,2011,Depressive disorders,792.9691751162792,African Region,Average
+22,2012,Depressive disorders,791.7749176744186,African Region,Average
+23,2013,Depressive disorders,790.9313741860465,African Region,Average
+24,2014,Depressive disorders,790.3079734883722,African Region,Average
+25,2015,Depressive disorders,790.2385058139536,African Region,Average
+26,2016,Depressive disorders,790.532615116279,African Region,Average
+27,2017,Depressive disorders,790.8831744186045,African Region,Average
+28,2018,Depressive disorders,791.3134139534883,African Region,Average
+29,2019,Depressive disorders,791.8936390697675,African Region,Average
+30,1990,Schizophrenia,136.66805320930231,African Region,Average
+31,1991,Schizophrenia,136.7145153488372,African Region,Average
+32,1992,Schizophrenia,136.76257020930234,African Region,Average
+33,1993,Schizophrenia,136.79270558139535,African Region,Average
+34,1994,Schizophrenia,136.76948813953487,African Region,Average
+35,1995,Schizophrenia,136.716684,African Region,Average
+36,1996,Schizophrenia,136.65489337209306,African Region,Average
+37,1997,Schizophrenia,136.6066626976744,African Region,Average
+38,1998,Schizophrenia,136.52200962790698,African Region,Average
+39,1999,Schizophrenia,136.4730926744186,African Region,Average
+40,2000,Schizophrenia,136.47969651162788,African Region,Average
+41,2001,Schizophrenia,136.6107976744186,African Region,Average
+42,2002,Schizophrenia,136.82344153488373,African Region,Average
+43,2003,Schizophrenia,137.09326339534886,African Region,Average
+44,2004,Schizophrenia,137.34586697674416,African Region,Average
+45,2005,Schizophrenia,137.51439872093022,African Region,Average
+46,2006,Schizophrenia,137.59655055813954,African Region,Average
+47,2007,Schizophrenia,137.66087453488376,African Region,Average
+48,2008,Schizophrenia,137.737598,African Region,Average
+49,2009,Schizophrenia,137.78415079069768,African Region,Average
+50,2010,Schizophrenia,137.89527174418606,African Region,Average
+51,2011,Schizophrenia,137.99962372093023,African Region,Average
+52,2012,Schizophrenia,138.1498254651163,African Region,Average
+53,2013,Schizophrenia,138.3552476744186,African Region,Average
+54,2014,Schizophrenia,138.56543672093022,African Region,Average
+55,2015,Schizophrenia,138.63735781395349,African Region,Average
+56,2016,Schizophrenia,138.75255369767444,African Region,Average
+57,2017,Schizophrenia,138.88863476744183,African Region,Average
+58,2018,Schizophrenia,139.07726488372091,African Region,Average
+59,2019,Schizophrenia,139.3621241860465,African Region,Average
+60,1990,Bipolar disorder,118.692443,African Region,Average
+61,1991,Bipolar disorder,118.64597032558142,African Region,Average
+62,1992,Bipolar disorder,118.64169472093026,African Region,Average
+63,1993,Bipolar disorder,118.64310802325583,African Region,Average
+64,1994,Bipolar disorder,118.60023820930232,African Region,Average
+65,1995,Bipolar disorder,118.54624462790696,African Region,Average
+66,1996,Bipolar disorder,118.50864255813951,African Region,Average
+67,1997,Bipolar disorder,118.4703038139535,African Region,Average
+68,1998,Bipolar disorder,118.49104474418606,African Region,Average
+69,1999,Bipolar disorder,118.45814400000005,African Region,Average
+70,2000,Bipolar disorder,118.47247788372096,African Region,Average
+71,2001,Bipolar disorder,118.47452639534886,African Region,Average
+72,2002,Bipolar disorder,118.50598872093023,African Region,Average
+73,2003,Bipolar disorder,118.52045260465115,African Region,Average
+74,2004,Bipolar disorder,118.57040576744186,African Region,Average
+75,2005,Bipolar disorder,118.61901409302328,African Region,Average
+76,2006,Bipolar disorder,118.65335932558142,African Region,Average
+77,2007,Bipolar disorder,118.7291123255814,African Region,Average
+78,2008,Bipolar disorder,118.82295488372093,African Region,Average
+79,2009,Bipolar disorder,118.88343381395347,African Region,Average
+80,2010,Bipolar disorder,118.95821237209306,African Region,Average
+81,2011,Bipolar disorder,118.95549037209302,African Region,Average
+82,2012,Bipolar disorder,118.9969265116279,African Region,Average
+83,2013,Bipolar disorder,119.00605962790698,African Region,Average
+84,2014,Bipolar disorder,119.02177946511628,African Region,Average
+85,2015,Bipolar disorder,119.05168413953488,African Region,Average
+86,2016,Bipolar disorder,119.0417543023256,African Region,Average
+87,2017,Bipolar disorder,119.07228658139532,African Region,Average
+88,2018,Bipolar disorder,119.10198660465116,African Region,Average
+89,2019,Bipolar disorder,119.10720262790696,African Region,Average
+90,1990,Eating disorders,21.212468232558138,African Region,Average
+91,1991,Eating disorders,21.140259744186043,African Region,Average
+92,1992,Eating disorders,21.07438211627907,African Region,Average
+93,1993,Eating disorders,21.016365046511627,African Region,Average
+94,1994,Eating disorders,20.97697353488372,African Region,Average
+95,1995,Eating disorders,20.938247604651167,African Region,Average
+96,1996,Eating disorders,20.91526327906977,African Region,Average
+97,1997,Eating disorders,20.91125572093023,African Region,Average
+98,1998,Eating disorders,20.90668616279069,African Region,Average
+99,1999,Eating disorders,20.928599674418606,African Region,Average
+100,2000,Eating disorders,20.979044488372093,African Region,Average
+101,2001,Eating disorders,21.07965241860465,African Region,Average
+102,2002,Eating disorders,21.21646813953489,African Region,Average
+103,2003,Eating disorders,21.391998441860466,African Region,Average
+104,2004,Eating disorders,21.567009546511628,African Region,Average
+105,2005,Eating disorders,21.70749481395349,African Region,Average
+106,2006,Eating disorders,21.845770325581395,African Region,Average
+107,2007,Eating disorders,22.014654000000004,African Region,Average
+108,2008,Eating disorders,22.18358173255814,African Region,Average
+109,2009,Eating disorders,22.335741325581395,African Region,Average
+110,2010,Eating disorders,22.50781760465117,African Region,Average
+111,2011,Eating disorders,22.689980325581395,African Region,Average
+112,2012,Eating disorders,22.93337991860465,African Region,Average
+113,2013,Eating disorders,23.180096906976747,African Region,Average
+114,2014,Eating disorders,23.40871160465116,African Region,Average
+115,2015,Eating disorders,23.61545858139535,African Region,Average
+116,2016,Eating disorders,23.85456681395349,African Region,Average
+117,2017,Eating disorders,24.02140304651163,African Region,Average
+118,2018,Eating disorders,24.117088011627903,African Region,Average
+119,2019,Eating disorders,24.16730623255814,African Region,Average
+120,1990,Anxiety disorders,332.79553883720934,African Region,Average
+121,1991,Anxiety disorders,332.70618697674416,African Region,Average
+122,1992,Anxiety disorders,332.6817967441861,African Region,Average
+123,1993,Anxiety disorders,332.6378976744186,African Region,Average
+124,1994,Anxiety disorders,332.58865209302326,African Region,Average
+125,1995,Anxiety disorders,332.60346325581395,African Region,Average
+126,1996,Anxiety disorders,332.6298920930233,African Region,Average
+127,1997,Anxiety disorders,332.7360686046512,African Region,Average
+128,1998,Anxiety disorders,332.8603062790698,African Region,Average
+129,1999,Anxiety disorders,333.08382,African Region,Average
+130,2000,Anxiety disorders,333.1510513953489,African Region,Average
+131,2001,Anxiety disorders,333.15140302325574,African Region,Average
+132,2002,Anxiety disorders,333.2061220930232,African Region,Average
+133,2003,Anxiety disorders,333.2567886046511,African Region,Average
+134,2004,Anxiety disorders,333.3088086046511,African Region,Average
+135,2005,Anxiety disorders,333.39574767441866,African Region,Average
+136,2006,Anxiety disorders,333.618521627907,African Region,Average
+137,2007,Anxiety disorders,333.9373058139535,African Region,Average
+138,2008,Anxiety disorders,334.3493288372092,African Region,Average
+139,2009,Anxiety disorders,334.753981627907,African Region,Average
+140,2010,Anxiety disorders,335.1248439534884,African Region,Average
+141,2011,Anxiety disorders,335.7050348837209,African Region,Average
+142,2012,Anxiety disorders,336.64357767441857,African Region,Average
+143,2013,Anxiety disorders,337.7621579069768,African Region,Average
+144,2014,Anxiety disorders,338.8131713953488,African Region,Average
+145,2015,Anxiety disorders,339.6526825581396,African Region,Average
+146,2016,Anxiety disorders,340.63609,African Region,Average
+147,2017,Anxiety disorders,341.4821655813953,African Region,Average
+148,2018,Anxiety disorders,341.27394744186057,African Region,Average
+149,2019,Anxiety disorders,340.51376511627905,African Region,Average
+0,1990,Depressive disorders,787.4893315,Eastern Mediterranean Region,Average
+1,1991,Depressive disorders,787.7754714999999,Eastern Mediterranean Region,Average
+2,1992,Depressive disorders,788.048219,Eastern Mediterranean Region,Average
+3,1993,Depressive disorders,788.3830745,Eastern Mediterranean Region,Average
+4,1994,Depressive disorders,788.8909395,Eastern Mediterranean Region,Average
+5,1995,Depressive disorders,789.4559865,Eastern Mediterranean Region,Average
+6,1996,Depressive disorders,789.6811425,Eastern Mediterranean Region,Average
+7,1997,Depressive disorders,789.5302604999999,Eastern Mediterranean Region,Average
+8,1998,Depressive disorders,789.3415765,Eastern Mediterranean Region,Average
+9,1999,Depressive disorders,789.1354535,Eastern Mediterranean Region,Average
+10,2000,Depressive disorders,789.131258,Eastern Mediterranean Region,Average
+11,2001,Depressive disorders,788.8503275,Eastern Mediterranean Region,Average
+12,2002,Depressive disorders,787.998336,Eastern Mediterranean Region,Average
+13,2003,Depressive disorders,786.8866734999999,Eastern Mediterranean Region,Average
+14,2004,Depressive disorders,785.593624,Eastern Mediterranean Region,Average
+15,2005,Depressive disorders,784.1012435,Eastern Mediterranean Region,Average
+16,2006,Depressive disorders,781.79225,Eastern Mediterranean Region,Average
+17,2007,Depressive disorders,778.472086,Eastern Mediterranean Region,Average
+18,2008,Depressive disorders,775.0167869999999,Eastern Mediterranean Region,Average
+19,2009,Depressive disorders,772.064996,Eastern Mediterranean Region,Average
+20,2010,Depressive disorders,770.253204,Eastern Mediterranean Region,Average
+21,2011,Depressive disorders,770.0287955,Eastern Mediterranean Region,Average
+22,2012,Depressive disorders,771.4068494999999,Eastern Mediterranean Region,Average
+23,2013,Depressive disorders,773.4849004999999,Eastern Mediterranean Region,Average
+24,2014,Depressive disorders,775.464029,Eastern Mediterranean Region,Average
+25,2015,Depressive disorders,776.155222,Eastern Mediterranean Region,Average
+26,2016,Depressive disorders,774.7626634999999,Eastern Mediterranean Region,Average
+27,2017,Depressive disorders,773.4647759999999,Eastern Mediterranean Region,Average
+28,2018,Depressive disorders,774.92069,Eastern Mediterranean Region,Average
+29,2019,Depressive disorders,778.5208964999999,Eastern Mediterranean Region,Average
+30,1990,Schizophrenia,160.93594075,Eastern Mediterranean Region,Average
+31,1991,Schizophrenia,160.823906,Eastern Mediterranean Region,Average
+32,1992,Schizophrenia,160.59681500000002,Eastern Mediterranean Region,Average
+33,1993,Schizophrenia,160.46009,Eastern Mediterranean Region,Average
+34,1994,Schizophrenia,160.367525,Eastern Mediterranean Region,Average
+35,1995,Schizophrenia,160.25509030000003,Eastern Mediterranean Region,Average
+36,1996,Schizophrenia,160.32097900000002,Eastern Mediterranean Region,Average
+37,1997,Schizophrenia,160.2849115,Eastern Mediterranean Region,Average
+38,1998,Schizophrenia,160.2821005,Eastern Mediterranean Region,Average
+39,1999,Schizophrenia,160.30489799999998,Eastern Mediterranean Region,Average
+40,2000,Schizophrenia,160.208928,Eastern Mediterranean Region,Average
+41,2001,Schizophrenia,160.16932300000002,Eastern Mediterranean Region,Average
+42,2002,Schizophrenia,160.20269725000003,Eastern Mediterranean Region,Average
+43,2003,Schizophrenia,160.018228,Eastern Mediterranean Region,Average
+44,2004,Schizophrenia,160.03650720000002,Eastern Mediterranean Region,Average
+45,2005,Schizophrenia,159.99712825,Eastern Mediterranean Region,Average
+46,2006,Schizophrenia,159.990842,Eastern Mediterranean Region,Average
+47,2007,Schizophrenia,159.9643345,Eastern Mediterranean Region,Average
+48,2008,Schizophrenia,159.97297100000003,Eastern Mediterranean Region,Average
+49,2009,Schizophrenia,159.956165,Eastern Mediterranean Region,Average
+50,2010,Schizophrenia,159.9390855,Eastern Mediterranean Region,Average
+51,2011,Schizophrenia,159.9189695,Eastern Mediterranean Region,Average
+52,2012,Schizophrenia,159.914572,Eastern Mediterranean Region,Average
+53,2013,Schizophrenia,159.84829050000002,Eastern Mediterranean Region,Average
+54,2014,Schizophrenia,159.817426,Eastern Mediterranean Region,Average
+55,2015,Schizophrenia,159.739064,Eastern Mediterranean Region,Average
+56,2016,Schizophrenia,159.67680699999997,Eastern Mediterranean Region,Average
+57,2017,Schizophrenia,159.563886,Eastern Mediterranean Region,Average
+58,2018,Schizophrenia,159.42378200000002,Eastern Mediterranean Region,Average
+59,2019,Schizophrenia,159.27473725,Eastern Mediterranean Region,Average
+60,1990,Bipolar disorder,156.0421425,Eastern Mediterranean Region,Average
+61,1991,Bipolar disorder,156.04474,Eastern Mediterranean Region,Average
+62,1992,Bipolar disorder,156.0224193,Eastern Mediterranean Region,Average
+63,1993,Bipolar disorder,155.97399330000002,Eastern Mediterranean Region,Average
+64,1994,Bipolar disorder,155.982359,Eastern Mediterranean Region,Average
+65,1995,Bipolar disorder,156.0473262,Eastern Mediterranean Region,Average
+66,1996,Bipolar disorder,156.0204983,Eastern Mediterranean Region,Average
+67,1997,Bipolar disorder,156.0649315,Eastern Mediterranean Region,Average
+68,1998,Bipolar disorder,156.0780315,Eastern Mediterranean Region,Average
+69,1999,Bipolar disorder,156.0843435,Eastern Mediterranean Region,Average
+70,2000,Bipolar disorder,156.1305645,Eastern Mediterranean Region,Average
+71,2001,Bipolar disorder,156.18466325,Eastern Mediterranean Region,Average
+72,2002,Bipolar disorder,156.2028495,Eastern Mediterranean Region,Average
+73,2003,Bipolar disorder,156.1575852,Eastern Mediterranean Region,Average
+74,2004,Bipolar disorder,156.2070805,Eastern Mediterranean Region,Average
+75,2005,Bipolar disorder,156.1883433,Eastern Mediterranean Region,Average
+76,2006,Bipolar disorder,156.1669413,Eastern Mediterranean Region,Average
+77,2007,Bipolar disorder,156.0571235,Eastern Mediterranean Region,Average
+78,2008,Bipolar disorder,156.04191070000005,Eastern Mediterranean Region,Average
+79,2009,Bipolar disorder,156.01302399999997,Eastern Mediterranean Region,Average
+80,2010,Bipolar disorder,156.00126375,Eastern Mediterranean Region,Average
+81,2011,Bipolar disorder,155.9883067,Eastern Mediterranean Region,Average
+82,2012,Bipolar disorder,155.96691800000002,Eastern Mediterranean Region,Average
+83,2013,Bipolar disorder,155.96516400000002,Eastern Mediterranean Region,Average
+84,2014,Bipolar disorder,156.0108205,Eastern Mediterranean Region,Average
+85,2015,Bipolar disorder,156.02324600000003,Eastern Mediterranean Region,Average
+86,2016,Bipolar disorder,156.0199407,Eastern Mediterranean Region,Average
+87,2017,Bipolar disorder,156.06654699999996,Eastern Mediterranean Region,Average
+88,2018,Bipolar disorder,156.05219549999998,Eastern Mediterranean Region,Average
+89,2019,Bipolar disorder,156.0356413,Eastern Mediterranean Region,Average
+90,1990,Eating disorders,40.26377405000001,Eastern Mediterranean Region,Average
+91,1991,Eating disorders,40.00977590000001,Eastern Mediterranean Region,Average
+92,1992,Eating disorders,39.79596705,Eastern Mediterranean Region,Average
+93,1993,Eating disorders,39.64785495,Eastern Mediterranean Region,Average
+94,1994,Eating disorders,39.5715592,Eastern Mediterranean Region,Average
+95,1995,Eating disorders,39.54753575,Eastern Mediterranean Region,Average
+96,1996,Eating disorders,39.574460300000005,Eastern Mediterranean Region,Average
+97,1997,Eating disorders,39.64459185,Eastern Mediterranean Region,Average
+98,1998,Eating disorders,39.7767505,Eastern Mediterranean Region,Average
+99,1999,Eating disorders,39.9177917,Eastern Mediterranean Region,Average
+100,2000,Eating disorders,40.07212035,Eastern Mediterranean Region,Average
+101,2001,Eating disorders,40.2677282,Eastern Mediterranean Region,Average
+102,2002,Eating disorders,40.48151360000001,Eastern Mediterranean Region,Average
+103,2003,Eating disorders,40.6877502,Eastern Mediterranean Region,Average
+104,2004,Eating disorders,40.9347571,Eastern Mediterranean Region,Average
+105,2005,Eating disorders,41.1548952,Eastern Mediterranean Region,Average
+106,2006,Eating disorders,41.33328005,Eastern Mediterranean Region,Average
+107,2007,Eating disorders,41.55611935,Eastern Mediterranean Region,Average
+108,2008,Eating disorders,41.79434809999999,Eastern Mediterranean Region,Average
+109,2009,Eating disorders,42.06505145,Eastern Mediterranean Region,Average
+110,2010,Eating disorders,42.2697689,Eastern Mediterranean Region,Average
+111,2011,Eating disorders,42.407021150000006,Eastern Mediterranean Region,Average
+112,2012,Eating disorders,42.58228967500001,Eastern Mediterranean Region,Average
+113,2013,Eating disorders,42.74069475,Eastern Mediterranean Region,Average
+114,2014,Eating disorders,42.92266075,Eastern Mediterranean Region,Average
+115,2015,Eating disorders,43.09320365,Eastern Mediterranean Region,Average
+116,2016,Eating disorders,43.2370562,Eastern Mediterranean Region,Average
+117,2017,Eating disorders,43.3242109,Eastern Mediterranean Region,Average
+118,2018,Eating disorders,43.3323504,Eastern Mediterranean Region,Average
+119,2019,Eating disorders,43.3086186,Eastern Mediterranean Region,Average
+120,1990,Anxiety disorders,434.22367,Eastern Mediterranean Region,Average
+121,1991,Anxiety disorders,434.337209,Eastern Mediterranean Region,Average
+122,1992,Anxiety disorders,434.3605505,Eastern Mediterranean Region,Average
+123,1993,Anxiety disorders,434.5536805,Eastern Mediterranean Region,Average
+124,1994,Anxiety disorders,434.7870180000001,Eastern Mediterranean Region,Average
+125,1995,Anxiety disorders,435.06104750000014,Eastern Mediterranean Region,Average
+126,1996,Anxiety disorders,434.8015415000001,Eastern Mediterranean Region,Average
+127,1997,Anxiety disorders,434.1253115,Eastern Mediterranean Region,Average
+128,1998,Anxiety disorders,433.4689205,Eastern Mediterranean Region,Average
+129,1999,Anxiety disorders,433.0003235,Eastern Mediterranean Region,Average
+130,2000,Anxiety disorders,432.942847,Eastern Mediterranean Region,Average
+131,2001,Anxiety disorders,433.0819460000001,Eastern Mediterranean Region,Average
+132,2002,Anxiety disorders,433.1891835,Eastern Mediterranean Region,Average
+133,2003,Anxiety disorders,433.2652435,Eastern Mediterranean Region,Average
+134,2004,Anxiety disorders,433.448345,Eastern Mediterranean Region,Average
+135,2005,Anxiety disorders,433.673935,Eastern Mediterranean Region,Average
+136,2006,Anxiety disorders,434.3742515,Eastern Mediterranean Region,Average
+137,2007,Anxiety disorders,435.916781,Eastern Mediterranean Region,Average
+138,2008,Anxiety disorders,437.988247,Eastern Mediterranean Region,Average
+139,2009,Anxiety disorders,440.000745,Eastern Mediterranean Region,Average
+140,2010,Anxiety disorders,441.1701405,Eastern Mediterranean Region,Average
+141,2011,Anxiety disorders,441.916172,Eastern Mediterranean Region,Average
+142,2012,Anxiety disorders,443.3022295,Eastern Mediterranean Region,Average
+143,2013,Anxiety disorders,445.1149214999999,Eastern Mediterranean Region,Average
+144,2014,Anxiety disorders,446.796357,Eastern Mediterranean Region,Average
+145,2015,Anxiety disorders,447.778115,Eastern Mediterranean Region,Average
+146,2016,Anxiety disorders,447.1871265,Eastern Mediterranean Region,Average
+147,2017,Anxiety disorders,446.531841,Eastern Mediterranean Region,Average
+148,2018,Anxiety disorders,446.7284354999999,Eastern Mediterranean Region,Average
+149,2019,Anxiety disorders,447.2984845000001,Eastern Mediterranean Region,Average
+0,1990,Depressive disorders,632.9080263461539,European Region,Average
+1,1991,Depressive disorders,630.8110121153846,European Region,Average
+2,1992,Depressive disorders,628.9196751923076,European Region,Average
+3,1993,Depressive disorders,627.2039651923077,European Region,Average
+4,1994,Depressive disorders,625.7415598076923,European Region,Average
+5,1995,Depressive disorders,624.6072298076923,European Region,Average
+6,1996,Depressive disorders,624.1531325,European Region,Average
+7,1997,Depressive disorders,624.5504905769232,European Region,Average
+8,1998,Depressive disorders,625.0464048076924,European Region,Average
+9,1999,Depressive disorders,625.1285811538462,European Region,Average
+10,2000,Depressive disorders,624.1287211538461,European Region,Average
+11,2001,Depressive disorders,621.1064861538463,European Region,Average
+12,2002,Depressive disorders,616.2998207692308,European Region,Average
+13,2003,Depressive disorders,610.7615026923078,European Region,Average
+14,2004,Depressive disorders,605.5425676923077,European Region,Average
+15,2005,Depressive disorders,601.8585934615385,European Region,Average
+16,2006,Depressive disorders,599.2208148076924,European Region,Average
+17,2007,Depressive disorders,596.5966799999999,European Region,Average
+18,2008,Depressive disorders,594.2760103846153,European Region,Average
+19,2009,Depressive disorders,592.2522886538461,European Region,Average
+20,2010,Depressive disorders,590.639565,European Region,Average
+21,2011,Depressive disorders,588.8149859615386,European Region,Average
+22,2012,Depressive disorders,586.064699423077,European Region,Average
+23,2013,Depressive disorders,583.1627251923078,European Region,Average
+24,2014,Depressive disorders,580.8060624999999,European Region,Average
+25,2015,Depressive disorders,579.7036653846154,European Region,Average
+26,2016,Depressive disorders,580.3860532692307,European Region,Average
+27,2017,Depressive disorders,581.3578423076923,European Region,Average
+28,2018,Depressive disorders,582.5187063461539,European Region,Average
+29,2019,Depressive disorders,584.6880284615385,European Region,Average
+30,1990,Schizophrenia,179.47146634615385,European Region,Average
+31,1991,Schizophrenia,179.2063005769231,European Region,Average
+32,1992,Schizophrenia,179.02685288461538,European Region,Average
+33,1993,Schizophrenia,178.88471211538462,European Region,Average
+34,1994,Schizophrenia,178.71898750000005,European Region,Average
+35,1995,Schizophrenia,178.66638980769227,European Region,Average
+36,1996,Schizophrenia,178.60420942307695,European Region,Average
+37,1997,Schizophrenia,178.56792403846154,European Region,Average
+38,1998,Schizophrenia,178.58329211538464,European Region,Average
+39,1999,Schizophrenia,178.59957192307695,European Region,Average
+40,2000,Schizophrenia,178.62659615384615,European Region,Average
+41,2001,Schizophrenia,178.69654288461535,European Region,Average
+42,2002,Schizophrenia,178.81397884615387,European Region,Average
+43,2003,Schizophrenia,178.91536326923077,European Region,Average
+44,2004,Schizophrenia,179.07953269230768,European Region,Average
+45,2005,Schizophrenia,179.16141307692308,European Region,Average
+46,2006,Schizophrenia,179.35858269230766,European Region,Average
+47,2007,Schizophrenia,179.59927192307694,European Region,Average
+48,2008,Schizophrenia,179.8824892307692,European Region,Average
+49,2009,Schizophrenia,180.1506401923077,European Region,Average
+50,2010,Schizophrenia,180.3270496153846,European Region,Average
+51,2011,Schizophrenia,180.48121576923077,European Region,Average
+52,2012,Schizophrenia,180.76028634615383,European Region,Average
+53,2013,Schizophrenia,181.01002980769232,European Region,Average
+54,2014,Schizophrenia,181.23010769230768,European Region,Average
+55,2015,Schizophrenia,181.37364711538464,European Region,Average
+56,2016,Schizophrenia,181.46644423076924,European Region,Average
+57,2017,Schizophrenia,181.5820244230769,European Region,Average
+58,2018,Schizophrenia,181.2417959615385,European Region,Average
+59,2019,Schizophrenia,180.56034423076923,European Region,Average
+60,1990,Bipolar disorder,153.3974677692308,European Region,Average
+61,1991,Bipolar disorder,153.4201723846154,European Region,Average
+62,1992,Bipolar disorder,153.40839067307692,European Region,Average
+63,1993,Bipolar disorder,153.41194784615385,European Region,Average
+64,1994,Bipolar disorder,153.42442190384617,European Region,Average
+65,1995,Bipolar disorder,153.41693313461536,European Region,Average
+66,1996,Bipolar disorder,153.43845259615384,European Region,Average
+67,1997,Bipolar disorder,153.4415475,European Region,Average
+68,1998,Bipolar disorder,153.45939215384615,European Region,Average
+69,1999,Bipolar disorder,153.44841682692305,European Region,Average
+70,2000,Bipolar disorder,153.46789998076923,European Region,Average
+71,2001,Bipolar disorder,153.4999423653846,European Region,Average
+72,2002,Bipolar disorder,153.54807151923077,European Region,Average
+73,2003,Bipolar disorder,153.63430471153845,European Region,Average
+74,2004,Bipolar disorder,153.68981628846154,European Region,Average
+75,2005,Bipolar disorder,153.70250626923078,European Region,Average
+76,2006,Bipolar disorder,153.68586523076922,European Region,Average
+77,2007,Bipolar disorder,153.70653121153848,European Region,Average
+78,2008,Bipolar disorder,153.72331478846155,European Region,Average
+79,2009,Bipolar disorder,153.7647596153846,European Region,Average
+80,2010,Bipolar disorder,153.78869398076924,European Region,Average
+81,2011,Bipolar disorder,153.81089688461535,European Region,Average
+82,2012,Bipolar disorder,153.82940692307693,European Region,Average
+83,2013,Bipolar disorder,153.85656238461536,European Region,Average
+84,2014,Bipolar disorder,153.88588830769228,European Region,Average
+85,2015,Bipolar disorder,153.90195653846152,European Region,Average
+86,2016,Bipolar disorder,153.81942750000002,European Region,Average
+87,2017,Bipolar disorder,153.815672,European Region,Average
+88,2018,Bipolar disorder,153.7903913653846,European Region,Average
+89,2019,Bipolar disorder,153.76617951923075,European Region,Average
+90,1990,Eating disorders,56.05445886538462,European Region,Average
+91,1991,Eating disorders,55.98117298076923,European Region,Average
+92,1992,Eating disorders,55.96193417307692,European Region,Average
+93,1993,Eating disorders,56.00010615384615,European Region,Average
+94,1994,Eating disorders,56.06547011538461,European Region,Average
+95,1995,Eating disorders,56.15696132692308,European Region,Average
+96,1996,Eating disorders,56.33464682692307,European Region,Average
+97,1997,Eating disorders,56.56153878846155,European Region,Average
+98,1998,Eating disorders,56.83865211538461,European Region,Average
+99,1999,Eating disorders,57.177926096153854,European Region,Average
+100,2000,Eating disorders,57.56080992307693,European Region,Average
+101,2001,Eating disorders,58.06661130769232,European Region,Average
+102,2002,Eating disorders,58.71146700961538,European Region,Average
+103,2003,Eating disorders,59.401992673076926,European Region,Average
+104,2004,Eating disorders,60.05975082692308,European Region,Average
+105,2005,Eating disorders,60.62158834615385,European Region,Average
+106,2006,Eating disorders,61.13866609615385,European Region,Average
+107,2007,Eating disorders,61.67833207692308,European Region,Average
+108,2008,Eating disorders,62.240206596153854,European Region,Average
+109,2009,Eating disorders,62.77020932692308,European Region,Average
+110,2010,Eating disorders,63.21154771153845,European Region,Average
+111,2011,Eating disorders,63.58367242307692,European Region,Average
+112,2012,Eating disorders,63.91603751923076,European Region,Average
+113,2013,Eating disorders,64.22555392307693,European Region,Average
+114,2014,Eating disorders,64.53380467307693,European Region,Average
+115,2015,Eating disorders,64.8294426923077,European Region,Average
+116,2016,Eating disorders,65.3677456153846,European Region,Average
+117,2017,Eating disorders,65.8737103076923,European Region,Average
+118,2018,Eating disorders,66.2114953076923,European Region,Average
+119,2019,Eating disorders,66.57536175,European Region,Average
+120,1990,Anxiety disorders,411.0491271153846,European Region,Average
+121,1991,Anxiety disorders,411.3833975000001,European Region,Average
+122,1992,Anxiety disorders,411.6287505769232,European Region,Average
+123,1993,Anxiety disorders,411.79110846153856,European Region,Average
+124,1994,Anxiety disorders,411.8238311538461,European Region,Average
+125,1995,Anxiety disorders,411.8160148076922,European Region,Average
+126,1996,Anxiety disorders,411.3174767307692,European Region,Average
+127,1997,Anxiety disorders,410.3269286538461,European Region,Average
+128,1998,Anxiety disorders,409.2601830769232,European Region,Average
+129,1999,Anxiety disorders,408.299283076923,European Region,Average
+130,2000,Anxiety disorders,407.8956028846154,European Region,Average
+131,2001,Anxiety disorders,407.9165146153846,European Region,Average
+132,2002,Anxiety disorders,407.9660817307692,European Region,Average
+133,2003,Anxiety disorders,408.0575190384615,European Region,Average
+134,2004,Anxiety disorders,408.2386009615384,European Region,Average
+135,2005,Anxiety disorders,408.5129555769231,European Region,Average
+136,2006,Anxiety disorders,409.452395,European Region,Average
+137,2007,Anxiety disorders,411.3583226923077,European Region,Average
+138,2008,Anxiety disorders,413.6705069230769,European Region,Average
+139,2009,Anxiety disorders,415.59191288461534,European Region,Average
+140,2010,Anxiety disorders,416.6428232692307,European Region,Average
+141,2011,Anxiety disorders,417.1660909615384,European Region,Average
+142,2012,Anxiety disorders,417.8517598076924,European Region,Average
+143,2013,Anxiety disorders,418.5390182692309,European Region,Average
+144,2014,Anxiety disorders,419.0697711538461,European Region,Average
+145,2015,Anxiety disorders,419.1931463461539,European Region,Average
+146,2016,Anxiety disorders,418.3729723076923,European Region,Average
+147,2017,Anxiety disorders,417.508063846154,European Region,Average
+148,2018,Anxiety disorders,417.0777165384615,European Region,Average
+149,2019,Anxiety disorders,416.42246211538463,European Region,Average
+0,1990,Depressive disorders,612.183208275862,Region of the Americas,Average
+1,1991,Depressive disorders,612.2074555172414,Region of the Americas,Average
+2,1992,Depressive disorders,612.3998258620691,Region of the Americas,Average
+3,1993,Depressive disorders,612.86837,Region of the Americas,Average
+4,1994,Depressive disorders,613.4366734482758,Region of the Americas,Average
+5,1995,Depressive disorders,614.266852413793,Region of the Americas,Average
+6,1996,Depressive disorders,615.9653110344829,Region of the Americas,Average
+7,1997,Depressive disorders,618.8390506896552,Region of the Americas,Average
+8,1998,Depressive disorders,621.9899662068965,Region of the Americas,Average
+9,1999,Depressive disorders,624.6502641379311,Region of the Americas,Average
+10,2000,Depressive disorders,625.9502744827587,Region of the Americas,Average
+11,2001,Depressive disorders,626.3325086206897,Region of the Americas,Average
+12,2002,Depressive disorders,626.5725055172413,Region of the Americas,Average
+13,2003,Depressive disorders,626.5994062068966,Region of the Americas,Average
+14,2004,Depressive disorders,626.2905824137931,Region of the Americas,Average
+15,2005,Depressive disorders,625.4954441379311,Region of the Americas,Average
+16,2006,Depressive disorders,622.9498193103449,Region of the Americas,Average
+17,2007,Depressive disorders,618.4988851724137,Region of the Americas,Average
+18,2008,Depressive disorders,613.3367193103447,Region of the Americas,Average
+19,2009,Depressive disorders,608.9667272413793,Region of the Americas,Average
+20,2010,Depressive disorders,606.580642413793,Region of the Americas,Average
+21,2011,Depressive disorders,605.8294303448276,Region of the Americas,Average
+22,2012,Depressive disorders,605.5150248275861,Region of the Americas,Average
+23,2013,Depressive disorders,605.4141365517243,Region of the Americas,Average
+24,2014,Depressive disorders,605.4183196551724,Region of the Americas,Average
+25,2015,Depressive disorders,605.3786786206897,Region of the Americas,Average
+26,2016,Depressive disorders,605.2858531034482,Region of the Americas,Average
+27,2017,Depressive disorders,605.1499203448276,Region of the Americas,Average
+28,2018,Depressive disorders,605.5538313793104,Region of the Americas,Average
+29,2019,Depressive disorders,606.3004265517242,Region of the Americas,Average
+30,1990,Schizophrenia,180.05863586206894,Region of the Americas,Average
+31,1991,Schizophrenia,180.09490413793102,Region of the Americas,Average
+32,1992,Schizophrenia,180.1581610344828,Region of the Americas,Average
+33,1993,Schizophrenia,180.22329689655172,Region of the Americas,Average
+34,1994,Schizophrenia,180.2532344827586,Region of the Americas,Average
+35,1995,Schizophrenia,180.27544241379312,Region of the Americas,Average
+36,1996,Schizophrenia,180.35620793103445,Region of the Americas,Average
+37,1997,Schizophrenia,180.46850379310345,Region of the Americas,Average
+38,1998,Schizophrenia,180.5576189655173,Region of the Americas,Average
+39,1999,Schizophrenia,180.65374517241375,Region of the Americas,Average
+40,2000,Schizophrenia,180.7079972413793,Region of the Americas,Average
+41,2001,Schizophrenia,180.7442679310345,Region of the Americas,Average
+42,2002,Schizophrenia,180.9075675862069,Region of the Americas,Average
+43,2003,Schizophrenia,181.0159251724138,Region of the Americas,Average
+44,2004,Schizophrenia,181.1997593103449,Region of the Americas,Average
+45,2005,Schizophrenia,181.32124310344827,Region of the Americas,Average
+46,2006,Schizophrenia,181.4538548275862,Region of the Americas,Average
+47,2007,Schizophrenia,181.7403913793103,Region of the Americas,Average
+48,2008,Schizophrenia,182.03350413793103,Region of the Americas,Average
+49,2009,Schizophrenia,182.2695413793103,Region of the Americas,Average
+50,2010,Schizophrenia,182.45403413793105,Region of the Americas,Average
+51,2011,Schizophrenia,182.4159810344828,Region of the Americas,Average
+52,2012,Schizophrenia,182.36094551724145,Region of the Americas,Average
+53,2013,Schizophrenia,182.27838586206897,Region of the Americas,Average
+54,2014,Schizophrenia,182.1935575862069,Region of the Americas,Average
+55,2015,Schizophrenia,182.1980896551724,Region of the Americas,Average
+56,2016,Schizophrenia,182.21325827586205,Region of the Americas,Average
+57,2017,Schizophrenia,182.21440827586207,Region of the Americas,Average
+58,2018,Schizophrenia,182.20456862068963,Region of the Americas,Average
+59,2019,Schizophrenia,182.1754355172414,Region of the Americas,Average
+60,1990,Bipolar disorder,191.8423058620689,Region of the Americas,Average
+61,1991,Bipolar disorder,191.81703137931035,Region of the Americas,Average
+62,1992,Bipolar disorder,191.8321155172414,Region of the Americas,Average
+63,1993,Bipolar disorder,191.8320710344828,Region of the Americas,Average
+64,1994,Bipolar disorder,191.86191482758625,Region of the Americas,Average
+65,1995,Bipolar disorder,191.8898237931035,Region of the Americas,Average
+66,1996,Bipolar disorder,191.87224517241376,Region of the Americas,Average
+67,1997,Bipolar disorder,191.8798413793104,Region of the Americas,Average
+68,1998,Bipolar disorder,191.86119,Region of the Americas,Average
+69,1999,Bipolar disorder,191.8525755172414,Region of the Americas,Average
+70,2000,Bipolar disorder,191.8553110344828,Region of the Americas,Average
+71,2001,Bipolar disorder,192.00202,Region of the Americas,Average
+72,2002,Bipolar disorder,192.3883010344828,Region of the Americas,Average
+73,2003,Bipolar disorder,192.8467220689656,Region of the Americas,Average
+74,2004,Bipolar disorder,193.22148517241376,Region of the Americas,Average
+75,2005,Bipolar disorder,193.37573551724137,Region of the Americas,Average
+76,2006,Bipolar disorder,193.40678344827583,Region of the Americas,Average
+77,2007,Bipolar disorder,193.4239265517241,Region of the Americas,Average
+78,2008,Bipolar disorder,193.41491655172408,Region of the Americas,Average
+79,2009,Bipolar disorder,193.43453724137933,Region of the Americas,Average
+80,2010,Bipolar disorder,193.46144551724132,Region of the Americas,Average
+81,2011,Bipolar disorder,193.4520565517241,Region of the Americas,Average
+82,2012,Bipolar disorder,193.3741806896552,Region of the Americas,Average
+83,2013,Bipolar disorder,193.386808275862,Region of the Americas,Average
+84,2014,Bipolar disorder,193.4009065517241,Region of the Americas,Average
+85,2015,Bipolar disorder,193.34168965517244,Region of the Americas,Average
+86,2016,Bipolar disorder,193.31586413793104,Region of the Americas,Average
+87,2017,Bipolar disorder,193.28631137931035,Region of the Americas,Average
+88,2018,Bipolar disorder,193.2449289655173,Region of the Americas,Average
+89,2019,Bipolar disorder,193.2257751724138,Region of the Americas,Average
+90,1990,Eating disorders,45.8557901724138,Region of the Americas,Average
+91,1991,Eating disorders,46.00695682758621,Region of the Americas,Average
+92,1992,Eating disorders,46.1879525862069,Region of the Americas,Average
+93,1993,Eating disorders,46.35324072413794,Region of the Americas,Average
+94,1994,Eating disorders,46.54158765517241,Region of the Americas,Average
+95,1995,Eating disorders,46.67847306896552,Region of the Americas,Average
+96,1996,Eating disorders,46.81353727586207,Region of the Americas,Average
+97,1997,Eating disorders,47.03098424137931,Region of the Americas,Average
+98,1998,Eating disorders,47.22767796551725,Region of the Americas,Average
+99,1999,Eating disorders,47.43913934482758,Region of the Americas,Average
+100,2000,Eating disorders,47.6023158275862,Region of the Americas,Average
+101,2001,Eating disorders,47.77056510344826,Region of the Americas,Average
+102,2002,Eating disorders,47.97964803448276,Region of the Americas,Average
+103,2003,Eating disorders,48.19984975862069,Region of the Americas,Average
+104,2004,Eating disorders,48.441465655172415,Region of the Americas,Average
+105,2005,Eating disorders,48.6912671724138,Region of the Americas,Average
+106,2006,Eating disorders,49.01059286206896,Region of the Americas,Average
+107,2007,Eating disorders,49.43301175862069,Region of the Americas,Average
+108,2008,Eating disorders,49.92618844827585,Region of the Americas,Average
+109,2009,Eating disorders,50.396379793103456,Region of the Americas,Average
+110,2010,Eating disorders,50.77644037931034,Region of the Americas,Average
+111,2011,Eating disorders,51.07127279310345,Region of the Americas,Average
+112,2012,Eating disorders,51.33389293103448,Region of the Americas,Average
+113,2013,Eating disorders,51.57214024137931,Region of the Americas,Average
+114,2014,Eating disorders,51.80792027586208,Region of the Americas,Average
+115,2015,Eating disorders,52.083587551724136,Region of the Americas,Average
+116,2016,Eating disorders,52.51486889655172,Region of the Americas,Average
+117,2017,Eating disorders,52.87255503448276,Region of the Americas,Average
+118,2018,Eating disorders,53.04890851724139,Region of the Americas,Average
+119,2019,Eating disorders,53.18242800000001,Region of the Americas,Average
+120,1990,Anxiety disorders,429.26204310344826,Region of the Americas,Average
+121,1991,Anxiety disorders,429.19328,Region of the Americas,Average
+122,1992,Anxiety disorders,429.1819127586207,Region of the Americas,Average
+123,1993,Anxiety disorders,429.2534789655173,Region of the Americas,Average
+124,1994,Anxiety disorders,429.4431279310344,Region of the Americas,Average
+125,1995,Anxiety disorders,429.5298848275862,Region of the Americas,Average
+126,1996,Anxiety disorders,430.4564210344828,Region of the Americas,Average
+127,1997,Anxiety disorders,432.6081834482758,Region of the Americas,Average
+128,1998,Anxiety disorders,435.24546551724137,Region of the Americas,Average
+129,1999,Anxiety disorders,437.68520517241376,Region of the Americas,Average
+130,2000,Anxiety disorders,439.3917862068965,Region of the Americas,Average
+131,2001,Anxiety disorders,440.44831517241374,Region of the Americas,Average
+132,2002,Anxiety disorders,441.4880955172414,Region of the Americas,Average
+133,2003,Anxiety disorders,442.4032279310345,Region of the Americas,Average
+134,2004,Anxiety disorders,443.0272106896553,Region of the Americas,Average
+135,2005,Anxiety disorders,443.30795620689656,Region of the Americas,Average
+136,2006,Anxiety disorders,443.1993137931035,Region of the Americas,Average
+137,2007,Anxiety disorders,443.1401151724138,Region of the Americas,Average
+138,2008,Anxiety disorders,443.0261189655173,Region of the Americas,Average
+139,2009,Anxiety disorders,443.0116189655173,Region of the Americas,Average
+140,2010,Anxiety disorders,443.15346793103447,Region of the Americas,Average
+141,2011,Anxiety disorders,443.1147744827586,Region of the Americas,Average
+142,2012,Anxiety disorders,442.7895231034483,Region of the Americas,Average
+143,2013,Anxiety disorders,442.31816551724137,Region of the Americas,Average
+144,2014,Anxiety disorders,442.0199565517242,Region of the Americas,Average
+145,2015,Anxiety disorders,442.1596196551725,Region of the Americas,Average
+146,2016,Anxiety disorders,443.44251,Region of the Americas,Average
+147,2017,Anxiety disorders,444.5535610344828,Region of the Americas,Average
+148,2018,Anxiety disorders,445.41372517241376,Region of the Americas,Average
+149,2019,Anxiety disorders,446.9940703448276,Region of the Americas,Average
+0,1990,Depressive disorders,576.56856,South-East Asia Region,Average
+1,1991,Depressive disorders,577.825813,South-East Asia Region,Average
+2,1992,Depressive disorders,578.7304879999999,South-East Asia Region,Average
+3,1993,Depressive disorders,579.26197,South-East Asia Region,Average
+4,1994,Depressive disorders,579.321081,South-East Asia Region,Average
+5,1995,Depressive disorders,578.7120550000001,South-East Asia Region,Average
+6,1996,Depressive disorders,578.037724,South-East Asia Region,Average
+7,1997,Depressive disorders,577.3075510000001,South-East Asia Region,Average
+8,1998,Depressive disorders,576.7257010000001,South-East Asia Region,Average
+9,1999,Depressive disorders,575.9384379999999,South-East Asia Region,Average
+10,2000,Depressive disorders,574.693388,South-East Asia Region,Average
+11,2001,Depressive disorders,573.439151,South-East Asia Region,Average
+12,2002,Depressive disorders,572.514114,South-East Asia Region,Average
+13,2003,Depressive disorders,571.6635699999999,South-East Asia Region,Average
+14,2004,Depressive disorders,570.5987620000001,South-East Asia Region,Average
+15,2005,Depressive disorders,569.0579270000001,South-East Asia Region,Average
+16,2006,Depressive disorders,565.661974,South-East Asia Region,Average
+17,2007,Depressive disorders,559.700171,South-East Asia Region,Average
+18,2008,Depressive disorders,553.0554040000001,South-East Asia Region,Average
+19,2009,Depressive disorders,547.519583,South-East Asia Region,Average
+20,2010,Depressive disorders,544.616215,South-East Asia Region,Average
+21,2011,Depressive disorders,543.4131299999999,South-East Asia Region,Average
+22,2012,Depressive disorders,541.7590090000001,South-East Asia Region,Average
+23,2013,Depressive disorders,540.033827,South-East Asia Region,Average
+24,2014,Depressive disorders,538.504091,South-East Asia Region,Average
+25,2015,Depressive disorders,537.719614,South-East Asia Region,Average
+26,2016,Depressive disorders,537.1115050000001,South-East Asia Region,Average
+27,2017,Depressive disorders,536.5862089999999,South-East Asia Region,Average
+28,2018,Depressive disorders,537.541569,South-East Asia Region,Average
+29,2019,Depressive disorders,539.7191849999999,South-East Asia Region,Average
+30,1990,Schizophrenia,178.56123300000002,South-East Asia Region,Average
+31,1991,Schizophrenia,178.84598,South-East Asia Region,Average
+32,1992,Schizophrenia,179.22360199999997,South-East Asia Region,Average
+33,1993,Schizophrenia,179.467703,South-East Asia Region,Average
+34,1994,Schizophrenia,179.605089,South-East Asia Region,Average
+35,1995,Schizophrenia,179.683294,South-East Asia Region,Average
+36,1996,Schizophrenia,179.78709899999996,South-East Asia Region,Average
+37,1997,Schizophrenia,179.760873,South-East Asia Region,Average
+38,1998,Schizophrenia,179.68428,South-East Asia Region,Average
+39,1999,Schizophrenia,179.775254,South-East Asia Region,Average
+40,2000,Schizophrenia,179.719571,South-East Asia Region,Average
+41,2001,Schizophrenia,179.95079,South-East Asia Region,Average
+42,2002,Schizophrenia,180.225837,South-East Asia Region,Average
+43,2003,Schizophrenia,180.603495,South-East Asia Region,Average
+44,2004,Schizophrenia,180.834432,South-East Asia Region,Average
+45,2005,Schizophrenia,181.005125,South-East Asia Region,Average
+46,2006,Schizophrenia,181.186434,South-East Asia Region,Average
+47,2007,Schizophrenia,181.238212,South-East Asia Region,Average
+48,2008,Schizophrenia,181.338574,South-East Asia Region,Average
+49,2009,Schizophrenia,181.474701,South-East Asia Region,Average
+50,2010,Schizophrenia,181.586781,South-East Asia Region,Average
+51,2011,Schizophrenia,181.87384000000003,South-East Asia Region,Average
+52,2012,Schizophrenia,182.33131,South-East Asia Region,Average
+53,2013,Schizophrenia,182.927232,South-East Asia Region,Average
+54,2014,Schizophrenia,183.403564,South-East Asia Region,Average
+55,2015,Schizophrenia,183.716233,South-East Asia Region,Average
+56,2016,Schizophrenia,183.651762,South-East Asia Region,Average
+57,2017,Schizophrenia,183.65779300000003,South-East Asia Region,Average
+58,2018,Schizophrenia,183.795673,South-East Asia Region,Average
+59,2019,Schizophrenia,184.087019,South-East Asia Region,Average
+60,1990,Bipolar disorder,71.93297290000001,South-East Asia Region,Average
+61,1991,Bipolar disorder,71.9706449,South-East Asia Region,Average
+62,1992,Bipolar disorder,72.00674380000001,South-East Asia Region,Average
+63,1993,Bipolar disorder,72.02623009999999,South-East Asia Region,Average
+64,1994,Bipolar disorder,71.98801929999999,South-East Asia Region,Average
+65,1995,Bipolar disorder,71.9819711,South-East Asia Region,Average
+66,1996,Bipolar disorder,72.0242532,South-East Asia Region,Average
+67,1997,Bipolar disorder,72.0270564,South-East Asia Region,Average
+68,1998,Bipolar disorder,72.0320221,South-East Asia Region,Average
+69,1999,Bipolar disorder,72.02960490000001,South-East Asia Region,Average
+70,2000,Bipolar disorder,72.05662630000002,South-East Asia Region,Average
+71,2001,Bipolar disorder,72.05668899999998,South-East Asia Region,Average
+72,2002,Bipolar disorder,72.05638059999998,South-East Asia Region,Average
+73,2003,Bipolar disorder,72.10427,South-East Asia Region,Average
+74,2004,Bipolar disorder,72.1655879,South-East Asia Region,Average
+75,2005,Bipolar disorder,72.1552808,South-East Asia Region,Average
+76,2006,Bipolar disorder,72.189605,South-East Asia Region,Average
+77,2007,Bipolar disorder,72.17541940000001,South-East Asia Region,Average
+78,2008,Bipolar disorder,72.2392429,South-East Asia Region,Average
+79,2009,Bipolar disorder,72.260557,South-East Asia Region,Average
+80,2010,Bipolar disorder,72.27107470000001,South-East Asia Region,Average
+81,2011,Bipolar disorder,72.2433999,South-East Asia Region,Average
+82,2012,Bipolar disorder,72.2203122,South-East Asia Region,Average
+83,2013,Bipolar disorder,72.2647374,South-East Asia Region,Average
+84,2014,Bipolar disorder,72.21230829999999,South-East Asia Region,Average
+85,2015,Bipolar disorder,72.23670860000001,South-East Asia Region,Average
+86,2016,Bipolar disorder,72.2124429,South-East Asia Region,Average
+87,2017,Bipolar disorder,72.22991240000002,South-East Asia Region,Average
+88,2018,Bipolar disorder,72.1938266,South-East Asia Region,Average
+89,2019,Bipolar disorder,72.2186105,South-East Asia Region,Average
+90,1990,Eating disorders,17.7201461,South-East Asia Region,Average
+91,1991,Eating disorders,17.8704089,South-East Asia Region,Average
+92,1992,Eating disorders,18.0308801,South-East Asia Region,Average
+93,1993,Eating disorders,18.153717800000003,South-East Asia Region,Average
+94,1994,Eating disorders,18.2814352,South-East Asia Region,Average
+95,1995,Eating disorders,18.4041986,South-East Asia Region,Average
+96,1996,Eating disorders,18.52201475,South-East Asia Region,Average
+97,1997,Eating disorders,18.6360716,South-East Asia Region,Average
+98,1998,Eating disorders,18.7489872,South-East Asia Region,Average
+99,1999,Eating disorders,18.8896955,South-East Asia Region,Average
+100,2000,Eating disorders,19.036085,South-East Asia Region,Average
+101,2001,Eating disorders,19.2073031,South-East Asia Region,Average
+102,2002,Eating disorders,19.3726526,South-East Asia Region,Average
+103,2003,Eating disorders,19.5899229,South-East Asia Region,Average
+104,2004,Eating disorders,19.8144615,South-East Asia Region,Average
+105,2005,Eating disorders,20.0323816,South-East Asia Region,Average
+106,2006,Eating disorders,20.2626371,South-East Asia Region,Average
+107,2007,Eating disorders,20.5386591,South-East Asia Region,Average
+108,2008,Eating disorders,20.8505738,South-East Asia Region,Average
+109,2009,Eating disorders,21.1489278,South-East Asia Region,Average
+110,2010,Eating disorders,21.4441083,South-East Asia Region,Average
+111,2011,Eating disorders,21.7536414,South-East Asia Region,Average
+112,2012,Eating disorders,22.073869800000004,South-East Asia Region,Average
+113,2013,Eating disorders,22.41461295,South-East Asia Region,Average
+114,2014,Eating disorders,22.765293,South-East Asia Region,Average
+115,2015,Eating disorders,23.1007263,South-East Asia Region,Average
+116,2016,Eating disorders,23.536383800000003,South-East Asia Region,Average
+117,2017,Eating disorders,23.917767500000004,South-East Asia Region,Average
+118,2018,Eating disorders,24.1972198,South-East Asia Region,Average
+119,2019,Eating disorders,24.458716000000003,South-East Asia Region,Average
+120,1990,Anxiety disorders,319.946318,South-East Asia Region,Average
+121,1991,Anxiety disorders,319.789819,South-East Asia Region,Average
+122,1992,Anxiety disorders,319.718859,South-East Asia Region,Average
+123,1993,Anxiety disorders,319.63474999999994,South-East Asia Region,Average
+124,1994,Anxiety disorders,319.55475600000005,South-East Asia Region,Average
+125,1995,Anxiety disorders,319.42675,South-East Asia Region,Average
+126,1996,Anxiety disorders,319.272807,South-East Asia Region,Average
+127,1997,Anxiety disorders,318.927409,South-East Asia Region,Average
+128,1998,Anxiety disorders,318.468927,South-East Asia Region,Average
+129,1999,Anxiety disorders,318.21635899999995,South-East Asia Region,Average
+130,2000,Anxiety disorders,318.294908,South-East Asia Region,Average
+131,2001,Anxiety disorders,318.77526900000004,South-East Asia Region,Average
+132,2002,Anxiety disorders,319.828451,South-East Asia Region,Average
+133,2003,Anxiety disorders,321.034541,South-East Asia Region,Average
+134,2004,Anxiety disorders,322.164944,South-East Asia Region,Average
+135,2005,Anxiety disorders,322.817425,South-East Asia Region,Average
+136,2006,Anxiety disorders,323.329326,South-East Asia Region,Average
+137,2007,Anxiety disorders,324.086311,South-East Asia Region,Average
+138,2008,Anxiety disorders,324.96933,South-East Asia Region,Average
+139,2009,Anxiety disorders,325.856964,South-East Asia Region,Average
+140,2010,Anxiety disorders,326.550615,South-East Asia Region,Average
+141,2011,Anxiety disorders,327.331651,South-East Asia Region,Average
+142,2012,Anxiety disorders,328.29619,South-East Asia Region,Average
+143,2013,Anxiety disorders,329.34515300000004,South-East Asia Region,Average
+144,2014,Anxiety disorders,330.25021200000003,South-East Asia Region,Average
+145,2015,Anxiety disorders,330.90190799999993,South-East Asia Region,Average
+146,2016,Anxiety disorders,331.297378,South-East Asia Region,Average
+147,2017,Anxiety disorders,331.551975,South-East Asia Region,Average
+148,2018,Anxiety disorders,331.865393,South-East Asia Region,Average
+149,2019,Anxiety disorders,332.276518,South-East Asia Region,Average
+0,1990,Depressive disorders,520.8948635714286,Western Pacific Region,Average
+1,1991,Depressive disorders,521.4753885714287,Western Pacific Region,Average
+2,1992,Depressive disorders,521.7742735714286,Western Pacific Region,Average
+3,1993,Depressive disorders,521.7777964285714,Western Pacific Region,Average
+4,1994,Depressive disorders,521.5197871428571,Western Pacific Region,Average
+5,1995,Depressive disorders,521.1670457142857,Western Pacific Region,Average
+6,1996,Depressive disorders,519.7134399999999,Western Pacific Region,Average
+7,1997,Depressive disorders,517.3850092857143,Western Pacific Region,Average
+8,1998,Depressive disorders,514.6405207142858,Western Pacific Region,Average
+9,1999,Depressive disorders,512.2604707142857,Western Pacific Region,Average
+10,2000,Depressive disorders,510.8245142857142,Western Pacific Region,Average
+11,2001,Depressive disorders,510.7113864285714,Western Pacific Region,Average
+12,2002,Depressive disorders,511.1525264285714,Western Pacific Region,Average
+13,2003,Depressive disorders,511.6079264285714,Western Pacific Region,Average
+14,2004,Depressive disorders,511.7496471428572,Western Pacific Region,Average
+15,2005,Depressive disorders,511.0935278571428,Western Pacific Region,Average
+16,2006,Depressive disorders,509.0708471428572,Western Pacific Region,Average
+17,2007,Depressive disorders,506.1201992857143,Western Pacific Region,Average
+18,2008,Depressive disorders,502.8281085714286,Western Pacific Region,Average
+19,2009,Depressive disorders,500.1122014285714,Western Pacific Region,Average
+20,2010,Depressive disorders,498.3944635714286,Western Pacific Region,Average
+21,2011,Depressive disorders,498.1449164285714,Western Pacific Region,Average
+22,2012,Depressive disorders,498.59105357142863,Western Pacific Region,Average
+23,2013,Depressive disorders,499.38001214285714,Western Pacific Region,Average
+24,2014,Depressive disorders,500.0594500000001,Western Pacific Region,Average
+25,2015,Depressive disorders,500.17128714285707,Western Pacific Region,Average
+26,2016,Depressive disorders,498.80766357142863,Western Pacific Region,Average
+27,2017,Depressive disorders,497.42876642857146,Western Pacific Region,Average
+28,2018,Depressive disorders,497.53752714285713,Western Pacific Region,Average
+29,2019,Depressive disorders,498.0351057142857,Western Pacific Region,Average
+30,1990,Schizophrenia,191.2898242857143,Western Pacific Region,Average
+31,1991,Schizophrenia,191.6036392857143,Western Pacific Region,Average
+32,1992,Schizophrenia,191.92997642857145,Western Pacific Region,Average
+33,1993,Schizophrenia,192.1581557142857,Western Pacific Region,Average
+34,1994,Schizophrenia,192.3192092857143,Western Pacific Region,Average
+35,1995,Schizophrenia,192.4674857142857,Western Pacific Region,Average
+36,1996,Schizophrenia,192.51506357142856,Western Pacific Region,Average
+37,1997,Schizophrenia,192.58462285714288,Western Pacific Region,Average
+38,1998,Schizophrenia,192.5700057142857,Western Pacific Region,Average
+39,1999,Schizophrenia,192.5535485714286,Western Pacific Region,Average
+40,2000,Schizophrenia,192.6358942857143,Western Pacific Region,Average
+41,2001,Schizophrenia,192.8002792857143,Western Pacific Region,Average
+42,2002,Schizophrenia,193.10757785714287,Western Pacific Region,Average
+43,2003,Schizophrenia,193.5246371428572,Western Pacific Region,Average
+44,2004,Schizophrenia,193.7651192857143,Western Pacific Region,Average
+45,2005,Schizophrenia,193.9870428571428,Western Pacific Region,Average
+46,2006,Schizophrenia,194.1301621428572,Western Pacific Region,Average
+47,2007,Schizophrenia,194.3600335714286,Western Pacific Region,Average
+48,2008,Schizophrenia,194.55786642857143,Western Pacific Region,Average
+49,2009,Schizophrenia,194.737205,Western Pacific Region,Average
+50,2010,Schizophrenia,194.88311642857144,Western Pacific Region,Average
+51,2011,Schizophrenia,195.1068914285714,Western Pacific Region,Average
+52,2012,Schizophrenia,195.44974,Western Pacific Region,Average
+53,2013,Schizophrenia,195.8513321428572,Western Pacific Region,Average
+54,2014,Schizophrenia,196.2298671428572,Western Pacific Region,Average
+55,2015,Schizophrenia,196.45702214285717,Western Pacific Region,Average
+56,2016,Schizophrenia,196.54194285714283,Western Pacific Region,Average
+57,2017,Schizophrenia,196.5074678571429,Western Pacific Region,Average
+58,2018,Schizophrenia,196.63794785714285,Western Pacific Region,Average
+59,2019,Schizophrenia,196.9195021428571,Western Pacific Region,Average
+60,1990,Bipolar disorder,109.13722235714286,Western Pacific Region,Average
+61,1991,Bipolar disorder,109.12814257142858,Western Pacific Region,Average
+62,1992,Bipolar disorder,109.0936092142857,Western Pacific Region,Average
+63,1993,Bipolar disorder,109.1312847142857,Western Pacific Region,Average
+64,1994,Bipolar disorder,109.15176135714286,Western Pacific Region,Average
+65,1995,Bipolar disorder,109.1538385,Western Pacific Region,Average
+66,1996,Bipolar disorder,109.15586064285716,Western Pacific Region,Average
+67,1997,Bipolar disorder,109.15348164285712,Western Pacific Region,Average
+68,1998,Bipolar disorder,109.18148292857144,Western Pacific Region,Average
+69,1999,Bipolar disorder,109.20440657142858,Western Pacific Region,Average
+70,2000,Bipolar disorder,109.20553178571429,Western Pacific Region,Average
+71,2001,Bipolar disorder,109.34991292857144,Western Pacific Region,Average
+72,2002,Bipolar disorder,109.57594407142858,Western Pacific Region,Average
+73,2003,Bipolar disorder,109.918799,Western Pacific Region,Average
+74,2004,Bipolar disorder,110.1777617142857,Western Pacific Region,Average
+75,2005,Bipolar disorder,110.30376578571428,Western Pacific Region,Average
+76,2006,Bipolar disorder,110.27499092857144,Western Pacific Region,Average
+77,2007,Bipolar disorder,110.23696928571428,Western Pacific Region,Average
+78,2008,Bipolar disorder,110.13800542857145,Western Pacific Region,Average
+79,2009,Bipolar disorder,110.025091,Western Pacific Region,Average
+80,2010,Bipolar disorder,110.04248471428572,Western Pacific Region,Average
+81,2011,Bipolar disorder,110.01558864285714,Western Pacific Region,Average
+82,2012,Bipolar disorder,110.00349392857144,Western Pacific Region,Average
+83,2013,Bipolar disorder,110.01566585714284,Western Pacific Region,Average
+84,2014,Bipolar disorder,109.9903944285714,Western Pacific Region,Average
+85,2015,Bipolar disorder,109.98174821428572,Western Pacific Region,Average
+86,2016,Bipolar disorder,109.986617,Western Pacific Region,Average
+87,2017,Bipolar disorder,109.9692747142857,Western Pacific Region,Average
+88,2018,Bipolar disorder,109.97418978571427,Western Pacific Region,Average
+89,2019,Bipolar disorder,109.9788297857143,Western Pacific Region,Average
+90,1990,Eating disorders,41.814330857142856,Western Pacific Region,Average
+91,1991,Eating disorders,41.94659221428572,Western Pacific Region,Average
+92,1992,Eating disorders,42.07905035714286,Western Pacific Region,Average
+93,1993,Eating disorders,42.23786478571429,Western Pacific Region,Average
+94,1994,Eating disorders,42.37806171428571,Western Pacific Region,Average
+95,1995,Eating disorders,42.58614696428571,Western Pacific Region,Average
+96,1996,Eating disorders,42.86212971428571,Western Pacific Region,Average
+97,1997,Eating disorders,43.21248878571429,Western Pacific Region,Average
+98,1998,Eating disorders,43.60471221428571,Western Pacific Region,Average
+99,1999,Eating disorders,44.03335621428571,Western Pacific Region,Average
+100,2000,Eating disorders,44.40321371428571,Western Pacific Region,Average
+101,2001,Eating disorders,44.889502785714285,Western Pacific Region,Average
+102,2002,Eating disorders,45.612411214285714,Western Pacific Region,Average
+103,2003,Eating disorders,46.45160571428572,Western Pacific Region,Average
+104,2004,Eating disorders,47.21351707142857,Western Pacific Region,Average
+105,2005,Eating disorders,47.80952685714286,Western Pacific Region,Average
+106,2006,Eating disorders,48.19290128571429,Western Pacific Region,Average
+107,2007,Eating disorders,48.60434157142856,Western Pacific Region,Average
+108,2008,Eating disorders,49.05290092857143,Western Pacific Region,Average
+109,2009,Eating disorders,49.45744728571428,Western Pacific Region,Average
+110,2010,Eating disorders,49.88045357142857,Western Pacific Region,Average
+111,2011,Eating disorders,50.26908521428573,Western Pacific Region,Average
+112,2012,Eating disorders,50.67292742857143,Western Pacific Region,Average
+113,2013,Eating disorders,51.08655842857144,Western Pacific Region,Average
+114,2014,Eating disorders,51.51682692857144,Western Pacific Region,Average
+115,2015,Eating disorders,51.91573842857142,Western Pacific Region,Average
+116,2016,Eating disorders,52.50341100000001,Western Pacific Region,Average
+117,2017,Eating disorders,53.08080792857142,Western Pacific Region,Average
+118,2018,Eating disorders,53.41780107142857,Western Pacific Region,Average
+119,2019,Eating disorders,53.72049942857144,Western Pacific Region,Average
+120,1990,Anxiety disorders,377.3124935714285,Western Pacific Region,Average
+121,1991,Anxiety disorders,377.83885071428574,Western Pacific Region,Average
+122,1992,Anxiety disorders,378.2855842857143,Western Pacific Region,Average
+123,1993,Anxiety disorders,378.6931407142857,Western Pacific Region,Average
+124,1994,Anxiety disorders,378.8691400000001,Western Pacific Region,Average
+125,1995,Anxiety disorders,378.8977764285714,Western Pacific Region,Average
+126,1996,Anxiety disorders,378.90142714285713,Western Pacific Region,Average
+127,1997,Anxiety disorders,379.183775,Western Pacific Region,Average
+128,1998,Anxiety disorders,379.5411278571429,Western Pacific Region,Average
+129,1999,Anxiety disorders,379.83485500000006,Western Pacific Region,Average
+130,2000,Anxiety disorders,379.9183878571429,Western Pacific Region,Average
+131,2001,Anxiety disorders,379.5239392857143,Western Pacific Region,Average
+132,2002,Anxiety disorders,378.7688942857144,Western Pacific Region,Average
+133,2003,Anxiety disorders,377.913795,Western Pacific Region,Average
+134,2004,Anxiety disorders,377.11527142857136,Western Pacific Region,Average
+135,2005,Anxiety disorders,376.72582571428575,Western Pacific Region,Average
+136,2006,Anxiety disorders,376.676735,Western Pacific Region,Average
+137,2007,Anxiety disorders,376.57486642857145,Western Pacific Region,Average
+138,2008,Anxiety disorders,376.5303885714285,Western Pacific Region,Average
+139,2009,Anxiety disorders,376.5305264285713,Western Pacific Region,Average
+140,2010,Anxiety disorders,376.56654357142855,Western Pacific Region,Average
+141,2011,Anxiety disorders,376.8312928571429,Western Pacific Region,Average
+142,2012,Anxiety disorders,377.1475535714285,Western Pacific Region,Average
+143,2013,Anxiety disorders,377.5084992857143,Western Pacific Region,Average
+144,2014,Anxiety disorders,377.84747,Western Pacific Region,Average
+145,2015,Anxiety disorders,378.25918642857147,Western Pacific Region,Average
+146,2016,Anxiety disorders,380.2860564285715,Western Pacific Region,Average
+147,2017,Anxiety disorders,382.2729314285715,Western Pacific Region,Average
+148,2018,Anxiety disorders,382.6069364285714,Western Pacific Region,Average
+149,2019,Anxiety disorders,382.895095,Western Pacific Region,Average
+0,1990,Depressive disorders,813.768,African Region (WHO),WHO
+1,1991,Depressive disorders,811.63586,African Region (WHO),WHO
+2,1992,Depressive disorders,809.77264,African Region (WHO),WHO
+3,1993,Depressive disorders,808.22644,African Region (WHO),WHO
+4,1994,Depressive disorders,807.3702,African Region (WHO),WHO
+5,1995,Depressive disorders,807.08826,African Region (WHO),WHO
+6,1996,Depressive disorders,809.2946,African Region (WHO),WHO
+7,1997,Depressive disorders,814.5101,African Region (WHO),WHO
+8,1998,Depressive disorders,820.4837,African Region (WHO),WHO
+9,1999,Depressive disorders,825.38885,African Region (WHO),WHO
+10,2000,Depressive disorders,827.07385,African Region (WHO),WHO
+11,2001,Depressive disorders,826.40894,African Region (WHO),WHO
+12,2002,Depressive disorders,825.3656,African Region (WHO),WHO
+13,2003,Depressive disorders,824.13513,African Region (WHO),WHO
+14,2004,Depressive disorders,822.86224,African Region (WHO),WHO
+15,2005,Depressive disorders,821.6296,African Region (WHO),WHO
+16,2006,Depressive disorders,818.8298,African Region (WHO),WHO
+17,2007,Depressive disorders,813.46387,African Region (WHO),WHO
+18,2008,Depressive disorders,806.7373,African Region (WHO),WHO
+19,2009,Depressive disorders,800.0522,African Region (WHO),WHO
+20,2010,Depressive disorders,794.752,African Region (WHO),WHO
+21,2011,Depressive disorders,789.9784,African Region (WHO),WHO
+22,2012,Depressive disorders,784.7589,African Region (WHO),WHO
+23,2013,Depressive disorders,779.8364,African Region (WHO),WHO
+24,2014,Depressive disorders,776.3288,African Region (WHO),WHO
+25,2015,Depressive disorders,775.25635,African Region (WHO),WHO
+26,2016,Depressive disorders,776.6644,African Region (WHO),WHO
+27,2017,Depressive disorders,778.1041,African Region (WHO),WHO
+28,2018,Depressive disorders,778.90356,African Region (WHO),WHO
+29,2019,Depressive disorders,779.7414,African Region (WHO),WHO
+30,1990,Schizophrenia,135.87302,African Region (WHO),WHO
+31,1991,Schizophrenia,135.84152,African Region (WHO),WHO
+32,1992,Schizophrenia,135.82364,African Region (WHO),WHO
+33,1993,Schizophrenia,135.78175,African Region (WHO),WHO
+34,1994,Schizophrenia,135.70683,African Region (WHO),WHO
+35,1995,Schizophrenia,135.65288,African Region (WHO),WHO
+36,1996,Schizophrenia,135.53923,African Region (WHO),WHO
+37,1997,Schizophrenia,135.37222,African Region (WHO),WHO
+38,1998,Schizophrenia,135.18767,African Region (WHO),WHO
+39,1999,Schizophrenia,135.07938,African Region (WHO),WHO
+40,2000,Schizophrenia,134.99394,African Region (WHO),WHO
+41,2001,Schizophrenia,135.11406,African Region (WHO),WHO
+42,2002,Schizophrenia,135.36412,African Region (WHO),WHO
+43,2003,Schizophrenia,135.61188,African Region (WHO),WHO
+44,2004,Schizophrenia,135.90297,African Region (WHO),WHO
+45,2005,Schizophrenia,136.09467,African Region (WHO),WHO
+46,2006,Schizophrenia,136.184,African Region (WHO),WHO
+47,2007,Schizophrenia,136.28596,African Region (WHO),WHO
+48,2008,Schizophrenia,136.44983,African Region (WHO),WHO
+49,2009,Schizophrenia,136.52705,African Region (WHO),WHO
+50,2010,Schizophrenia,136.65668,African Region (WHO),WHO
+51,2011,Schizophrenia,136.7575,African Region (WHO),WHO
+52,2012,Schizophrenia,136.9345,African Region (WHO),WHO
+53,2013,Schizophrenia,137.172,African Region (WHO),WHO
+54,2014,Schizophrenia,137.35637,African Region (WHO),WHO
+55,2015,Schizophrenia,137.44264,African Region (WHO),WHO
+56,2016,Schizophrenia,137.57875,African Region (WHO),WHO
+57,2017,Schizophrenia,137.73848,African Region (WHO),WHO
+58,2018,Schizophrenia,137.91843,African Region (WHO),WHO
+59,2019,Schizophrenia,138.14122,African Region (WHO),WHO
+60,1990,Bipolar disorder,123.21381,African Region (WHO),WHO
+61,1991,Bipolar disorder,123.19559,African Region (WHO),WHO
+62,1992,Bipolar disorder,123.20784,African Region (WHO),WHO
+63,1993,Bipolar disorder,123.1872,African Region (WHO),WHO
+64,1994,Bipolar disorder,123.17723,African Region (WHO),WHO
+65,1995,Bipolar disorder,123.154884,African Region (WHO),WHO
+66,1996,Bipolar disorder,123.13204,African Region (WHO),WHO
+67,1997,Bipolar disorder,123.11671,African Region (WHO),WHO
+68,1998,Bipolar disorder,123.118996,African Region (WHO),WHO
+69,1999,Bipolar disorder,123.08099,African Region (WHO),WHO
+70,2000,Bipolar disorder,123.07383,African Region (WHO),WHO
+71,2001,Bipolar disorder,123.09037,African Region (WHO),WHO
+72,2002,Bipolar disorder,123.11003,African Region (WHO),WHO
+73,2003,Bipolar disorder,123.12501,African Region (WHO),WHO
+74,2004,Bipolar disorder,123.17873,African Region (WHO),WHO
+75,2005,Bipolar disorder,123.23318,African Region (WHO),WHO
+76,2006,Bipolar disorder,123.27816,African Region (WHO),WHO
+77,2007,Bipolar disorder,123.347916,African Region (WHO),WHO
+78,2008,Bipolar disorder,123.435585,African Region (WHO),WHO
+79,2009,Bipolar disorder,123.5169,African Region (WHO),WHO
+80,2010,Bipolar disorder,123.57414,African Region (WHO),WHO
+81,2011,Bipolar disorder,123.582306,African Region (WHO),WHO
+82,2012,Bipolar disorder,123.60925,African Region (WHO),WHO
+83,2013,Bipolar disorder,123.606964,African Region (WHO),WHO
+84,2014,Bipolar disorder,123.596535,African Region (WHO),WHO
+85,2015,Bipolar disorder,123.59214,African Region (WHO),WHO
+86,2016,Bipolar disorder,123.55772,African Region (WHO),WHO
+87,2017,Bipolar disorder,123.53566,African Region (WHO),WHO
+88,2018,Bipolar disorder,123.56626,African Region (WHO),WHO
+89,2019,Bipolar disorder,123.5525,African Region (WHO),WHO
+90,1990,Eating disorders,21.657314,African Region (WHO),WHO
+91,1991,Eating disorders,21.468536,African Region (WHO),WHO
+92,1992,Eating disorders,21.298965,African Region (WHO),WHO
+93,1993,Eating disorders,21.141212,African Region (WHO),WHO
+94,1994,Eating disorders,20.994555,African Region (WHO),WHO
+95,1995,Eating disorders,20.869705,African Region (WHO),WHO
+96,1996,Eating disorders,20.758709,African Region (WHO),WHO
+97,1997,Eating disorders,20.650179,African Region (WHO),WHO
+98,1998,Eating disorders,20.538477,African Region (WHO),WHO
+99,1999,Eating disorders,20.467896,African Region (WHO),WHO
+100,2000,Eating disorders,20.43388,African Region (WHO),WHO
+101,2001,Eating disorders,20.467358,African Region (WHO),WHO
+102,2002,Eating disorders,20.560804,African Region (WHO),WHO
+103,2003,Eating disorders,20.71793,African Region (WHO),WHO
+104,2004,Eating disorders,20.877773,African Region (WHO),WHO
+105,2005,Eating disorders,21.02292,African Region (WHO),WHO
+106,2006,Eating disorders,21.183002,African Region (WHO),WHO
+107,2007,Eating disorders,21.383629,African Region (WHO),WHO
+108,2008,Eating disorders,21.596321,African Region (WHO),WHO
+109,2009,Eating disorders,21.781809,African Region (WHO),WHO
+110,2010,Eating disorders,22.001614,African Region (WHO),WHO
+111,2011,Eating disorders,22.214363,African Region (WHO),WHO
+112,2012,Eating disorders,22.483326,African Region (WHO),WHO
+113,2013,Eating disorders,22.766666,African Region (WHO),WHO
+114,2014,Eating disorders,23.033365,African Region (WHO),WHO
+115,2015,Eating disorders,23.270254,African Region (WHO),WHO
+116,2016,Eating disorders,23.541826,African Region (WHO),WHO
+117,2017,Eating disorders,23.761179,African Region (WHO),WHO
+118,2018,Eating disorders,23.8502,African Region (WHO),WHO
+119,2019,Eating disorders,23.904,African Region (WHO),WHO
+120,1990,Anxiety disorders,332.0955,African Region (WHO),WHO
+121,1991,Anxiety disorders,331.84326,African Region (WHO),WHO
+122,1992,Anxiety disorders,331.59048,African Region (WHO),WHO
+123,1993,Anxiety disorders,331.4094,African Region (WHO),WHO
+124,1994,Anxiety disorders,331.24078,African Region (WHO),WHO
+125,1995,Anxiety disorders,331.09436,African Region (WHO),WHO
+126,1996,Anxiety disorders,330.84705,African Region (WHO),WHO
+127,1997,Anxiety disorders,330.51013,African Region (WHO),WHO
+128,1998,Anxiety disorders,330.1274,African Region (WHO),WHO
+129,1999,Anxiety disorders,329.83243,African Region (WHO),WHO
+130,2000,Anxiety disorders,329.6232,African Region (WHO),WHO
+131,2001,Anxiety disorders,329.35275,African Region (WHO),WHO
+132,2002,Anxiety disorders,328.93433,African Region (WHO),WHO
+133,2003,Anxiety disorders,328.5306,African Region (WHO),WHO
+134,2004,Anxiety disorders,328.17245,African Region (WHO),WHO
+135,2005,Anxiety disorders,328.00888,African Region (WHO),WHO
+136,2006,Anxiety disorders,328.56027,African Region (WHO),WHO
+137,2007,Anxiety disorders,329.77505,African Region (WHO),WHO
+138,2008,Anxiety disorders,331.29373,African Region (WHO),WHO
+139,2009,Anxiety disorders,332.63538,African Region (WHO),WHO
+140,2010,Anxiety disorders,333.32166,African Region (WHO),WHO
+141,2011,Anxiety disorders,333.56436,African Region (WHO),WHO
+142,2012,Anxiety disorders,333.83914,African Region (WHO),WHO
+143,2013,Anxiety disorders,334.15808,African Region (WHO),WHO
+144,2014,Anxiety disorders,334.46353,African Region (WHO),WHO
+145,2015,Anxiety disorders,334.79727,African Region (WHO),WHO
+146,2016,Anxiety disorders,335.50223,African Region (WHO),WHO
+147,2017,Anxiety disorders,336.14566,African Region (WHO),WHO
+148,2018,Anxiety disorders,335.9598,African Region (WHO),WHO
+149,2019,Anxiety disorders,335.29965,African Region (WHO),WHO
+0,1990,Depressive disorders,767.85474,Eastern Mediterranean Region (WHO),WHO
+1,1991,Depressive disorders,765.0626,Eastern Mediterranean Region (WHO),WHO
+2,1992,Depressive disorders,762.7414,Eastern Mediterranean Region (WHO),WHO
+3,1993,Depressive disorders,760.83563,Eastern Mediterranean Region (WHO),WHO
+4,1994,Depressive disorders,759.3411,Eastern Mediterranean Region (WHO),WHO
+5,1995,Depressive disorders,758.50964,Eastern Mediterranean Region (WHO),WHO
+6,1996,Depressive disorders,757.4681,Eastern Mediterranean Region (WHO),WHO
+7,1997,Depressive disorders,755.5222,Eastern Mediterranean Region (WHO),WHO
+8,1998,Depressive disorders,753.4568,Eastern Mediterranean Region (WHO),WHO
+9,1999,Depressive disorders,751.5733,Eastern Mediterranean Region (WHO),WHO
+10,2000,Depressive disorders,750.68195,Eastern Mediterranean Region (WHO),WHO
+11,2001,Depressive disorders,750.7374,Eastern Mediterranean Region (WHO),WHO
+12,2002,Depressive disorders,750.95337,Eastern Mediterranean Region (WHO),WHO
+13,2003,Depressive disorders,751.216,Eastern Mediterranean Region (WHO),WHO
+14,2004,Depressive disorders,751.40814,Eastern Mediterranean Region (WHO),WHO
+15,2005,Depressive disorders,751.5584,Eastern Mediterranean Region (WHO),WHO
+16,2006,Depressive disorders,751.2564,Eastern Mediterranean Region (WHO),WHO
+17,2007,Depressive disorders,750.5804,Eastern Mediterranean Region (WHO),WHO
+18,2008,Depressive disorders,749.59973,Eastern Mediterranean Region (WHO),WHO
+19,2009,Depressive disorders,748.73096,Eastern Mediterranean Region (WHO),WHO
+20,2010,Depressive disorders,747.89453,Eastern Mediterranean Region (WHO),WHO
+21,2011,Depressive disorders,748.60345,Eastern Mediterranean Region (WHO),WHO
+22,2012,Depressive disorders,751.90955,Eastern Mediterranean Region (WHO),WHO
+23,2013,Depressive disorders,755.90955,Eastern Mediterranean Region (WHO),WHO
+24,2014,Depressive disorders,759.1268,Eastern Mediterranean Region (WHO),WHO
+25,2015,Depressive disorders,760.0596,Eastern Mediterranean Region (WHO),WHO
+26,2016,Depressive disorders,758.3754,Eastern Mediterranean Region (WHO),WHO
+27,2017,Depressive disorders,756.77374,Eastern Mediterranean Region (WHO),WHO
+28,2018,Depressive disorders,757.5072,Eastern Mediterranean Region (WHO),WHO
+29,2019,Depressive disorders,760.52686,Eastern Mediterranean Region (WHO),WHO
+30,1990,Schizophrenia,163.86865,Eastern Mediterranean Region (WHO),WHO
+31,1991,Schizophrenia,163.82713,Eastern Mediterranean Region (WHO),WHO
+32,1992,Schizophrenia,163.65556,Eastern Mediterranean Region (WHO),WHO
+33,1993,Schizophrenia,163.46031,Eastern Mediterranean Region (WHO),WHO
+34,1994,Schizophrenia,163.39975,Eastern Mediterranean Region (WHO),WHO
+35,1995,Schizophrenia,163.31183,Eastern Mediterranean Region (WHO),WHO
+36,1996,Schizophrenia,163.30968,Eastern Mediterranean Region (WHO),WHO
+37,1997,Schizophrenia,163.2603,Eastern Mediterranean Region (WHO),WHO
+38,1998,Schizophrenia,163.17996,Eastern Mediterranean Region (WHO),WHO
+39,1999,Schizophrenia,163.27933,Eastern Mediterranean Region (WHO),WHO
+40,2000,Schizophrenia,163.17767,Eastern Mediterranean Region (WHO),WHO
+41,2001,Schizophrenia,163.11829,Eastern Mediterranean Region (WHO),WHO
+42,2002,Schizophrenia,163.069,Eastern Mediterranean Region (WHO),WHO
+43,2003,Schizophrenia,162.87958,Eastern Mediterranean Region (WHO),WHO
+44,2004,Schizophrenia,162.81714,Eastern Mediterranean Region (WHO),WHO
+45,2005,Schizophrenia,162.8122,Eastern Mediterranean Region (WHO),WHO
+46,2006,Schizophrenia,162.83208,Eastern Mediterranean Region (WHO),WHO
+47,2007,Schizophrenia,162.80055,Eastern Mediterranean Region (WHO),WHO
+48,2008,Schizophrenia,162.91641,Eastern Mediterranean Region (WHO),WHO
+49,2009,Schizophrenia,162.98047,Eastern Mediterranean Region (WHO),WHO
+50,2010,Schizophrenia,162.922,Eastern Mediterranean Region (WHO),WHO
+51,2011,Schizophrenia,162.91347,Eastern Mediterranean Region (WHO),WHO
+52,2012,Schizophrenia,162.88943,Eastern Mediterranean Region (WHO),WHO
+53,2013,Schizophrenia,162.82697,Eastern Mediterranean Region (WHO),WHO
+54,2014,Schizophrenia,162.80048,Eastern Mediterranean Region (WHO),WHO
+55,2015,Schizophrenia,162.73038,Eastern Mediterranean Region (WHO),WHO
+56,2016,Schizophrenia,162.68846,Eastern Mediterranean Region (WHO),WHO
+57,2017,Schizophrenia,162.61618,Eastern Mediterranean Region (WHO),WHO
+58,2018,Schizophrenia,162.553,Eastern Mediterranean Region (WHO),WHO
+59,2019,Schizophrenia,162.50323,Eastern Mediterranean Region (WHO),WHO
+60,1990,Bipolar disorder,138.64702,Eastern Mediterranean Region (WHO),WHO
+61,1991,Bipolar disorder,138.8247,Eastern Mediterranean Region (WHO),WHO
+62,1992,Bipolar disorder,138.96214,Eastern Mediterranean Region (WHO),WHO
+63,1993,Bipolar disorder,139.03809,Eastern Mediterranean Region (WHO),WHO
+64,1994,Bipolar disorder,139.18684,Eastern Mediterranean Region (WHO),WHO
+65,1995,Bipolar disorder,139.35158,Eastern Mediterranean Region (WHO),WHO
+66,1996,Bipolar disorder,139.41736,Eastern Mediterranean Region (WHO),WHO
+67,1997,Bipolar disorder,139.49417,Eastern Mediterranean Region (WHO),WHO
+68,1998,Bipolar disorder,139.60368,Eastern Mediterranean Region (WHO),WHO
+69,1999,Bipolar disorder,139.68199,Eastern Mediterranean Region (WHO),WHO
+70,2000,Bipolar disorder,139.80782,Eastern Mediterranean Region (WHO),WHO
+71,2001,Bipolar disorder,139.88261,Eastern Mediterranean Region (WHO),WHO
+72,2002,Bipolar disorder,139.93816,Eastern Mediterranean Region (WHO),WHO
+73,2003,Bipolar disorder,139.98228,Eastern Mediterranean Region (WHO),WHO
+74,2004,Bipolar disorder,140.11737,Eastern Mediterranean Region (WHO),WHO
+75,2005,Bipolar disorder,140.15709,Eastern Mediterranean Region (WHO),WHO
+76,2006,Bipolar disorder,140.20612,Eastern Mediterranean Region (WHO),WHO
+77,2007,Bipolar disorder,140.26134,Eastern Mediterranean Region (WHO),WHO
+78,2008,Bipolar disorder,140.30748,Eastern Mediterranean Region (WHO),WHO
+79,2009,Bipolar disorder,140.3024,Eastern Mediterranean Region (WHO),WHO
+80,2010,Bipolar disorder,140.2347,Eastern Mediterranean Region (WHO),WHO
+81,2011,Bipolar disorder,140.09132,Eastern Mediterranean Region (WHO),WHO
+82,2012,Bipolar disorder,139.93579,Eastern Mediterranean Region (WHO),WHO
+83,2013,Bipolar disorder,139.73694,Eastern Mediterranean Region (WHO),WHO
+84,2014,Bipolar disorder,139.52531,Eastern Mediterranean Region (WHO),WHO
+85,2015,Bipolar disorder,139.3139,Eastern Mediterranean Region (WHO),WHO
+86,2016,Bipolar disorder,139.07138,Eastern Mediterranean Region (WHO),WHO
+87,2017,Bipolar disorder,138.89323,Eastern Mediterranean Region (WHO),WHO
+88,2018,Bipolar disorder,138.61752,Eastern Mediterranean Region (WHO),WHO
+89,2019,Bipolar disorder,138.35562,Eastern Mediterranean Region (WHO),WHO
+90,1990,Eating disorders,32.425385,Eastern Mediterranean Region (WHO),WHO
+91,1991,Eating disorders,32.420967,Eastern Mediterranean Region (WHO),WHO
+92,1992,Eating disorders,32.343456,Eastern Mediterranean Region (WHO),WHO
+93,1993,Eating disorders,32.288162,Eastern Mediterranean Region (WHO),WHO
+94,1994,Eating disorders,32.286125,Eastern Mediterranean Region (WHO),WHO
+95,1995,Eating disorders,32.311222,Eastern Mediterranean Region (WHO),WHO
+96,1996,Eating disorders,32.359093,Eastern Mediterranean Region (WHO),WHO
+97,1997,Eating disorders,32.420116,Eastern Mediterranean Region (WHO),WHO
+98,1998,Eating disorders,32.503265,Eastern Mediterranean Region (WHO),WHO
+99,1999,Eating disorders,32.60678,Eastern Mediterranean Region (WHO),WHO
+100,2000,Eating disorders,32.725555,Eastern Mediterranean Region (WHO),WHO
+101,2001,Eating disorders,32.90219,Eastern Mediterranean Region (WHO),WHO
+102,2002,Eating disorders,33.152565,Eastern Mediterranean Region (WHO),WHO
+103,2003,Eating disorders,33.463978,Eastern Mediterranean Region (WHO),WHO
+104,2004,Eating disorders,33.795467,Eastern Mediterranean Region (WHO),WHO
+105,2005,Eating disorders,34.10552,Eastern Mediterranean Region (WHO),WHO
+106,2006,Eating disorders,34.44833,Eastern Mediterranean Region (WHO),WHO
+107,2007,Eating disorders,34.955498,Eastern Mediterranean Region (WHO),WHO
+108,2008,Eating disorders,35.449257,Eastern Mediterranean Region (WHO),WHO
+109,2009,Eating disorders,35.908916,Eastern Mediterranean Region (WHO),WHO
+110,2010,Eating disorders,36.187866,Eastern Mediterranean Region (WHO),WHO
+111,2011,Eating disorders,36.42039,Eastern Mediterranean Region (WHO),WHO
+112,2012,Eating disorders,36.66645,Eastern Mediterranean Region (WHO),WHO
+113,2013,Eating disorders,36.851784,Eastern Mediterranean Region (WHO),WHO
+114,2014,Eating disorders,37.03217,Eastern Mediterranean Region (WHO),WHO
+115,2015,Eating disorders,37.200443,Eastern Mediterranean Region (WHO),WHO
+116,2016,Eating disorders,37.437153,Eastern Mediterranean Region (WHO),WHO
+117,2017,Eating disorders,37.60498,Eastern Mediterranean Region (WHO),WHO
+118,2018,Eating disorders,37.59172,Eastern Mediterranean Region (WHO),WHO
+119,2019,Eating disorders,37.53447,Eastern Mediterranean Region (WHO),WHO
+120,1990,Anxiety disorders,440.1354,Eastern Mediterranean Region (WHO),WHO
+121,1991,Anxiety disorders,440.29022,Eastern Mediterranean Region (WHO),WHO
+122,1992,Anxiety disorders,440.09534,Eastern Mediterranean Region (WHO),WHO
+123,1993,Anxiety disorders,440.2058,Eastern Mediterranean Region (WHO),WHO
+124,1994,Anxiety disorders,440.5395,Eastern Mediterranean Region (WHO),WHO
+125,1995,Anxiety disorders,440.80432,Eastern Mediterranean Region (WHO),WHO
+126,1996,Anxiety disorders,440.2234,Eastern Mediterranean Region (WHO),WHO
+127,1997,Anxiety disorders,438.6584,Eastern Mediterranean Region (WHO),WHO
+128,1998,Anxiety disorders,436.96692,Eastern Mediterranean Region (WHO),WHO
+129,1999,Anxiety disorders,435.5583,Eastern Mediterranean Region (WHO),WHO
+130,2000,Anxiety disorders,435.02185,Eastern Mediterranean Region (WHO),WHO
+131,2001,Anxiety disorders,435.08823,Eastern Mediterranean Region (WHO),WHO
+132,2002,Anxiety disorders,435.27692,Eastern Mediterranean Region (WHO),WHO
+133,2003,Anxiety disorders,435.5587,Eastern Mediterranean Region (WHO),WHO
+134,2004,Anxiety disorders,435.74588,Eastern Mediterranean Region (WHO),WHO
+135,2005,Anxiety disorders,435.9869,Eastern Mediterranean Region (WHO),WHO
+136,2006,Anxiety disorders,437.277,Eastern Mediterranean Region (WHO),WHO
+137,2007,Anxiety disorders,440.15463,Eastern Mediterranean Region (WHO),WHO
+138,2008,Anxiety disorders,443.52145,Eastern Mediterranean Region (WHO),WHO
+139,2009,Anxiety disorders,446.35803,Eastern Mediterranean Region (WHO),WHO
+140,2010,Anxiety disorders,447.63727,Eastern Mediterranean Region (WHO),WHO
+141,2011,Anxiety disorders,447.69678,Eastern Mediterranean Region (WHO),WHO
+142,2012,Anxiety disorders,448.2455,Eastern Mediterranean Region (WHO),WHO
+143,2013,Anxiety disorders,448.9152,Eastern Mediterranean Region (WHO),WHO
+144,2014,Anxiety disorders,449.27893,Eastern Mediterranean Region (WHO),WHO
+145,2015,Anxiety disorders,449.0322,Eastern Mediterranean Region (WHO),WHO
+146,2016,Anxiety disorders,445.7549,Eastern Mediterranean Region (WHO),WHO
+147,2017,Anxiety disorders,442.41513,Eastern Mediterranean Region (WHO),WHO
+148,2018,Anxiety disorders,442.26068,Eastern Mediterranean Region (WHO),WHO
+149,2019,Anxiety disorders,443.31262,Eastern Mediterranean Region (WHO),WHO
+0,1990,Depressive disorders,632.8986,European Region (WHO),WHO
+1,1991,Depressive disorders,630.8523,European Region (WHO),WHO
+2,1992,Depressive disorders,629.05365,European Region (WHO),WHO
+3,1993,Depressive disorders,627.4437,European Region (WHO),WHO
+4,1994,Depressive disorders,626.1909,European Region (WHO),WHO
+5,1995,Depressive disorders,625.3688,European Region (WHO),WHO
+6,1996,Depressive disorders,625.2256,European Region (WHO),WHO
+7,1997,Depressive disorders,626.0286,European Region (WHO),WHO
+8,1998,Depressive disorders,626.9721,European Region (WHO),WHO
+9,1999,Depressive disorders,627.6271,European Region (WHO),WHO
+10,2000,Depressive disorders,627.47394,European Region (WHO),WHO
+11,2001,Depressive disorders,625.94806,European Region (WHO),WHO
+12,2002,Depressive disorders,623.3616,European Region (WHO),WHO
+13,2003,Depressive disorders,620.21747,European Region (WHO),WHO
+14,2004,Depressive disorders,617.0024,European Region (WHO),WHO
+15,2005,Depressive disorders,614.4,European Region (WHO),WHO
+16,2006,Depressive disorders,612.3966,European Region (WHO),WHO
+17,2007,Depressive disorders,610.7314,European Region (WHO),WHO
+18,2008,Depressive disorders,609.5778,European Region (WHO),WHO
+19,2009,Depressive disorders,608.7735,European Region (WHO),WHO
+20,2010,Depressive disorders,608.2617,European Region (WHO),WHO
+21,2011,Depressive disorders,608.0096,European Region (WHO),WHO
+22,2012,Depressive disorders,607.52637,European Region (WHO),WHO
+23,2013,Depressive disorders,606.9933,European Region (WHO),WHO
+24,2014,Depressive disorders,606.593,European Region (WHO),WHO
+25,2015,Depressive disorders,606.52136,European Region (WHO),WHO
+26,2016,Depressive disorders,605.6044,European Region (WHO),WHO
+27,2017,Depressive disorders,604.3271,European Region (WHO),WHO
+28,2018,Depressive disorders,604.2985,European Region (WHO),WHO
+29,2019,Depressive disorders,605.2331,European Region (WHO),WHO
+30,1990,Schizophrenia,176.43573,European Region (WHO),WHO
+31,1991,Schizophrenia,176.24464,European Region (WHO),WHO
+32,1992,Schizophrenia,176.09438,European Region (WHO),WHO
+33,1993,Schizophrenia,175.98714,European Region (WHO),WHO
+34,1994,Schizophrenia,175.8772,European Region (WHO),WHO
+35,1995,Schizophrenia,175.79164,European Region (WHO),WHO
+36,1996,Schizophrenia,175.74782,European Region (WHO),WHO
+37,1997,Schizophrenia,175.56403,European Region (WHO),WHO
+38,1998,Schizophrenia,175.46399,European Region (WHO),WHO
+39,1999,Schizophrenia,175.36195,European Region (WHO),WHO
+40,2000,Schizophrenia,175.32208,European Region (WHO),WHO
+41,2001,Schizophrenia,175.36588,European Region (WHO),WHO
+42,2002,Schizophrenia,175.49649,European Region (WHO),WHO
+43,2003,Schizophrenia,175.55417,European Region (WHO),WHO
+44,2004,Schizophrenia,175.70491,European Region (WHO),WHO
+45,2005,Schizophrenia,175.7894,European Region (WHO),WHO
+46,2006,Schizophrenia,175.94836,European Region (WHO),WHO
+47,2007,Schizophrenia,176.15111,European Region (WHO),WHO
+48,2008,Schizophrenia,176.3598,European Region (WHO),WHO
+49,2009,Schizophrenia,176.53972,European Region (WHO),WHO
+50,2010,Schizophrenia,176.67908,European Region (WHO),WHO
+51,2011,Schizophrenia,176.89006,European Region (WHO),WHO
+52,2012,Schizophrenia,177.20013,European Region (WHO),WHO
+53,2013,Schizophrenia,177.48619,European Region (WHO),WHO
+54,2014,Schizophrenia,177.77246,European Region (WHO),WHO
+55,2015,Schizophrenia,177.91121,European Region (WHO),WHO
+56,2016,Schizophrenia,177.95377,European Region (WHO),WHO
+57,2017,Schizophrenia,177.98917,European Region (WHO),WHO
+58,2018,Schizophrenia,177.4944,European Region (WHO),WHO
+59,2019,Schizophrenia,176.55606,European Region (WHO),WHO
+60,1990,Bipolar disorder,153.5706,European Region (WHO),WHO
+61,1991,Bipolar disorder,153.551,European Region (WHO),WHO
+62,1992,Bipolar disorder,153.51709,European Region (WHO),WHO
+63,1993,Bipolar disorder,153.52087,European Region (WHO),WHO
+64,1994,Bipolar disorder,153.52428,European Region (WHO),WHO
+65,1995,Bipolar disorder,153.55453,European Region (WHO),WHO
+66,1996,Bipolar disorder,153.59123,European Region (WHO),WHO
+67,1997,Bipolar disorder,153.58444,European Region (WHO),WHO
+68,1998,Bipolar disorder,153.54947,European Region (WHO),WHO
+69,1999,Bipolar disorder,153.5343,European Region (WHO),WHO
+70,2000,Bipolar disorder,153.61661,European Region (WHO),WHO
+71,2001,Bipolar disorder,153.75432,European Region (WHO),WHO
+72,2002,Bipolar disorder,153.91008,European Region (WHO),WHO
+73,2003,Bipolar disorder,154.20264,European Region (WHO),WHO
+74,2004,Bipolar disorder,154.4073,European Region (WHO),WHO
+75,2005,Bipolar disorder,154.61594,European Region (WHO),WHO
+76,2006,Bipolar disorder,154.80692,European Region (WHO),WHO
+77,2007,Bipolar disorder,154.95102,European Region (WHO),WHO
+78,2008,Bipolar disorder,155.10768,European Region (WHO),WHO
+79,2009,Bipolar disorder,155.32137,European Region (WHO),WHO
+80,2010,Bipolar disorder,155.55292,European Region (WHO),WHO
+81,2011,Bipolar disorder,155.69101,European Region (WHO),WHO
+82,2012,Bipolar disorder,155.87326,European Region (WHO),WHO
+83,2013,Bipolar disorder,156.07744,European Region (WHO),WHO
+84,2014,Bipolar disorder,156.19354,European Region (WHO),WHO
+85,2015,Bipolar disorder,156.3776,European Region (WHO),WHO
+86,2016,Bipolar disorder,156.4575,European Region (WHO),WHO
+87,2017,Bipolar disorder,156.53288,European Region (WHO),WHO
+88,2018,Bipolar disorder,156.5749,European Region (WHO),WHO
+89,2019,Bipolar disorder,156.62009,European Region (WHO),WHO
+90,1990,Eating disorders,55.88467,European Region (WHO),WHO
+91,1991,Eating disorders,55.848618,European Region (WHO),WHO
+92,1992,Eating disorders,55.815872,European Region (WHO),WHO
+93,1993,Eating disorders,55.765717,European Region (WHO),WHO
+94,1994,Eating disorders,55.67452,European Region (WHO),WHO
+95,1995,Eating disorders,55.564255,European Region (WHO),WHO
+96,1996,Eating disorders,55.478195,European Region (WHO),WHO
+97,1997,Eating disorders,55.436428,European Region (WHO),WHO
+98,1998,Eating disorders,55.422295,European Region (WHO),WHO
+99,1999,Eating disorders,55.521603,European Region (WHO),WHO
+100,2000,Eating disorders,55.688236,European Region (WHO),WHO
+101,2001,Eating disorders,56.00575,European Region (WHO),WHO
+102,2002,Eating disorders,56.49845,European Region (WHO),WHO
+103,2003,Eating disorders,57.044685,European Region (WHO),WHO
+104,2004,Eating disorders,57.61629,European Region (WHO),WHO
+105,2005,Eating disorders,58.110874,European Region (WHO),WHO
+106,2006,Eating disorders,58.660637,European Region (WHO),WHO
+107,2007,Eating disorders,59.304825,European Region (WHO),WHO
+108,2008,Eating disorders,60.00724,European Region (WHO),WHO
+109,2009,Eating disorders,60.6613,European Region (WHO),WHO
+110,2010,Eating disorders,61.21566,European Region (WHO),WHO
+111,2011,Eating disorders,61.701797,European Region (WHO),WHO
+112,2012,Eating disorders,62.147163,European Region (WHO),WHO
+113,2013,Eating disorders,62.602627,European Region (WHO),WHO
+114,2014,Eating disorders,63.0294,European Region (WHO),WHO
+115,2015,Eating disorders,63.476578,European Region (WHO),WHO
+116,2016,Eating disorders,64.13759,European Region (WHO),WHO
+117,2017,Eating disorders,64.693985,European Region (WHO),WHO
+118,2018,Eating disorders,65.03723,European Region (WHO),WHO
+119,2019,Eating disorders,65.312454,European Region (WHO),WHO
+120,1990,Anxiety disorders,407.09814,European Region (WHO),WHO
+121,1991,Anxiety disorders,406.5155,European Region (WHO),WHO
+122,1992,Anxiety disorders,405.86093,European Region (WHO),WHO
+123,1993,Anxiety disorders,405.20114,European Region (WHO),WHO
+124,1994,Anxiety disorders,404.49042,European Region (WHO),WHO
+125,1995,Anxiety disorders,403.8399,European Region (WHO),WHO
+126,1996,Anxiety disorders,403.13406,European Region (WHO),WHO
+127,1997,Anxiety disorders,402.29602,European Region (WHO),WHO
+128,1998,Anxiety disorders,401.67902,European Region (WHO),WHO
+129,1999,Anxiety disorders,401.15192,European Region (WHO),WHO
+130,2000,Anxiety disorders,400.96274,European Region (WHO),WHO
+131,2001,Anxiety disorders,401.1574,European Region (WHO),WHO
+132,2002,Anxiety disorders,401.55576,European Region (WHO),WHO
+133,2003,Anxiety disorders,402.16583,European Region (WHO),WHO
+134,2004,Anxiety disorders,402.99963,European Region (WHO),WHO
+135,2005,Anxiety disorders,403.86395,European Region (WHO),WHO
+136,2006,Anxiety disorders,405.4698,European Region (WHO),WHO
+137,2007,Anxiety disorders,408.2313,European Region (WHO),WHO
+138,2008,Anxiety disorders,411.32285,European Region (WHO),WHO
+139,2009,Anxiety disorders,413.9622,European Region (WHO),WHO
+140,2010,Anxiety disorders,415.51486,European Region (WHO),WHO
+141,2011,Anxiety disorders,416.3777,European Region (WHO),WHO
+142,2012,Anxiety disorders,417.41833,European Region (WHO),WHO
+143,2013,Anxiety disorders,418.40137,European Region (WHO),WHO
+144,2014,Anxiety disorders,419.2233,European Region (WHO),WHO
+145,2015,Anxiety disorders,419.4825,European Region (WHO),WHO
+146,2016,Anxiety disorders,418.72208,European Region (WHO),WHO
+147,2017,Anxiety disorders,417.8165,European Region (WHO),WHO
+148,2018,Anxiety disorders,416.87418,European Region (WHO),WHO
+149,2019,Anxiety disorders,415.4222,European Region (WHO),WHO
+0,1990,Depressive disorders,601.69977,Region of the Americas (WHO),WHO
+1,1991,Depressive disorders,610.3043,Region of the Americas (WHO),WHO
+2,1992,Depressive disorders,618.79816,Region of the Americas (WHO),WHO
+3,1993,Depressive disorders,626.8555,Region of the Americas (WHO),WHO
+4,1994,Depressive disorders,634.3197,Region of the Americas (WHO),WHO
+5,1995,Depressive disorders,640.77045,Region of the Americas (WHO),WHO
+6,1996,Depressive disorders,648.9924,Region of the Americas (WHO),WHO
+7,1997,Depressive disorders,659.9555,Region of the Americas (WHO),WHO
+8,1998,Depressive disorders,671.46533,Region of the Americas (WHO),WHO
+9,1999,Depressive disorders,681.00214,Region of the Americas (WHO),WHO
+10,2000,Depressive disorders,685.84045,Region of the Americas (WHO),WHO
+11,2001,Depressive disorders,687.2117,Region of the Americas (WHO),WHO
+12,2002,Depressive disorders,687.7057,Region of the Americas (WHO),WHO
+13,2003,Depressive disorders,687.7239,Region of the Americas (WHO),WHO
+14,2004,Depressive disorders,687.54504,Region of the Americas (WHO),WHO
+15,2005,Depressive disorders,687.2731,Region of the Americas (WHO),WHO
+16,2006,Depressive disorders,684.6094,Region of the Americas (WHO),WHO
+17,2007,Depressive disorders,678.49335,Region of the Americas (WHO),WHO
+18,2008,Depressive disorders,670.90546,Region of the Americas (WHO),WHO
+19,2009,Depressive disorders,664.04175,Region of the Americas (WHO),WHO
+20,2010,Depressive disorders,659.91254,Region of the Americas (WHO),WHO
+21,2011,Depressive disorders,656.918,Region of the Americas (WHO),WHO
+22,2012,Depressive disorders,652.51483,Region of the Americas (WHO),WHO
+23,2013,Depressive disorders,647.72736,Region of the Americas (WHO),WHO
+24,2014,Depressive disorders,643.5089,Region of the Americas (WHO),WHO
+25,2015,Depressive disorders,640.69476,Region of the Americas (WHO),WHO
+26,2016,Depressive disorders,639.05145,Region of the Americas (WHO),WHO
+27,2017,Depressive disorders,638.08344,Region of the Americas (WHO),WHO
+28,2018,Depressive disorders,637.9683,Region of the Americas (WHO),WHO
+29,2019,Depressive disorders,638.3914,Region of the Americas (WHO),WHO
+30,1990,Schizophrenia,217.39508,Region of the Americas (WHO),WHO
+31,1991,Schizophrenia,218.0777,Region of the Americas (WHO),WHO
+32,1992,Schizophrenia,218.67114,Region of the Americas (WHO),WHO
+33,1993,Schizophrenia,219.04367,Region of the Americas (WHO),WHO
+34,1994,Schizophrenia,219.2375,Region of the Americas (WHO),WHO
+35,1995,Schizophrenia,219.13503,Region of the Americas (WHO),WHO
+36,1996,Schizophrenia,218.85168,Region of the Americas (WHO),WHO
+37,1997,Schizophrenia,218.49425,Region of the Americas (WHO),WHO
+38,1998,Schizophrenia,218.12665,Region of the Americas (WHO),WHO
+39,1999,Schizophrenia,217.7551,Region of the Americas (WHO),WHO
+40,2000,Schizophrenia,217.43185,Region of the Americas (WHO),WHO
+41,2001,Schizophrenia,217.3866,Region of the Americas (WHO),WHO
+42,2002,Schizophrenia,217.75473,Region of the Americas (WHO),WHO
+43,2003,Schizophrenia,218.19455,Region of the Americas (WHO),WHO
+44,2004,Schizophrenia,218.59125,Region of the Americas (WHO),WHO
+45,2005,Schizophrenia,218.61894,Region of the Americas (WHO),WHO
+46,2006,Schizophrenia,218.45192,Region of the Americas (WHO),WHO
+47,2007,Schizophrenia,218.34093,Region of the Americas (WHO),WHO
+48,2008,Schizophrenia,218.18454,Region of the Americas (WHO),WHO
+49,2009,Schizophrenia,217.98044,Region of the Americas (WHO),WHO
+50,2010,Schizophrenia,217.65175,Region of the Americas (WHO),WHO
+51,2011,Schizophrenia,217.0138,Region of the Americas (WHO),WHO
+52,2012,Schizophrenia,216.0575,Region of the Americas (WHO),WHO
+53,2013,Schizophrenia,214.94164,Region of the Americas (WHO),WHO
+54,2014,Schizophrenia,213.85364,Region of the Americas (WHO),WHO
+55,2015,Schizophrenia,212.88396,Region of the Americas (WHO),WHO
+56,2016,Schizophrenia,211.43863,Region of the Americas (WHO),WHO
+57,2017,Schizophrenia,210.21631,Region of the Americas (WHO),WHO
+58,2018,Schizophrenia,209.80128,Region of the Americas (WHO),WHO
+59,2019,Schizophrenia,209.58156,Region of the Americas (WHO),WHO
+60,1990,Bipolar disorder,175.67899,Region of the Americas (WHO),WHO
+61,1991,Bipolar disorder,176.00304,Region of the Americas (WHO),WHO
+62,1992,Bipolar disorder,176.3452,Region of the Americas (WHO),WHO
+63,1993,Bipolar disorder,176.67671,Region of the Americas (WHO),WHO
+64,1994,Bipolar disorder,176.99637,Region of the Americas (WHO),WHO
+65,1995,Bipolar disorder,177.28825,Region of the Americas (WHO),WHO
+66,1996,Bipolar disorder,177.52629,Region of the Americas (WHO),WHO
+67,1997,Bipolar disorder,177.74657,Region of the Americas (WHO),WHO
+68,1998,Bipolar disorder,177.94841,Region of the Americas (WHO),WHO
+69,1999,Bipolar disorder,178.1488,Region of the Americas (WHO),WHO
+70,2000,Bipolar disorder,178.31656,Region of the Americas (WHO),WHO
+71,2001,Bipolar disorder,178.5958,Region of the Americas (WHO),WHO
+72,2002,Bipolar disorder,179.03667,Region of the Americas (WHO),WHO
+73,2003,Bipolar disorder,179.53708,Region of the Americas (WHO),WHO
+74,2004,Bipolar disorder,179.94505,Region of the Americas (WHO),WHO
+75,2005,Bipolar disorder,180.22069,Region of the Americas (WHO),WHO
+76,2006,Bipolar disorder,180.373,Region of the Americas (WHO),WHO
+77,2007,Bipolar disorder,180.54083,Region of the Americas (WHO),WHO
+78,2008,Bipolar disorder,180.68883,Region of the Americas (WHO),WHO
+79,2009,Bipolar disorder,180.82579,Region of the Americas (WHO),WHO
+80,2010,Bipolar disorder,181.00592,Region of the Americas (WHO),WHO
+81,2011,Bipolar disorder,181.13937,Region of the Americas (WHO),WHO
+82,2012,Bipolar disorder,181.22333,Region of the Americas (WHO),WHO
+83,2013,Bipolar disorder,181.35152,Region of the Americas (WHO),WHO
+84,2014,Bipolar disorder,181.50612,Region of the Americas (WHO),WHO
+85,2015,Bipolar disorder,181.60786,Region of the Americas (WHO),WHO
+86,2016,Bipolar disorder,181.6975,Region of the Americas (WHO),WHO
+87,2017,Bipolar disorder,181.74214,Region of the Americas (WHO),WHO
+88,2018,Bipolar disorder,181.81006,Region of the Americas (WHO),WHO
+89,2019,Bipolar disorder,181.90427,Region of the Americas (WHO),WHO
+90,1990,Eating disorders,61.008205,Region of the Americas (WHO),WHO
+91,1991,Eating disorders,61.944366,Region of the Americas (WHO),WHO
+92,1992,Eating disorders,62.77013,Region of the Americas (WHO),WHO
+93,1993,Eating disorders,63.374653,Region of the Americas (WHO),WHO
+94,1994,Eating disorders,63.773575,Region of the Americas (WHO),WHO
+95,1995,Eating disorders,63.837154,Region of the Americas (WHO),WHO
+96,1996,Eating disorders,63.71406,Region of the Americas (WHO),WHO
+97,1997,Eating disorders,63.568317,Region of the Americas (WHO),WHO
+98,1998,Eating disorders,63.367718,Region of the Americas (WHO),WHO
+99,1999,Eating disorders,63.23423,Region of the Americas (WHO),WHO
+100,2000,Eating disorders,63.11231,Region of the Americas (WHO),WHO
+101,2001,Eating disorders,63.113583,Region of the Americas (WHO),WHO
+102,2002,Eating disorders,63.23113,Region of the Americas (WHO),WHO
+103,2003,Eating disorders,63.361115,Region of the Americas (WHO),WHO
+104,2004,Eating disorders,63.497326,Region of the Americas (WHO),WHO
+105,2005,Eating disorders,63.59412,Region of the Americas (WHO),WHO
+106,2006,Eating disorders,63.764416,Region of the Americas (WHO),WHO
+107,2007,Eating disorders,64.012886,Region of the Americas (WHO),WHO
+108,2008,Eating disorders,64.32916,Region of the Americas (WHO),WHO
+109,2009,Eating disorders,64.616066,Region of the Americas (WHO),WHO
+110,2010,Eating disorders,64.828415,Region of the Americas (WHO),WHO
+111,2011,Eating disorders,64.711044,Region of the Americas (WHO),WHO
+112,2012,Eating disorders,64.263885,Region of the Americas (WHO),WHO
+113,2013,Eating disorders,63.692467,Region of the Americas (WHO),WHO
+114,2014,Eating disorders,63.245285,Region of the Americas (WHO),WHO
+115,2015,Eating disorders,63.111076,Region of the Americas (WHO),WHO
+116,2016,Eating disorders,63.4717,Region of the Americas (WHO),WHO
+117,2017,Eating disorders,63.834766,Region of the Americas (WHO),WHO
+118,2018,Eating disorders,63.88562,Region of the Americas (WHO),WHO
+119,2019,Eating disorders,63.81113,Region of the Americas (WHO),WHO
+120,1990,Anxiety disorders,470.6437,Region of the Americas (WHO),WHO
+121,1991,Anxiety disorders,471.72095,Region of the Americas (WHO),WHO
+122,1992,Anxiety disorders,473.0082,Region of the Americas (WHO),WHO
+123,1993,Anxiety disorders,474.35004,Region of the Americas (WHO),WHO
+124,1994,Anxiety disorders,475.63885,Region of the Americas (WHO),WHO
+125,1995,Anxiety disorders,476.55597,Region of the Americas (WHO),WHO
+126,1996,Anxiety disorders,484.4631,Region of the Americas (WHO),WHO
+127,1997,Anxiety disorders,502.4486,Region of the Americas (WHO),WHO
+128,1998,Anxiety disorders,524.19037,Region of the Americas (WHO),WHO
+129,1999,Anxiety disorders,543.62494,Region of the Americas (WHO),WHO
+130,2000,Anxiety disorders,554.6917,Region of the Americas (WHO),WHO
+131,2001,Anxiety disorders,558.5719,Region of the Americas (WHO),WHO
+132,2002,Anxiety disorders,560.62415,Region of the Americas (WHO),WHO
+133,2003,Anxiety disorders,561.1234,Region of the Americas (WHO),WHO
+134,2004,Anxiety disorders,560.3165,Region of the Americas (WHO),WHO
+135,2005,Anxiety disorders,558.4879,Region of the Americas (WHO),WHO
+136,2006,Anxiety disorders,555.85425,Region of the Americas (WHO),WHO
+137,2007,Anxiety disorders,552.8751,Region of the Americas (WHO),WHO
+138,2008,Anxiety disorders,549.7545,Region of the Americas (WHO),WHO
+139,2009,Anxiety disorders,546.63885,Region of the Americas (WHO),WHO
+140,2010,Anxiety disorders,543.8253,Region of the Americas (WHO),WHO
+141,2011,Anxiety disorders,537.622,Region of the Americas (WHO),WHO
+142,2012,Anxiety disorders,526.5939,Region of the Americas (WHO),WHO
+143,2013,Anxiety disorders,514.2072,Region of the Americas (WHO),WHO
+144,2014,Anxiety disorders,504.07138,Region of the Americas (WHO),WHO
+145,2015,Anxiety disorders,499.6722,Region of the Americas (WHO),WHO
+146,2016,Anxiety disorders,501.35822,Region of the Americas (WHO),WHO
+147,2017,Anxiety disorders,503.50644,Region of the Americas (WHO),WHO
+148,2018,Anxiety disorders,509.06613,Region of the Americas (WHO),WHO
+149,2019,Anxiety disorders,520.3447,Region of the Americas (WHO),WHO
+0,1990,Depressive disorders,618.50714,South-East Asia Region (WHO),WHO
+1,1991,Depressive disorders,637.63947,South-East Asia Region (WHO),WHO
+2,1992,Depressive disorders,654.2293,South-East Asia Region (WHO),WHO
+3,1993,Depressive disorders,667.46826,South-East Asia Region (WHO),WHO
+4,1994,Depressive disorders,676.4088,South-East Asia Region (WHO),WHO
+5,1995,Depressive disorders,679.95557,South-East Asia Region (WHO),WHO
+6,1996,Depressive disorders,678.8664,South-East Asia Region (WHO),WHO
+7,1997,Depressive disorders,675.4045,South-East Asia Region (WHO),WHO
+8,1998,Depressive disorders,671.26935,South-East Asia Region (WHO),WHO
+9,1999,Depressive disorders,667.88226,South-East Asia Region (WHO),WHO
+10,2000,Depressive disorders,666.7866,South-East Asia Region (WHO),WHO
+11,2001,Depressive disorders,669.28503,South-East Asia Region (WHO),WHO
+12,2002,Depressive disorders,674.3929,South-East Asia Region (WHO),WHO
+13,2003,Depressive disorders,680.3439,South-East Asia Region (WHO),WHO
+14,2004,Depressive disorders,685.2559,South-East Asia Region (WHO),WHO
+15,2005,Depressive disorders,687.0101,South-East Asia Region (WHO),WHO
+16,2006,Depressive disorders,675.6955,South-East Asia Region (WHO),WHO
+17,2007,Depressive disorders,649.2566,South-East Asia Region (WHO),WHO
+18,2008,Depressive disorders,617.7338,South-East Asia Region (WHO),WHO
+19,2009,Depressive disorders,591.1133,South-East Asia Region (WHO),WHO
+20,2010,Depressive disorders,579.1544,South-East Asia Region (WHO),WHO
+21,2011,Depressive disorders,578.3396,South-East Asia Region (WHO),WHO
+22,2012,Depressive disorders,578.2816,South-East Asia Region (WHO),WHO
+23,2013,Depressive disorders,578.6654,South-East Asia Region (WHO),WHO
+24,2014,Depressive disorders,579.1935,South-East Asia Region (WHO),WHO
+25,2015,Depressive disorders,579.4827,South-East Asia Region (WHO),WHO
+26,2016,Depressive disorders,579.50604,South-East Asia Region (WHO),WHO
+27,2017,Depressive disorders,579.392,South-East Asia Region (WHO),WHO
+28,2018,Depressive disorders,578.6019,South-East Asia Region (WHO),WHO
+29,2019,Depressive disorders,576.89874,South-East Asia Region (WHO),WHO
+30,1990,Schizophrenia,176.70047,South-East Asia Region (WHO),WHO
+31,1991,Schizophrenia,176.94408,South-East Asia Region (WHO),WHO
+32,1992,Schizophrenia,177.18227,South-East Asia Region (WHO),WHO
+33,1993,Schizophrenia,177.3186,South-East Asia Region (WHO),WHO
+34,1994,Schizophrenia,177.46213,South-East Asia Region (WHO),WHO
+35,1995,Schizophrenia,177.5324,South-East Asia Region (WHO),WHO
+36,1996,Schizophrenia,177.53784,South-East Asia Region (WHO),WHO
+37,1997,Schizophrenia,177.50362,South-East Asia Region (WHO),WHO
+38,1998,Schizophrenia,177.42961,South-East Asia Region (WHO),WHO
+39,1999,Schizophrenia,177.42435,South-East Asia Region (WHO),WHO
+40,2000,Schizophrenia,177.32942,South-East Asia Region (WHO),WHO
+41,2001,Schizophrenia,177.4209,South-East Asia Region (WHO),WHO
+42,2002,Schizophrenia,177.57385,South-East Asia Region (WHO),WHO
+43,2003,Schizophrenia,177.74925,South-East Asia Region (WHO),WHO
+44,2004,Schizophrenia,177.85237,South-East Asia Region (WHO),WHO
+45,2005,Schizophrenia,177.95068,South-East Asia Region (WHO),WHO
+46,2006,Schizophrenia,178.01978,South-East Asia Region (WHO),WHO
+47,2007,Schizophrenia,178.12698,South-East Asia Region (WHO),WHO
+48,2008,Schizophrenia,178.24475,South-East Asia Region (WHO),WHO
+49,2009,Schizophrenia,178.33275,South-East Asia Region (WHO),WHO
+50,2010,Schizophrenia,178.44894,South-East Asia Region (WHO),WHO
+51,2011,Schizophrenia,178.82915,South-East Asia Region (WHO),WHO
+52,2012,Schizophrenia,179.57443,South-East Asia Region (WHO),WHO
+53,2013,Schizophrenia,180.52377,South-East Asia Region (WHO),WHO
+54,2014,Schizophrenia,181.34406,South-East Asia Region (WHO),WHO
+55,2015,Schizophrenia,181.84694,South-East Asia Region (WHO),WHO
+56,2016,Schizophrenia,182.08945,South-East Asia Region (WHO),WHO
+57,2017,Schizophrenia,182.25883,South-East Asia Region (WHO),WHO
+58,2018,Schizophrenia,181.97154,South-East Asia Region (WHO),WHO
+59,2019,Schizophrenia,181.39734,South-East Asia Region (WHO),WHO
+60,1990,Bipolar disorder,73.927986,South-East Asia Region (WHO),WHO
+61,1991,Bipolar disorder,73.93146,South-East Asia Region (WHO),WHO
+62,1992,Bipolar disorder,73.93758,South-East Asia Region (WHO),WHO
+63,1993,Bipolar disorder,73.92544,South-East Asia Region (WHO),WHO
+64,1994,Bipolar disorder,73.913864,South-East Asia Region (WHO),WHO
+65,1995,Bipolar disorder,73.92421,South-East Asia Region (WHO),WHO
+66,1996,Bipolar disorder,73.95083,South-East Asia Region (WHO),WHO
+67,1997,Bipolar disorder,73.97245,South-East Asia Region (WHO),WHO
+68,1998,Bipolar disorder,73.998024,South-East Asia Region (WHO),WHO
+69,1999,Bipolar disorder,74.01651,South-East Asia Region (WHO),WHO
+70,2000,Bipolar disorder,74.02737,South-East Asia Region (WHO),WHO
+71,2001,Bipolar disorder,74.03639,South-East Asia Region (WHO),WHO
+72,2002,Bipolar disorder,74.03884,South-East Asia Region (WHO),WHO
+73,2003,Bipolar disorder,74.08681,South-East Asia Region (WHO),WHO
+74,2004,Bipolar disorder,74.12944,South-East Asia Region (WHO),WHO
+75,2005,Bipolar disorder,74.15119,South-East Asia Region (WHO),WHO
+76,2006,Bipolar disorder,74.19396,South-East Asia Region (WHO),WHO
+77,2007,Bipolar disorder,74.23308,South-East Asia Region (WHO),WHO
+78,2008,Bipolar disorder,74.27049,South-East Asia Region (WHO),WHO
+79,2009,Bipolar disorder,74.329475,South-East Asia Region (WHO),WHO
+80,2010,Bipolar disorder,74.338264,South-East Asia Region (WHO),WHO
+81,2011,Bipolar disorder,74.375145,South-East Asia Region (WHO),WHO
+82,2012,Bipolar disorder,74.36122,South-East Asia Region (WHO),WHO
+83,2013,Bipolar disorder,74.4168,South-East Asia Region (WHO),WHO
+84,2014,Bipolar disorder,74.430145,South-East Asia Region (WHO),WHO
+85,2015,Bipolar disorder,74.414406,South-East Asia Region (WHO),WHO
+86,2016,Bipolar disorder,74.4467,South-East Asia Region (WHO),WHO
+87,2017,Bipolar disorder,74.48566,South-East Asia Region (WHO),WHO
+88,2018,Bipolar disorder,74.48331,South-East Asia Region (WHO),WHO
+89,2019,Bipolar disorder,74.50426,South-East Asia Region (WHO),WHO
+90,1990,Eating disorders,18.00684,South-East Asia Region (WHO),WHO
+91,1991,Eating disorders,18.135054,South-East Asia Region (WHO),WHO
+92,1992,Eating disorders,18.274866,South-East Asia Region (WHO),WHO
+93,1993,Eating disorders,18.408749,South-East Asia Region (WHO),WHO
+94,1994,Eating disorders,18.534794,South-East Asia Region (WHO),WHO
+95,1995,Eating disorders,18.652414,South-East Asia Region (WHO),WHO
+96,1996,Eating disorders,18.76917,South-East Asia Region (WHO),WHO
+97,1997,Eating disorders,18.891306,South-East Asia Region (WHO),WHO
+98,1998,Eating disorders,19.025452,South-East Asia Region (WHO),WHO
+99,1999,Eating disorders,19.178762,South-East Asia Region (WHO),WHO
+100,2000,Eating disorders,19.338224,South-East Asia Region (WHO),WHO
+101,2001,Eating disorders,19.506205,South-East Asia Region (WHO),WHO
+102,2002,Eating disorders,19.695173,South-East Asia Region (WHO),WHO
+103,2003,Eating disorders,19.913712,South-East Asia Region (WHO),WHO
+104,2004,Eating disorders,20.144907,South-East Asia Region (WHO),WHO
+105,2005,Eating disorders,20.401701,South-East Asia Region (WHO),WHO
+106,2006,Eating disorders,20.678856,South-East Asia Region (WHO),WHO
+107,2007,Eating disorders,21.03675,South-East Asia Region (WHO),WHO
+108,2008,Eating disorders,21.43104,South-East Asia Region (WHO),WHO
+109,2009,Eating disorders,21.820024,South-East Asia Region (WHO),WHO
+110,2010,Eating disorders,22.216988,South-East Asia Region (WHO),WHO
+111,2011,Eating disorders,22.619978,South-East Asia Region (WHO),WHO
+112,2012,Eating disorders,23.057545,South-East Asia Region (WHO),WHO
+113,2013,Eating disorders,23.508615,South-East Asia Region (WHO),WHO
+114,2014,Eating disorders,23.992653,South-East Asia Region (WHO),WHO
+115,2015,Eating disorders,24.475546,South-East Asia Region (WHO),WHO
+116,2016,Eating disorders,25.093712,South-East Asia Region (WHO),WHO
+117,2017,Eating disorders,25.653423,South-East Asia Region (WHO),WHO
+118,2018,Eating disorders,26.051815,South-East Asia Region (WHO),WHO
+119,2019,Eating disorders,26.405592,South-East Asia Region (WHO),WHO
+120,1990,Anxiety disorders,292.12106,South-East Asia Region (WHO),WHO
+121,1991,Anxiety disorders,291.07663,South-East Asia Region (WHO),WHO
+122,1992,Anxiety disorders,289.85498,South-East Asia Region (WHO),WHO
+123,1993,Anxiety disorders,288.51886,South-East Asia Region (WHO),WHO
+124,1994,Anxiety disorders,287.15848,South-East Asia Region (WHO),WHO
+125,1995,Anxiety disorders,285.81244,South-East Asia Region (WHO),WHO
+126,1996,Anxiety disorders,283.31363,South-East Asia Region (WHO),WHO
+127,1997,Anxiety disorders,279.27994,South-East Asia Region (WHO),WHO
+128,1998,Anxiety disorders,274.89908,South-East Asia Region (WHO),WHO
+129,1999,Anxiety disorders,271.34964,South-East Asia Region (WHO),WHO
+130,2000,Anxiety disorders,269.94843,South-East Asia Region (WHO),WHO
+131,2001,Anxiety disorders,270.40125,South-East Asia Region (WHO),WHO
+132,2002,Anxiety disorders,271.49915,South-East Asia Region (WHO),WHO
+133,2003,Anxiety disorders,272.87997,South-East Asia Region (WHO),WHO
+134,2004,Anxiety disorders,274.35492,South-East Asia Region (WHO),WHO
+135,2005,Anxiety disorders,275.48737,South-East Asia Region (WHO),WHO
+136,2006,Anxiety disorders,277.7092,South-East Asia Region (WHO),WHO
+137,2007,Anxiety disorders,281.79636,South-East Asia Region (WHO),WHO
+138,2008,Anxiety disorders,286.51672,South-East Asia Region (WHO),WHO
+139,2009,Anxiety disorders,290.76212,South-East Asia Region (WHO),WHO
+140,2010,Anxiety disorders,293.25247,South-East Asia Region (WHO),WHO
+141,2011,Anxiety disorders,294.56378,South-East Asia Region (WHO),WHO
+142,2012,Anxiety disorders,295.836,South-East Asia Region (WHO),WHO
+143,2013,Anxiety disorders,297.00745,South-East Asia Region (WHO),WHO
+144,2014,Anxiety disorders,297.97498,South-East Asia Region (WHO),WHO
+145,2015,Anxiety disorders,298.71042,South-East Asia Region (WHO),WHO
+146,2016,Anxiety disorders,299.43008,South-East Asia Region (WHO),WHO
+147,2017,Anxiety disorders,299.78677,South-East Asia Region (WHO),WHO
+148,2018,Anxiety disorders,298.1771,South-East Asia Region (WHO),WHO
+149,2019,Anxiety disorders,294.39355,South-East Asia Region (WHO),WHO
+0,1990,Depressive disorders,453.68173,Western Pacific Region (WHO),WHO
+1,1991,Depressive disorders,461.1796,Western Pacific Region (WHO),WHO
+2,1992,Depressive disorders,466.82556,Western Pacific Region (WHO),WHO
+3,1993,Depressive disorders,470.47382,Western Pacific Region (WHO),WHO
+4,1994,Depressive disorders,472.00848,Western Pacific Region (WHO),WHO
+5,1995,Depressive disorders,471.43964,Western Pacific Region (WHO),WHO
+6,1996,Depressive disorders,467.3584,Western Pacific Region (WHO),WHO
+7,1997,Depressive disorders,459.80658,Western Pacific Region (WHO),WHO
+8,1998,Depressive disorders,450.9982,Western Pacific Region (WHO),WHO
+9,1999,Depressive disorders,442.98654,Western Pacific Region (WHO),WHO
+10,2000,Depressive disorders,437.9643,Western Pacific Region (WHO),WHO
+11,2001,Depressive disorders,436.07068,Western Pacific Region (WHO),WHO
+12,2002,Depressive disorders,435.28275,Western Pacific Region (WHO),WHO
+13,2003,Depressive disorders,434.95264,Western Pacific Region (WHO),WHO
+14,2004,Depressive disorders,434.31332,Western Pacific Region (WHO),WHO
+15,2005,Depressive disorders,432.58093,Western Pacific Region (WHO),WHO
+16,2006,Depressive disorders,428.7927,Western Pacific Region (WHO),WHO
+17,2007,Depressive disorders,423.11926,Western Pacific Region (WHO),WHO
+18,2008,Depressive disorders,417.24954,Western Pacific Region (WHO),WHO
+19,2009,Depressive disorders,412.61682,Western Pacific Region (WHO),WHO
+20,2010,Depressive disorders,410.5999,Western Pacific Region (WHO),WHO
+21,2011,Depressive disorders,411.42484,Western Pacific Region (WHO),WHO
+22,2012,Depressive disorders,413.72742,Western Pacific Region (WHO),WHO
+23,2013,Depressive disorders,416.62207,Western Pacific Region (WHO),WHO
+24,2014,Depressive disorders,419.31677,Western Pacific Region (WHO),WHO
+25,2015,Depressive disorders,420.85226,Western Pacific Region (WHO),WHO
+26,2016,Depressive disorders,420.626,Western Pacific Region (WHO),WHO
+27,2017,Depressive disorders,420.23874,Western Pacific Region (WHO),WHO
+28,2018,Depressive disorders,419.8523,Western Pacific Region (WHO),WHO
+29,2019,Depressive disorders,418.75793,Western Pacific Region (WHO),WHO
+30,1990,Schizophrenia,195.50438,Western Pacific Region (WHO),WHO
+31,1991,Schizophrenia,195.65117,Western Pacific Region (WHO),WHO
+32,1992,Schizophrenia,195.74298,Western Pacific Region (WHO),WHO
+33,1993,Schizophrenia,195.85172,Western Pacific Region (WHO),WHO
+34,1994,Schizophrenia,195.97108,Western Pacific Region (WHO),WHO
+35,1995,Schizophrenia,196.0435,Western Pacific Region (WHO),WHO
+36,1996,Schizophrenia,196.07852,Western Pacific Region (WHO),WHO
+37,1997,Schizophrenia,196.12358,Western Pacific Region (WHO),WHO
+38,1998,Schizophrenia,196.21199,Western Pacific Region (WHO),WHO
+39,1999,Schizophrenia,196.3052,Western Pacific Region (WHO),WHO
+40,2000,Schizophrenia,196.44603,Western Pacific Region (WHO),WHO
+41,2001,Schizophrenia,196.55013,Western Pacific Region (WHO),WHO
+42,2002,Schizophrenia,196.73326,Western Pacific Region (WHO),WHO
+43,2003,Schizophrenia,196.85333,Western Pacific Region (WHO),WHO
+44,2004,Schizophrenia,197.02155,Western Pacific Region (WHO),WHO
+45,2005,Schizophrenia,197.17699,Western Pacific Region (WHO),WHO
+46,2006,Schizophrenia,197.52205,Western Pacific Region (WHO),WHO
+47,2007,Schizophrenia,198.0101,Western Pacific Region (WHO),WHO
+48,2008,Schizophrenia,198.52719,Western Pacific Region (WHO),WHO
+49,2009,Schizophrenia,198.9437,Western Pacific Region (WHO),WHO
+50,2010,Schizophrenia,199.18216,Western Pacific Region (WHO),WHO
+51,2011,Schizophrenia,199.27402,Western Pacific Region (WHO),WHO
+52,2012,Schizophrenia,199.1229,Western Pacific Region (WHO),WHO
+53,2013,Schizophrenia,198.97508,Western Pacific Region (WHO),WHO
+54,2014,Schizophrenia,198.86261,Western Pacific Region (WHO),WHO
+55,2015,Schizophrenia,198.86104,Western Pacific Region (WHO),WHO
+56,2016,Schizophrenia,200.68613,Western Pacific Region (WHO),WHO
+57,2017,Schizophrenia,202.41843,Western Pacific Region (WHO),WHO
+58,2018,Schizophrenia,202.34982,Western Pacific Region (WHO),WHO
+59,2019,Schizophrenia,201.9551,Western Pacific Region (WHO),WHO
+60,1990,Bipolar disorder,56.982746,Western Pacific Region (WHO),WHO
+61,1991,Bipolar disorder,56.88617,Western Pacific Region (WHO),WHO
+62,1992,Bipolar disorder,56.812416,Western Pacific Region (WHO),WHO
+63,1993,Bipolar disorder,56.75695,Western Pacific Region (WHO),WHO
+64,1994,Bipolar disorder,56.688072,Western Pacific Region (WHO),WHO
+65,1995,Bipolar disorder,56.616955,Western Pacific Region (WHO),WHO
+66,1996,Bipolar disorder,56.539608,Western Pacific Region (WHO),WHO
+67,1997,Bipolar disorder,56.45868,Western Pacific Region (WHO),WHO
+68,1998,Bipolar disorder,56.368004,Western Pacific Region (WHO),WHO
+69,1999,Bipolar disorder,56.25512,Western Pacific Region (WHO),WHO
+70,2000,Bipolar disorder,56.14716,Western Pacific Region (WHO),WHO
+71,2001,Bipolar disorder,56.087147,Western Pacific Region (WHO),WHO
+72,2002,Bipolar disorder,56.081913,Western Pacific Region (WHO),WHO
+73,2003,Bipolar disorder,56.09018,Western Pacific Region (WHO),WHO
+74,2004,Bipolar disorder,56.102646,Western Pacific Region (WHO),WHO
+75,2005,Bipolar disorder,56.057484,Western Pacific Region (WHO),WHO
+76,2006,Bipolar disorder,55.957752,Western Pacific Region (WHO),WHO
+77,2007,Bipolar disorder,55.85086,Western Pacific Region (WHO),WHO
+78,2008,Bipolar disorder,55.72417,Western Pacific Region (WHO),WHO
+79,2009,Bipolar disorder,55.64397,Western Pacific Region (WHO),WHO
+80,2010,Bipolar disorder,55.619293,Western Pacific Region (WHO),WHO
+81,2011,Bipolar disorder,55.60749,Western Pacific Region (WHO),WHO
+82,2012,Bipolar disorder,55.60247,Western Pacific Region (WHO),WHO
+83,2013,Bipolar disorder,55.592907,Western Pacific Region (WHO),WHO
+84,2014,Bipolar disorder,55.6057,Western Pacific Region (WHO),WHO
+85,2015,Bipolar disorder,55.64497,Western Pacific Region (WHO),WHO
+86,2016,Bipolar disorder,55.654392,Western Pacific Region (WHO),WHO
+87,2017,Bipolar disorder,55.66302,Western Pacific Region (WHO),WHO
+88,2018,Bipolar disorder,55.70925,Western Pacific Region (WHO),WHO
+89,2019,Bipolar disorder,55.75972,Western Pacific Region (WHO),WHO
+90,1990,Eating disorders,21.795855,Western Pacific Region (WHO),WHO
+91,1991,Eating disorders,21.885593,Western Pacific Region (WHO),WHO
+92,1992,Eating disorders,21.993425,Western Pacific Region (WHO),WHO
+93,1993,Eating disorders,22.099625,Western Pacific Region (WHO),WHO
+94,1994,Eating disorders,22.20026,Western Pacific Region (WHO),WHO
+95,1995,Eating disorders,22.324299,Western Pacific Region (WHO),WHO
+96,1996,Eating disorders,22.487806,Western Pacific Region (WHO),WHO
+97,1997,Eating disorders,22.653498,Western Pacific Region (WHO),WHO
+98,1998,Eating disorders,22.830233,Western Pacific Region (WHO),WHO
+99,1999,Eating disorders,23.00324,Western Pacific Region (WHO),WHO
+100,2000,Eating disorders,23.169405,Western Pacific Region (WHO),WHO
+101,2001,Eating disorders,23.404781,Western Pacific Region (WHO),WHO
+102,2002,Eating disorders,23.677479,Western Pacific Region (WHO),WHO
+103,2003,Eating disorders,23.991743,Western Pacific Region (WHO),WHO
+104,2004,Eating disorders,24.324978,Western Pacific Region (WHO),WHO
+105,2005,Eating disorders,24.670702,Western Pacific Region (WHO),WHO
+106,2006,Eating disorders,25.001501,Western Pacific Region (WHO),WHO
+107,2007,Eating disorders,25.403872,Western Pacific Region (WHO),WHO
+108,2008,Eating disorders,25.832373,Western Pacific Region (WHO),WHO
+109,2009,Eating disorders,26.288414,Western Pacific Region (WHO),WHO
+110,2010,Eating disorders,26.750679,Western Pacific Region (WHO),WHO
+111,2011,Eating disorders,27.214663,Western Pacific Region (WHO),WHO
+112,2012,Eating disorders,27.698872,Western Pacific Region (WHO),WHO
+113,2013,Eating disorders,28.202936,Western Pacific Region (WHO),WHO
+114,2014,Eating disorders,28.757486,Western Pacific Region (WHO),WHO
+115,2015,Eating disorders,29.339031,Western Pacific Region (WHO),WHO
+116,2016,Eating disorders,30.142656,Western Pacific Region (WHO),WHO
+117,2017,Eating disorders,30.820532,Western Pacific Region (WHO),WHO
+118,2018,Eating disorders,31.227842,Western Pacific Region (WHO),WHO
+119,2019,Eating disorders,31.507093,Western Pacific Region (WHO),WHO
+120,1990,Anxiety disorders,330.5374,Western Pacific Region (WHO),WHO
+121,1991,Anxiety disorders,330.3376,Western Pacific Region (WHO),WHO
+122,1992,Anxiety disorders,330.2167,Western Pacific Region (WHO),WHO
+123,1993,Anxiety disorders,330.2169,Western Pacific Region (WHO),WHO
+124,1994,Anxiety disorders,330.22552,Western Pacific Region (WHO),WHO
+125,1995,Anxiety disorders,330.3697,Western Pacific Region (WHO),WHO
+126,1996,Anxiety disorders,331.65344,Western Pacific Region (WHO),WHO
+127,1997,Anxiety disorders,334.5206,Western Pacific Region (WHO),WHO
+128,1998,Anxiety disorders,337.7637,Western Pacific Region (WHO),WHO
+129,1999,Anxiety disorders,340.2075,Western Pacific Region (WHO),WHO
+130,2000,Anxiety disorders,340.6392,Western Pacific Region (WHO),WHO
+131,2001,Anxiety disorders,337.53876,Western Pacific Region (WHO),WHO
+132,2002,Anxiety disorders,331.52112,Western Pacific Region (WHO),WHO
+133,2003,Anxiety disorders,324.3642,Western Pacific Region (WHO),WHO
+134,2004,Anxiety disorders,318.13443,Western Pacific Region (WHO),WHO
+135,2005,Anxiety disorders,314.7797,Western Pacific Region (WHO),WHO
+136,2006,Anxiety disorders,313.96774,Western Pacific Region (WHO),WHO
+137,2007,Anxiety disorders,313.74005,Western Pacific Region (WHO),WHO
+138,2008,Anxiety disorders,313.81784,Western Pacific Region (WHO),WHO
+139,2009,Anxiety disorders,313.75006,Western Pacific Region (WHO),WHO
+140,2010,Anxiety disorders,313.2295,Western Pacific Region (WHO),WHO
+141,2011,Anxiety disorders,311.68915,Western Pacific Region (WHO),WHO
+142,2012,Anxiety disorders,309.13074,Western Pacific Region (WHO),WHO
+143,2013,Anxiety disorders,306.52676,Western Pacific Region (WHO),WHO
+144,2014,Anxiety disorders,304.5846,Western Pacific Region (WHO),WHO
+145,2015,Anxiety disorders,304.187,Western Pacific Region (WHO),WHO
+146,2016,Anxiety disorders,308.16577,Western Pacific Region (WHO),WHO
+147,2017,Anxiety disorders,312.3138,Western Pacific Region (WHO),WHO
+148,2018,Anxiety disorders,312.01123,Western Pacific Region (WHO),WHO
+149,2019,Anxiety disorders,309.40515,Western Pacific Region (WHO),WHO

@@ -1,0 +1,151 @@
+,Year,Disorder,DALYs,Region,Source
+0,1990,Depressive disorders,632.9080263461539,European Region,Average
+1,1991,Depressive disorders,630.8110121153846,European Region,Average
+2,1992,Depressive disorders,628.9196751923076,European Region,Average
+3,1993,Depressive disorders,627.2039651923077,European Region,Average
+4,1994,Depressive disorders,625.7415598076923,European Region,Average
+5,1995,Depressive disorders,624.6072298076923,European Region,Average
+6,1996,Depressive disorders,624.1531325,European Region,Average
+7,1997,Depressive disorders,624.5504905769232,European Region,Average
+8,1998,Depressive disorders,625.0464048076924,European Region,Average
+9,1999,Depressive disorders,625.1285811538462,European Region,Average
+10,2000,Depressive disorders,624.1287211538461,European Region,Average
+11,2001,Depressive disorders,621.1064861538463,European Region,Average
+12,2002,Depressive disorders,616.2998207692308,European Region,Average
+13,2003,Depressive disorders,610.7615026923078,European Region,Average
+14,2004,Depressive disorders,605.5425676923077,European Region,Average
+15,2005,Depressive disorders,601.8585934615385,European Region,Average
+16,2006,Depressive disorders,599.2208148076924,European Region,Average
+17,2007,Depressive disorders,596.5966799999999,European Region,Average
+18,2008,Depressive disorders,594.2760103846153,European Region,Average
+19,2009,Depressive disorders,592.2522886538461,European Region,Average
+20,2010,Depressive disorders,590.639565,European Region,Average
+21,2011,Depressive disorders,588.8149859615386,European Region,Average
+22,2012,Depressive disorders,586.064699423077,European Region,Average
+23,2013,Depressive disorders,583.1627251923078,European Region,Average
+24,2014,Depressive disorders,580.8060624999999,European Region,Average
+25,2015,Depressive disorders,579.7036653846154,European Region,Average
+26,2016,Depressive disorders,580.3860532692307,European Region,Average
+27,2017,Depressive disorders,581.3578423076923,European Region,Average
+28,2018,Depressive disorders,582.5187063461539,European Region,Average
+29,2019,Depressive disorders,584.6880284615385,European Region,Average
+30,1990,Schizophrenia,179.47146634615385,European Region,Average
+31,1991,Schizophrenia,179.2063005769231,European Region,Average
+32,1992,Schizophrenia,179.02685288461538,European Region,Average
+33,1993,Schizophrenia,178.88471211538462,European Region,Average
+34,1994,Schizophrenia,178.71898750000003,European Region,Average
+35,1995,Schizophrenia,178.66638980769227,European Region,Average
+36,1996,Schizophrenia,178.60420942307695,European Region,Average
+37,1997,Schizophrenia,178.56792403846154,European Region,Average
+38,1998,Schizophrenia,178.58329211538464,European Region,Average
+39,1999,Schizophrenia,178.59957192307695,European Region,Average
+40,2000,Schizophrenia,178.62659615384615,European Region,Average
+41,2001,Schizophrenia,178.69654288461535,European Region,Average
+42,2002,Schizophrenia,178.81397884615387,European Region,Average
+43,2003,Schizophrenia,178.91536326923077,European Region,Average
+44,2004,Schizophrenia,179.07953269230768,European Region,Average
+45,2005,Schizophrenia,179.16141307692308,European Region,Average
+46,2006,Schizophrenia,179.35858269230766,European Region,Average
+47,2007,Schizophrenia,179.59927192307694,European Region,Average
+48,2008,Schizophrenia,179.8824892307692,European Region,Average
+49,2009,Schizophrenia,180.15064019230766,European Region,Average
+50,2010,Schizophrenia,180.3270496153846,European Region,Average
+51,2011,Schizophrenia,180.48121576923074,European Region,Average
+52,2012,Schizophrenia,180.76028634615383,European Region,Average
+53,2013,Schizophrenia,181.01002980769232,European Region,Average
+54,2014,Schizophrenia,181.23010769230768,European Region,Average
+55,2015,Schizophrenia,181.37364711538464,European Region,Average
+56,2016,Schizophrenia,181.46644423076924,European Region,Average
+57,2017,Schizophrenia,181.58202442307692,European Region,Average
+58,2018,Schizophrenia,181.2417959615385,European Region,Average
+59,2019,Schizophrenia,180.56034423076923,European Region,Average
+60,1990,Bipolar disorder,153.3974677692308,European Region,Average
+61,1991,Bipolar disorder,153.4201723846154,European Region,Average
+62,1992,Bipolar disorder,153.40839067307692,European Region,Average
+63,1993,Bipolar disorder,153.41194784615385,European Region,Average
+64,1994,Bipolar disorder,153.42442190384617,European Region,Average
+65,1995,Bipolar disorder,153.41693313461536,European Region,Average
+66,1996,Bipolar disorder,153.43845259615384,European Region,Average
+67,1997,Bipolar disorder,153.4415475,European Region,Average
+68,1998,Bipolar disorder,153.45939215384615,European Region,Average
+69,1999,Bipolar disorder,153.44841682692305,European Region,Average
+70,2000,Bipolar disorder,153.46789998076923,European Region,Average
+71,2001,Bipolar disorder,153.4999423653846,European Region,Average
+72,2002,Bipolar disorder,153.54807151923075,European Region,Average
+73,2003,Bipolar disorder,153.63430471153845,European Region,Average
+74,2004,Bipolar disorder,153.68981628846154,European Region,Average
+75,2005,Bipolar disorder,153.70250626923078,European Region,Average
+76,2006,Bipolar disorder,153.68586523076922,European Region,Average
+77,2007,Bipolar disorder,153.70653121153848,European Region,Average
+78,2008,Bipolar disorder,153.72331478846155,European Region,Average
+79,2009,Bipolar disorder,153.7647596153846,European Region,Average
+80,2010,Bipolar disorder,153.78869398076924,European Region,Average
+81,2011,Bipolar disorder,153.81089688461537,European Region,Average
+82,2012,Bipolar disorder,153.82940692307693,European Region,Average
+83,2013,Bipolar disorder,153.85656238461536,European Region,Average
+84,2014,Bipolar disorder,153.88588830769228,European Region,Average
+85,2015,Bipolar disorder,153.90195653846152,European Region,Average
+86,2016,Bipolar disorder,153.81942750000002,European Region,Average
+87,2017,Bipolar disorder,153.815672,European Region,Average
+88,2018,Bipolar disorder,153.7903913653846,European Region,Average
+89,2019,Bipolar disorder,153.76617951923077,European Region,Average
+90,1990,Eating disorders,56.05445886538462,European Region,Average
+91,1991,Eating disorders,55.98117298076923,European Region,Average
+92,1992,Eating disorders,55.96193417307692,European Region,Average
+93,1993,Eating disorders,56.00010615384615,European Region,Average
+94,1994,Eating disorders,56.06547011538461,European Region,Average
+95,1995,Eating disorders,56.15696132692308,European Region,Average
+96,1996,Eating disorders,56.33464682692307,European Region,Average
+97,1997,Eating disorders,56.56153878846155,European Region,Average
+98,1998,Eating disorders,56.83865211538461,European Region,Average
+99,1999,Eating disorders,57.177926096153854,European Region,Average
+100,2000,Eating disorders,57.560809923076924,European Region,Average
+101,2001,Eating disorders,58.06661130769232,European Region,Average
+102,2002,Eating disorders,58.71146700961538,European Region,Average
+103,2003,Eating disorders,59.401992673076926,European Region,Average
+104,2004,Eating disorders,60.05975082692308,European Region,Average
+105,2005,Eating disorders,60.62158834615385,European Region,Average
+106,2006,Eating disorders,61.13866609615385,European Region,Average
+107,2007,Eating disorders,61.67833207692308,European Region,Average
+108,2008,Eating disorders,62.240206596153854,European Region,Average
+109,2009,Eating disorders,62.77020932692308,European Region,Average
+110,2010,Eating disorders,63.21154771153845,European Region,Average
+111,2011,Eating disorders,63.58367242307692,European Region,Average
+112,2012,Eating disorders,63.91603751923076,European Region,Average
+113,2013,Eating disorders,64.22555392307693,European Region,Average
+114,2014,Eating disorders,64.53380467307693,European Region,Average
+115,2015,Eating disorders,64.8294426923077,European Region,Average
+116,2016,Eating disorders,65.3677456153846,European Region,Average
+117,2017,Eating disorders,65.8737103076923,European Region,Average
+118,2018,Eating disorders,66.2114953076923,European Region,Average
+119,2019,Eating disorders,66.57536175,European Region,Average
+120,1990,Anxiety disorders,411.0491271153846,European Region,Average
+121,1991,Anxiety disorders,411.3833975000001,European Region,Average
+122,1992,Anxiety disorders,411.62875057692315,European Region,Average
+123,1993,Anxiety disorders,411.79110846153856,European Region,Average
+124,1994,Anxiety disorders,411.82383115384613,European Region,Average
+125,1995,Anxiety disorders,411.8160148076922,European Region,Average
+126,1996,Anxiety disorders,411.3174767307692,European Region,Average
+127,1997,Anxiety disorders,410.3269286538461,European Region,Average
+128,1998,Anxiety disorders,409.26018307692317,European Region,Average
+129,1999,Anxiety disorders,408.299283076923,European Region,Average
+130,2000,Anxiety disorders,407.8956028846154,European Region,Average
+131,2001,Anxiety disorders,407.9165146153846,European Region,Average
+132,2002,Anxiety disorders,407.9660817307692,European Region,Average
+133,2003,Anxiety disorders,408.0575190384615,European Region,Average
+134,2004,Anxiety disorders,408.2386009615384,European Region,Average
+135,2005,Anxiety disorders,408.51295557692305,European Region,Average
+136,2006,Anxiety disorders,409.452395,European Region,Average
+137,2007,Anxiety disorders,411.3583226923077,European Region,Average
+138,2008,Anxiety disorders,413.6705069230769,European Region,Average
+139,2009,Anxiety disorders,415.59191288461534,European Region,Average
+140,2010,Anxiety disorders,416.6428232692307,European Region,Average
+141,2011,Anxiety disorders,417.16609096153843,European Region,Average
+142,2012,Anxiety disorders,417.85175980769236,European Region,Average
+143,2013,Anxiety disorders,418.53901826923084,European Region,Average
+144,2014,Anxiety disorders,419.0697711538461,European Region,Average
+145,2015,Anxiety disorders,419.1931463461539,European Region,Average
+146,2016,Anxiety disorders,418.3729723076923,European Region,Average
+147,2017,Anxiety disorders,417.50806384615396,European Region,Average
+148,2018,Anxiety disorders,417.07771653846146,European Region,Average
+149,2019,Anxiety disorders,416.42246211538463,European Region,Average

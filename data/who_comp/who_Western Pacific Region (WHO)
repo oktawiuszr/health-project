@@ -1,0 +1,151 @@
+,Year,Disorder,DALYs,Region,Source
+0,1990,Depressive disorders,453.68173,Western Pacific Region (WHO),WHO
+1,1991,Depressive disorders,461.1796,Western Pacific Region (WHO),WHO
+2,1992,Depressive disorders,466.82556,Western Pacific Region (WHO),WHO
+3,1993,Depressive disorders,470.47382,Western Pacific Region (WHO),WHO
+4,1994,Depressive disorders,472.00848,Western Pacific Region (WHO),WHO
+5,1995,Depressive disorders,471.43964,Western Pacific Region (WHO),WHO
+6,1996,Depressive disorders,467.3584,Western Pacific Region (WHO),WHO
+7,1997,Depressive disorders,459.80658,Western Pacific Region (WHO),WHO
+8,1998,Depressive disorders,450.9982,Western Pacific Region (WHO),WHO
+9,1999,Depressive disorders,442.98654,Western Pacific Region (WHO),WHO
+10,2000,Depressive disorders,437.9643,Western Pacific Region (WHO),WHO
+11,2001,Depressive disorders,436.07068,Western Pacific Region (WHO),WHO
+12,2002,Depressive disorders,435.28275,Western Pacific Region (WHO),WHO
+13,2003,Depressive disorders,434.95264,Western Pacific Region (WHO),WHO
+14,2004,Depressive disorders,434.31332,Western Pacific Region (WHO),WHO
+15,2005,Depressive disorders,432.58093,Western Pacific Region (WHO),WHO
+16,2006,Depressive disorders,428.7927,Western Pacific Region (WHO),WHO
+17,2007,Depressive disorders,423.11926,Western Pacific Region (WHO),WHO
+18,2008,Depressive disorders,417.24954,Western Pacific Region (WHO),WHO
+19,2009,Depressive disorders,412.61682,Western Pacific Region (WHO),WHO
+20,2010,Depressive disorders,410.5999,Western Pacific Region (WHO),WHO
+21,2011,Depressive disorders,411.42484,Western Pacific Region (WHO),WHO
+22,2012,Depressive disorders,413.72742,Western Pacific Region (WHO),WHO
+23,2013,Depressive disorders,416.62207,Western Pacific Region (WHO),WHO
+24,2014,Depressive disorders,419.31677,Western Pacific Region (WHO),WHO
+25,2015,Depressive disorders,420.85226,Western Pacific Region (WHO),WHO
+26,2016,Depressive disorders,420.626,Western Pacific Region (WHO),WHO
+27,2017,Depressive disorders,420.23874,Western Pacific Region (WHO),WHO
+28,2018,Depressive disorders,419.8523,Western Pacific Region (WHO),WHO
+29,2019,Depressive disorders,418.75793,Western Pacific Region (WHO),WHO
+30,1990,Schizophrenia,195.50438,Western Pacific Region (WHO),WHO
+31,1991,Schizophrenia,195.65117,Western Pacific Region (WHO),WHO
+32,1992,Schizophrenia,195.74298,Western Pacific Region (WHO),WHO
+33,1993,Schizophrenia,195.85172,Western Pacific Region (WHO),WHO
+34,1994,Schizophrenia,195.97108,Western Pacific Region (WHO),WHO
+35,1995,Schizophrenia,196.0435,Western Pacific Region (WHO),WHO
+36,1996,Schizophrenia,196.07852,Western Pacific Region (WHO),WHO
+37,1997,Schizophrenia,196.12358,Western Pacific Region (WHO),WHO
+38,1998,Schizophrenia,196.21199,Western Pacific Region (WHO),WHO
+39,1999,Schizophrenia,196.3052,Western Pacific Region (WHO),WHO
+40,2000,Schizophrenia,196.44603,Western Pacific Region (WHO),WHO
+41,2001,Schizophrenia,196.55013,Western Pacific Region (WHO),WHO
+42,2002,Schizophrenia,196.73326,Western Pacific Region (WHO),WHO
+43,2003,Schizophrenia,196.85333,Western Pacific Region (WHO),WHO
+44,2004,Schizophrenia,197.02155,Western Pacific Region (WHO),WHO
+45,2005,Schizophrenia,197.17699,Western Pacific Region (WHO),WHO
+46,2006,Schizophrenia,197.52205,Western Pacific Region (WHO),WHO
+47,2007,Schizophrenia,198.0101,Western Pacific Region (WHO),WHO
+48,2008,Schizophrenia,198.52719,Western Pacific Region (WHO),WHO
+49,2009,Schizophrenia,198.9437,Western Pacific Region (WHO),WHO
+50,2010,Schizophrenia,199.18216,Western Pacific Region (WHO),WHO
+51,2011,Schizophrenia,199.27402,Western Pacific Region (WHO),WHO
+52,2012,Schizophrenia,199.1229,Western Pacific Region (WHO),WHO
+53,2013,Schizophrenia,198.97508,Western Pacific Region (WHO),WHO
+54,2014,Schizophrenia,198.86261,Western Pacific Region (WHO),WHO
+55,2015,Schizophrenia,198.86104,Western Pacific Region (WHO),WHO
+56,2016,Schizophrenia,200.68613,Western Pacific Region (WHO),WHO
+57,2017,Schizophrenia,202.41843,Western Pacific Region (WHO),WHO
+58,2018,Schizophrenia,202.34982,Western Pacific Region (WHO),WHO
+59,2019,Schizophrenia,201.9551,Western Pacific Region (WHO),WHO
+60,1990,Bipolar disorder,56.982746,Western Pacific Region (WHO),WHO
+61,1991,Bipolar disorder,56.88617,Western Pacific Region (WHO),WHO
+62,1992,Bipolar disorder,56.812416,Western Pacific Region (WHO),WHO
+63,1993,Bipolar disorder,56.75695,Western Pacific Region (WHO),WHO
+64,1994,Bipolar disorder,56.688072,Western Pacific Region (WHO),WHO
+65,1995,Bipolar disorder,56.616955,Western Pacific Region (WHO),WHO
+66,1996,Bipolar disorder,56.539608,Western Pacific Region (WHO),WHO
+67,1997,Bipolar disorder,56.45868,Western Pacific Region (WHO),WHO
+68,1998,Bipolar disorder,56.368004,Western Pacific Region (WHO),WHO
+69,1999,Bipolar disorder,56.25512,Western Pacific Region (WHO),WHO
+70,2000,Bipolar disorder,56.14716,Western Pacific Region (WHO),WHO
+71,2001,Bipolar disorder,56.087147,Western Pacific Region (WHO),WHO
+72,2002,Bipolar disorder,56.081913,Western Pacific Region (WHO),WHO
+73,2003,Bipolar disorder,56.09018,Western Pacific Region (WHO),WHO
+74,2004,Bipolar disorder,56.102646,Western Pacific Region (WHO),WHO
+75,2005,Bipolar disorder,56.057484,Western Pacific Region (WHO),WHO
+76,2006,Bipolar disorder,55.957752,Western Pacific Region (WHO),WHO
+77,2007,Bipolar disorder,55.85086,Western Pacific Region (WHO),WHO
+78,2008,Bipolar disorder,55.72417,Western Pacific Region (WHO),WHO
+79,2009,Bipolar disorder,55.64397,Western Pacific Region (WHO),WHO
+80,2010,Bipolar disorder,55.619293,Western Pacific Region (WHO),WHO
+81,2011,Bipolar disorder,55.60749,Western Pacific Region (WHO),WHO
+82,2012,Bipolar disorder,55.60247,Western Pacific Region (WHO),WHO
+83,2013,Bipolar disorder,55.592907,Western Pacific Region (WHO),WHO
+84,2014,Bipolar disorder,55.6057,Western Pacific Region (WHO),WHO
+85,2015,Bipolar disorder,55.64497,Western Pacific Region (WHO),WHO
+86,2016,Bipolar disorder,55.654392,Western Pacific Region (WHO),WHO
+87,2017,Bipolar disorder,55.66302,Western Pacific Region (WHO),WHO
+88,2018,Bipolar disorder,55.70925,Western Pacific Region (WHO),WHO
+89,2019,Bipolar disorder,55.75972,Western Pacific Region (WHO),WHO
+90,1990,Eating disorders,21.795855,Western Pacific Region (WHO),WHO
+91,1991,Eating disorders,21.885593,Western Pacific Region (WHO),WHO
+92,1992,Eating disorders,21.993425,Western Pacific Region (WHO),WHO
+93,1993,Eating disorders,22.099625,Western Pacific Region (WHO),WHO
+94,1994,Eating disorders,22.20026,Western Pacific Region (WHO),WHO
+95,1995,Eating disorders,22.324299,Western Pacific Region (WHO),WHO
+96,1996,Eating disorders,22.487806,Western Pacific Region (WHO),WHO
+97,1997,Eating disorders,22.653498,Western Pacific Region (WHO),WHO
+98,1998,Eating disorders,22.830233,Western Pacific Region (WHO),WHO
+99,1999,Eating disorders,23.00324,Western Pacific Region (WHO),WHO
+100,2000,Eating disorders,23.169405,Western Pacific Region (WHO),WHO
+101,2001,Eating disorders,23.404781,Western Pacific Region (WHO),WHO
+102,2002,Eating disorders,23.677479,Western Pacific Region (WHO),WHO
+103,2003,Eating disorders,23.991743,Western Pacific Region (WHO),WHO
+104,2004,Eating disorders,24.324978,Western Pacific Region (WHO),WHO
+105,2005,Eating disorders,24.670702,Western Pacific Region (WHO),WHO
+106,2006,Eating disorders,25.001501,Western Pacific Region (WHO),WHO
+107,2007,Eating disorders,25.403872,Western Pacific Region (WHO),WHO
+108,2008,Eating disorders,25.832373,Western Pacific Region (WHO),WHO
+109,2009,Eating disorders,26.288414,Western Pacific Region (WHO),WHO
+110,2010,Eating disorders,26.750679,Western Pacific Region (WHO),WHO
+111,2011,Eating disorders,27.214663,Western Pacific Region (WHO),WHO
+112,2012,Eating disorders,27.698872,Western Pacific Region (WHO),WHO
+113,2013,Eating disorders,28.202936,Western Pacific Region (WHO),WHO
+114,2014,Eating disorders,28.757486,Western Pacific Region (WHO),WHO
+115,2015,Eating disorders,29.339031,Western Pacific Region (WHO),WHO
+116,2016,Eating disorders,30.142656,Western Pacific Region (WHO),WHO
+117,2017,Eating disorders,30.820532,Western Pacific Region (WHO),WHO
+118,2018,Eating disorders,31.227842,Western Pacific Region (WHO),WHO
+119,2019,Eating disorders,31.507093,Western Pacific Region (WHO),WHO
+120,1990,Anxiety disorders,330.5374,Western Pacific Region (WHO),WHO
+121,1991,Anxiety disorders,330.3376,Western Pacific Region (WHO),WHO
+122,1992,Anxiety disorders,330.2167,Western Pacific Region (WHO),WHO
+123,1993,Anxiety disorders,330.2169,Western Pacific Region (WHO),WHO
+124,1994,Anxiety disorders,330.22552,Western Pacific Region (WHO),WHO
+125,1995,Anxiety disorders,330.3697,Western Pacific Region (WHO),WHO
+126,1996,Anxiety disorders,331.65344,Western Pacific Region (WHO),WHO
+127,1997,Anxiety disorders,334.5206,Western Pacific Region (WHO),WHO
+128,1998,Anxiety disorders,337.7637,Western Pacific Region (WHO),WHO
+129,1999,Anxiety disorders,340.2075,Western Pacific Region (WHO),WHO
+130,2000,Anxiety disorders,340.6392,Western Pacific Region (WHO),WHO
+131,2001,Anxiety disorders,337.53876,Western Pacific Region (WHO),WHO
+132,2002,Anxiety disorders,331.52112,Western Pacific Region (WHO),WHO
+133,2003,Anxiety disorders,324.3642,Western Pacific Region (WHO),WHO
+134,2004,Anxiety disorders,318.13443,Western Pacific Region (WHO),WHO
+135,2005,Anxiety disorders,314.7797,Western Pacific Region (WHO),WHO
+136,2006,Anxiety disorders,313.96774,Western Pacific Region (WHO),WHO
+137,2007,Anxiety disorders,313.74005,Western Pacific Region (WHO),WHO
+138,2008,Anxiety disorders,313.81784,Western Pacific Region (WHO),WHO
+139,2009,Anxiety disorders,313.75006,Western Pacific Region (WHO),WHO
+140,2010,Anxiety disorders,313.2295,Western Pacific Region (WHO),WHO
+141,2011,Anxiety disorders,311.68915,Western Pacific Region (WHO),WHO
+142,2012,Anxiety disorders,309.13074,Western Pacific Region (WHO),WHO
+143,2013,Anxiety disorders,306.52676,Western Pacific Region (WHO),WHO
+144,2014,Anxiety disorders,304.5846,Western Pacific Region (WHO),WHO
+145,2015,Anxiety disorders,304.187,Western Pacific Region (WHO),WHO
+146,2016,Anxiety disorders,308.16577,Western Pacific Region (WHO),WHO
+147,2017,Anxiety disorders,312.3138,Western Pacific Region (WHO),WHO
+148,2018,Anxiety disorders,312.01123,Western Pacific Region (WHO),WHO
+149,2019,Anxiety disorders,309.40515,Western Pacific Region (WHO),WHO
