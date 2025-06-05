@@ -2,12 +2,12 @@ Mental Health Disorder occurences, and burden of disease in Poland, its neighbor
 
 This project analyzes mental health and burden evoked by disorder in Poland, across neighbor ountries, Europe, and WHO regions, using Jupyter notebooks and open datasets.
 
-#Overview
+# Overview
 
 This project explores comparative occurence and burden metrics (DAILYs) in Poland, Europe, and WHO regions. Depics changes in occurene of disorders(Depressive Disorders, Anxienty Disorders, Eating Disordes, Bipolar Disorders, Schizophrenia) It includes data wrangling, visualization, and relevant insights. Designed for analysts, researchers, and data-curious folks.
 
 
-##Project Sctructure
+## Project Sctructure
 
 ```bash
 scripts/
@@ -22,10 +22,10 @@ scripts/
     2c_best_sectrum_to_map.ipynb #Exstraction of burden of disorder for WHO region, which is European Region. Some statistics experiments to find disorder which the most various, smooth, and intresting data (+data standarization,plots for standarization). Comparison variation, standard deviation, and value of entropy for each disorder(all years). Geneartion of heat map plots (map of Europe), which shows DALYs for each disorder in 2019 year.
     2z_ploys.ipynb #Geretates heatmap plots for each disorder, which compares values of DALYs for Poland and its neighbor countries over time 1990-2019, and heatmap plots which compare calulated maunally average for each WHO regions, and compares it which data  for WHO regions included in database.
 ```
-# data source
+# Data source
 https://www.kaggle.com/datasets/imtkaggleteam/mental-health/data
 
-# key insights
+# Key insights
 
 A) Occurence of mental disorder
 Most common disores are Anxiety and Depresive disorder. Anxitety disorders dominate in Brazil, Portugal, and New Zeland. Depressive disorders dominate in Uganda, Palestine, and Greenland.
@@ -70,7 +70,7 @@ Countries of Europe(map):
 For Schizophrenia, Anxiety, and Eating disorders the values of DALYs for Central-South-East Europe are different to rest of Europe.
 
 
-# future work
+# Future work
 Corellation of income and disorder
 Changes of occurance of disorder over time for Europe.
 Changes of burden of disorder over time for Europe.
