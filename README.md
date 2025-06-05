@@ -71,9 +71,10 @@ For Schizophrenia, Anxiety, and Eating disorders the values of DALYs for Central
 
 
 # Future work
-> Corellation of income and disorder
-> Changes of occurance of disorder over time for Europe.
-> Changes of burden of disorder over time for Europe.
++ Corellation of income and disorder
+
++ Changes of occurance of disorder over time for Europe.
++ Changes of burden of disorder over time for Europe.
 
 ---
 
