@@ -63,16 +63,16 @@ The  Anxiety disorders are the least common in Uzbekistan, Vietnam and Mongolia;
 - Schizoprenia burden is higest in Region of the Americas, and Western PAcific Region. The lowest values are in African Region, and Eastern Mediterranean Region. For all WHO regions exept Region of Americas, the burden raises.
 
 ### Countries of Europe(map):
--Anxiety Disorders, Eating disorders and Bipolar disorder are more burdensome in west part of Europe.
--Depressive disorders are the least burdensome in Poland.
--Schizophrenia is the most burdensome in Irleand and Netherlands, and tle least burdensome in UK.
+- Anxiety Disorders, Eating disorders and Bipolar disorder are more burdensome in west part of Europe.
+- Depressive disorders are the least burdensome in Poland.
+- Schizophrenia is the most burdensome in Irleand and Netherlands, and tle least burdensome in UK.
 
 For Schizophrenia, Anxiety, and Eating disorders the values of DALYs for Central-South-East Europe are different to rest of Europe.
 
 
 # Future work
-- Corellation of income and disorder
-* Changes of occurance of disorder over time for Europe.
+> Corellation of income and disorder
+> Changes of occurance of disorder over time for Europe.
 > Changes of burden of disorder over time for Europe.
 
 ---
