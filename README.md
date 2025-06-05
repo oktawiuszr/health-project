@@ -34,7 +34,7 @@ The higerst occurence for bipolar disorder is for New Zeland and Australia, for 
 The  Anxiety disorders are the least common in Uzbekistan, Vietnam and Mongolia; Depressive disorders in Japan, Singapore, South korea and Bruinei;  Schizophrenia in Mozambique, Central African Repulic and Somalia; Bipolar disorder in North Korea and China; Eating disorders in Cambodia, Myanmar and Sonalia.
 
 ### In Poland:
--Anxiety disorder  is observed rapid descrease of occurence of the disorder since 2010 to 2017.
+- Anxiety disorder  is observed rapid descrease of occurence of the disorder since 2010 to 2017.
 - Number of Bipolar disorder occurences constantly desreases since 1993 to 2019
 -Number of Eating disorders occurence increases sine 1993 to 2019.
 - Occurence for Schizophrenia (relatively) drasticly increases since 1990 to 2019
@@ -59,7 +59,7 @@ The  Anxiety disorders are the least common in Uzbekistan, Vietnam and Mongolia;
 - Anxiety disorder burden is high in Region of Americas, where the value were raising since 1999 to 2004. The region with the lowest DALYs is South-East Asia Region.
 -Bipolar disorder burden is higest for Region of Americas, Eastern Mediterranean Redion, and European Region and lowest for Western Pacific Region and South-East Asia Region.
 - Depresive disorders has the higest values of DALYs for African, and Eastern Mediterranean Redion. The lowest values are represtanted by Western Pacific Region. For African Region, Region of Americas, South-East Asia Region, and Western Pacific Region values of burden were rasing since 1990-1994 to 2002-2004, what is opposite for Eastern Mediterranean Region, European Region, and Region of Americas.
--Eating disorders burden is higest in Region of Americas, and European Region. The burden is lowest in South-East Asia Region, African Region, and Western Pacific Region. The value of burden for the disorder rises in every WHO region.
+- Eating disorders burden is higest in Region of Americas, and European Region. The burden is lowest in South-East Asia Region, African Region, and Western Pacific Region. The value of burden for the disorder rises in every WHO region.
 - Schizoprenia burden is higest in Region of the Americas, and Western PAcific Region. The lowest values are in African Region, and Eastern Mediterranean Region. For all WHO regions exept Region of Americas, the burden raises.
 
 ### Countries of Europe(map):
@@ -71,9 +71,9 @@ For Schizophrenia, Anxiety, and Eating disorders the values of DALYs for Central
 
 
 # Future work
-Corellation of income and disorder
-Changes of occurance of disorder over time for Europe.
-Changes of burden of disorder over time for Europe.
+- Corellation of income and disorder
+* Changes of occurance of disorder over time for Europe.
+> Changes of burden of disorder over time for Europe.
 
 ---
 
